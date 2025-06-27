@@ -1,0 +1,38 @@
+{
+  "type": "character",
+  "name": "Izana Skovlund II",
+  "callsign": "Oracular",
+  "age": "Mid-30s",
+  "gender": "Female",
+  "homeworld": "Unknown (publicly undisclosed, believed to be within UEE space)",
+  "appearance": {
+    "hair": "Silver-blue, shoulder-length",
+    "eyes": "Pale blue, almost silver",
+    "height": "178 cm",
+    "build": "Athletic, graceful",
+    "clothing": "Dark blue robes with silver trim, always wears a glowing Vegvísir pendant"
+  },
+  "affiliation": "Wayfinder (Leader)",
+  "skills": [
+    "Quantum cartography",
+    "Linguistics and xenoarchaeology",
+    "Strategic operations",
+    "Psychological insight",
+    "Cryptologic navigation"
+  ],
+  "personality": [
+    "Insightful",
+    "Stoic",
+    "Empathetic",
+    "Visionary"
+  ],
+  "backstory": "Born into a lineage long steeped in mysticism, astronomy, and coded history, Izana Skovlund II is a direct descendant of the original founder of Wayfinder. Though much of her youth remains classified within the organization’s archives, it is known that she was initiated into Wayfinder's higher rites before adulthood. She emerged during a time of great upheaval in the outer systems, stepping forward not as a warrior, but as a pathmaker—one who could see beyond immediate crises to long-term destiny.\n\nAssuming the title of Oracular, she restructured Wayfinder as both a sanctuary and a compass. Though firmly committed to nonpartisan exploration, she is no pacifist. Izana has led her people through threats both known and veiled, and her actions in unknown systems have been whispered about by independent explorers and UEE field agents alike. Many believe she is more than a leader—perhaps a seer whose dreams are not dreams at all, but coordinates in waiting.",
+  "notable_actions": [
+    "Unified scattered Wayfinder enclaves under a central code",
+    "Recovered lost navigation data from a derelict pre-Messer probe",
+    "Brokered ceasefire during the Tyrell Drift conflict between rival surveyor guilds",
+    "Mapped several previously untraceable microjump corridors",
+    "Reinstated the ceremonial rites of the original Wayfinder doctrine"
+  ],
+  "image_url": "https://raw.githubusercontent.com/youruser/Wayfinder/main/assets/portraits/izana_skovlund_ii.png"
+}

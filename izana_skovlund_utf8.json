@@ -1,0 +1,38 @@
+{
+  "type": "character",
+  "name": "Izana Skovlund",
+  "callsign": "The Seer of Midnight Meridian",
+  "age": "Deceased (lived c. 1840–1912)",
+  "gender": "Female",
+  "homeworld": "Norway, Earth (Sol System)",
+  "appearance": {
+    "hair": "Dark brown, often worn in braids",
+    "eyes": "Hazel",
+    "height": "165 cm",
+    "build": "Lean and sharp-featured",
+    "clothing": "Nordic woolen coats, layered skirts, and silver pendants carved with runes and cosmological symbols"
+  },
+  "affiliation": "Founder of the Wayfinder Society (precursor to the modern organization)",
+  "skills": [
+    "Stellar observation",
+    "Runic symbology",
+    "Cartographic prophecy",
+    "Esoteric philosophy",
+    "Historical preservation"
+  ],
+  "personality": [
+    "Reclusive",
+    "Visionary",
+    "Scholarly",
+    "Resolute"
+  ],
+  "backstory": "Izana Skovlund was a 19th-century Nordic mystic, astronomer, and academic exile. Following the death of her family under mysterious circumstances tied to a failed Arctic expedition, Izana withdrew from public life and turned her focus to the esoteric. She began to combine Norse cosmology with newly emerging astronomical discoveries, postulating that the Viking myths were not just cultural stories but encoded navigational systems. Her work was ridiculed by mainstream academia, but she continued publishing through private channels.\n\nIn 1876, she founded a secret society—later to be known as the Wayfinder Collective—drawing in rogue astronomers, explorers, and philosophers who believed that knowledge itself was the true frontier. Though Wayfinder remained obscure during her lifetime, her teachings endured. After her death in 1912, her followers carried her ashes to a cliffside shrine carved with the Vegvísir and dedicated to the great World Tree.\n\nGenerations later, Izana would be remembered not only as the founder of a movement, but as a woman whose insight spanned centuries. In modern UEE archives, her name appears only in passing—on the margins of scanned tomes, in footnotes of lost lectures. Yet among Wayfinders, she is revered as The Seer of the Midnight Meridian—the one who charted the stars from Earth before humanity ever left it.",
+  "notable_actions": [
+    "Founded the Wayfinder Collective in 1876",
+    "Developed the Meridian Codex — a hybrid stellar-runic system",
+    "Mapped celestial anomalies that would later correspond to known jump points",
+    "Preserved pre-industrial Norse navigational tools and mythos through esoteric manuscripts",
+    "Mentored early members whose families carried the Wayfinder doctrine into the space age"
+  ],
+  "image_url": "https://raw.githubusercontent.com/youruser/Wayfinder/main/assets/portraits/izana_skovlund.png"
+}
