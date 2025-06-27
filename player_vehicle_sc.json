@@ -1,0 +1,22 @@
+{
+  "__comment": "This is a player-made record for a spaceship in Star Citizen. 'customizations' can include modifications, colors, decals, etc. 'notable_events' is a list of key story moments this ship has experienced. 'registry' may reflect where it was first logged or identified (e.g., Stanton, Terra).",
+  "version": "1.0.0",
+  "created_at": 0,
+  "modified_at": 0,
+  "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "type": "vehicle",
+  "name": "",
+  "model": "",
+  "manufacturer": "",
+  "serial_number": "",
+  "registry": "",
+  "current_owner": "",
+  "previous_owners": [],
+  "assigned_crew": [],
+  "organization": "",
+  "history": "",
+  "notable_events": [],
+  "customizations": [],
+  "condition": "operational",
+  "status": "active"
+}

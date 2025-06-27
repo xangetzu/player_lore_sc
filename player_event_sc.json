@@ -1,0 +1,20 @@
+{
+  "__comment": "This is a fictional captain's log used for player-made adventures. 'summary' is a short synopsis. 'log_entry' can be a rich in-universe narrative. Use 'tags' for topics like exploration, salvage, combat. 'related_figures' might reference characters or NPCs involved.",
+  "version": "1.0.0",
+  "created_at": 0,
+  "modified_at": 0,
+  "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "type": "captains_log",
+  "name": "",
+  "entry_title": "",
+  "entry_date": "2955-06-27",
+  "captain": "",
+  "ship": "",
+  "location": "",
+  "organization": "",
+  "summary": "",
+  "log_entry": "",
+  "tags": [],
+  "related_figures": [],
+  "related_events": []
+}

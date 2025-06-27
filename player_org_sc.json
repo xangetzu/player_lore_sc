@@ -1,0 +1,60 @@
+{
+  "__comment": "This is a record for a player made organization in Star Citizen",
+  "version": "1.0.0",
+  "created_at": "1719420200",
+  "modified_at": "1719516242",
+  "uuid": "81e650c2-4c27-4d77-9f18-79362a1f032b",
+  "type": "organization",
+  "name": "",
+  "spectrum_id": "",
+  "attributes": {
+    "archetype":"",
+    "founded": "",
+    "home_system": "",
+    "headquarters":"",
+    "alignment": "",
+    "focus": [
+    ],
+    "symbolism": "", 
+    "theme": "",
+    "philosophy": "",
+    "logo_url": "",
+    "color_branding":[
+    ]
+  },
+  "structure": {
+    "ranks": {
+      "rank0":"",
+      "rank1":"",
+      "rank2":"",
+      "rank3":"",
+      "rank4":"",
+      "rank5":""
+    },
+    "roles": {
+      "founder":"",
+      "officer":"",
+      "recruitment":"",
+      "marketing":""
+    },
+  },
+  "notable_figures": [
+    {
+      "name": "",
+      "role": "",
+      "title":"",
+      "joined":"",
+      "status":"",
+      "image_url":""
+    }
+  ],
+  "narrative": {
+    "motto":"",
+    "manifesto": "",
+    "charter": "",
+    "public_rules":[
+    ],
+    "short_history": "",
+    "long_history": ""
+  }
+}
