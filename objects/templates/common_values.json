@@ -1,0 +1,43 @@
+{
+  "__comment": "This is a player-made record for commonvalues to use in lore creation for Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template.",
+  "version": "1.0.0",
+  "uuid": "a239c01c-2824-4b84-a4eb-41a76541fe2d",
+  "created_at": 1724879761,
+  "modified_at": 1724879761,
+  "type": "common_values",
+  "data": {
+    "affiliation": {
+      "status": [
+        "visible",
+        "redacted",
+        "hidden"
+      ]
+    },
+    "attributes": {
+      "archetype": [
+        "Organization",
+        "Corporation",
+        "PMC",
+        "Faith",
+        "Syndicate",
+        "Club"
+      ],
+      "focus": [
+        "Bounty Hunting",
+        "Engineering",
+        "Exploration",
+        "Freelancing",
+        "Infiltration",
+        "Medical",
+        "Piracy",
+        "Resources",
+        "scouting",
+        "Security",
+        "smuggling",
+        "Social",
+        "Trade",
+        "Transport"
+      ]
+    }
+  }
+}

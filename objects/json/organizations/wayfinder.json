@@ -8,19 +8,17 @@
   "name": "Wayfinder",
   "spectrum_id": "WAYFIND",
   "attributes": {
-    "archetype":"",
+    "archetype":"Faith",
     "founded": "1876",
     "home_system": "Stanton System",
     "headquarters":"Orison, Crusader",
     "alignment": "Neutral-exploratory, with a capacity for defensive and protective operations",
-    "focus": [
-    ],
+    "focus": ["Exploration", "Freelancing"],
     "symbolism": "The Vegvísir (Viking Compass) and Yggdrasil (World Tree) symbolizing navigation, destiny, and cosmic interconnectedness.", 
     "theme": "Viking exploration, spiritual navigation, and cosmic discovery",
     "philosophy": "To explore the unknown, chart the unseen, and illuminate the hidden truths of the universe without disrupting its natural balance.",
     "logo_url": "",
-    "color_branding":[
-    ]
+    "color_branding":["Deep Space Blue (#0D1B2A to #14213D range)", "Frosted Cyan-Steel Blue (#4C91A6 to #5CA8C1 range)", "Muted Slate Gray (#2E3C48 range)"]
   },
   "structure": {
     "ranks": {
