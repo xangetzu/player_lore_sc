@@ -1,0 +1,29 @@
+{
+  "__comment": "",
+  "version": "1.0.0",
+  "created_at": 0,
+  "modified_at": 0,
+  "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "type": "character",
+  "name": "",
+  "callsign": "",
+  "age": "",
+  "gender": "",
+  "homeworld": "",
+  "appearance": {
+    "hair": "",
+    "eyes": "",
+    "height": "",
+    "build": "",
+    "clothing": ""
+  },
+  "affiliation": "",
+  "skills": [
+  ],
+  "personality": [
+  ],
+  "backstory": "",
+  "notable_actions": [
+  ],
+  "image_url": ""
+}
