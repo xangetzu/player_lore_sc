@@ -13,14 +13,12 @@
     "home_system": "",
     "headquarters":"",
     "alignment": "",
-    "focus": [
-    ],
+    "focus": [],
     "symbolism": "", 
     "theme": "",
     "philosophy": "",
     "logo_url": "",
-    "color_branding":[
-    ]
+    "color_branding":[]
   },
   "structure": {
     "ranks": {
@@ -56,6 +54,5 @@
     "short_history": "",
     "long_history": ""
   },
-  "tags": [
-  ]
+  "tags": []
 }

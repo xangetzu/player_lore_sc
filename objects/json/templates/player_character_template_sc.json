@@ -11,10 +11,8 @@
     "age": "",
     "gender": "",
     "homeworld": "",
-    "personality":[
-    ],
-    "skills": [
-    ],
+    "personality":[],
+    "skills": [],
     "profile_image_url":""
   },
   "appearance": {
@@ -41,11 +39,8 @@
   "narrative": {
     "short_history":"",
     "long_history": "",
-    "favorite_quotes":[
-    ],
-    "notable_actions":[
-    ]
+    "favorite_quotes":[],
+    "notable_actions":[]
   },
-  "tags": [
-  ] 
+  "tags": [] 
 }
