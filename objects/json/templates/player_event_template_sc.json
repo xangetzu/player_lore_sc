@@ -1,20 +1,30 @@
 {
-  "__comment": "This is a fictional captain's log used for player-made adventures. 'summary' is a short synopsis. 'log_entry' can be a rich in-universe narrative. Use 'tags' for topics like exploration, salvage, combat. 'related_figures' might reference characters or NPCs involved.",
+  "__comment": "This is a fictional captain's log used for player-made adventures. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the captain, vehicle, organization, and mission. 'narrative' includes a short and long summary of the log, related characters, organizations, vehicles, events, and the log entry itself. 'tags' can be used for categorization or themes.",
   "version": "1.0.0",
   "created_at": 0,
   "modified_at": 0,
   "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
   "type": "captains_log",
   "name": "",
-  "entry_title": "",
-  "entry_date": "2955-06-27",
-  "captain": "",
-  "ship": "",
-  "location": "",
-  "organization": "",
-  "summary": "",
-  "log_entry": "",
-  "tags": [],
-  "related_figures": [],
-  "related_events": []
+  "attributes": {
+    "captain_name": "",
+    "vehicle_name": "",
+    "organization": "",
+    "location": "",
+    "mission_type": "",
+    "mission_status": "",
+    "location_coordinates": "",
+    "date_time": ""
+  },
+  "narrative": {
+    "short_summary": "",
+    "long_summary": "",
+    "related_characters": [],
+    "related_organizations": [],
+    "related_vehicles": [],
+    "related_events": [],
+    "log_entry": ""
+  },
+  "tags": [
+  ]
 }

@@ -1,15 +1,22 @@
 {
-  "__comment": "",
+  "__comment": "This is a player-made record for a characters in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the character such as age and homeworld. 'appearance' describes physical traits like hair and eyes. 'affiliations' lists organizations and other characters the character is connected to. 'narrative' provides a backstory, notable actions, and favorite quotes.",
   "version": "1.0.0",
-  "created_at": 0,
-  "modified_at": 0,
-  "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "created_at": 1724789093,
+  "modified_at": 1724789093,
+  "uuid": "c3f8e4a2-4d79-4b97-94f0-2781e3dfb741",
   "type": "character",
   "name": "",
   "callsign": "",
-  "age": "",
-  "gender": "",
-  "homeworld": "",
+  "attributes": {
+    "age": "",
+    "gender": "",
+    "homeworld": "",
+    "personality":[
+    ],
+    "skills": [
+    ],
+    "profile_image_url":""
+  },
   "appearance": {
     "hair": "",
     "eyes": "",
@@ -17,13 +24,28 @@
     "build": "",
     "clothing": ""
   },
-  "affiliation": "",
-  "skills": [
-  ],
-  "personality": [
-  ],
-  "backstory": "",
-  "notable_actions": [
-  ],
-  "image_url": ""
+  "affiliations": {
+    "orgs": [
+      {
+        "name": "",
+        "status": ""
+      }
+    ],
+    "characters": [
+      {
+        "name": "",
+        "relationship": ""
+      }
+    ]
+  },
+  "narrative": {
+    "short_history":"",
+    "long_history": "",
+    "favorite_quotes":[
+    ],
+    "notable_actions":[
+    ]
+  },
+  "tags": [
+  ] 
 }

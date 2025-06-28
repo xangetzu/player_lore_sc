@@ -1,22 +1,51 @@
 {
-  "__comment": "This is a player-made record for a spaceship in Star Citizen. 'customizations' can include modifications, colors, decals, etc. 'notable_events' is a list of key story moments this ship has experienced. 'registry' may reflect where it was first logged or identified (e.g., Stanton, Terra).",
+  "__comment": "This is a player-made record for a spaceship in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details parsed from vehicle data scraped from the game as well as current equipped gear. 'customizations' can include modifications, colors, decals, etc. 'registry' may reflect where it was first logged or identified (e.g., Stanton, Terra). 'narrative' provides a backstory, notable events, and current status of the vehicle. 'assigned_crew' is a list of characters assigned to this vehicle, and 'organization' is the org it belongs to.",
   "version": "1.0.0",
-  "created_at": 0,
-  "modified_at": 0,
-  "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "created_at": 1724840315,
+  "modified_at": 1724840315,
+  "uuid": "9d42d3f4-4a2a-4ff8-bb32-cde7f4b68f9a",
   "type": "vehicle",
   "name": "",
-  "model": "",
-  "manufacturer": "",
-  "serial_number": "",
+  "attributes": {
+    "serial_number":"",
+    "size": "",
+    "type": "",
+    "manufacturer": "",
+    "model": "",
+    "cargo_capacity": 0,
+    "crew_capacity": 0,
+    "max_speed": 0,
+    "armament": {
+      "shields": [],
+      "coolers": [],
+      "power_plants": [],
+      "quantum_drives": [],
+      "jump_drives": [],
+      "radar": [],
+      "sensors": [],
+      "weapons": [],
+      "missiles": []
+    },
+    "customizations": {
+      "paint": "",
+      "decals": [],
+      "upgrades": [],
+      "interior_mods": []
+    }
+  },
   "registry": "",
   "current_owner": "",
   "previous_owners": [],
   "assigned_crew": [],
   "organization": "",
-  "history": "",
-  "notable_events": [],
-  "customizations": [],
-  "condition": "operational",
-  "status": "active"
+  "narrative": {
+    "short_history": "",
+    "long_history": "",
+    "notable_events": [],
+    "customizations": [],
+    "condition": "",
+    "status": ""
+  },
+  "tags": [
+  ]
 }
