@@ -1,8 +1,8 @@
 {
   "__comment": "This is a record for a player made organization in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the organization such as its founding, home system, and philosophy. 'structure' defines the ranks and roles within the organization. 'notable_figures' lists key members and their roles. 'narrative' includes the organization's motto, manifesto, charter, public rules, and a history of the organization.",
   "version": "1.0.0",
-  "created_at": "1719420200",
-  "modified_at": "1724823377",
+  "created_at": 1719420200,
+  "modified_at": 1724823377,
   "uuid": "ce2db9ec-dc40-4e3f-b98e-420983d76d40",
   "type": "organization",
   "name": "Wayfinder",
