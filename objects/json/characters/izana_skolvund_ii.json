@@ -1,0 +1,56 @@
+{
+  "__comment": "This is a player-made record for a characters in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the character such as age and homeworld. 'appearance' describes physical traits like hair and eyes. 'affiliations' lists organizations and other characters the character is connected to. 'narrative' provides a backstory, notable actions, and favorite quotes.",
+  "version": "1.0.0",
+  "created_at": 1724789093,
+  "modified_at": 1724888192,
+  "uuid": "f8caa1c8-2912-4c9f-a97a-efc35708c71d",
+  "type": "character",
+  "name": "Izana Skovlund II",
+  "callsign": "xangetzu",
+  "attributes": {
+    "born": "2916-03-23",
+    "died": "",
+    "age": 39,
+    "gender": "female",
+    "homeworld": "Unknown (publicly undisclosed, believed to be within UEE space)",
+    "personality":["Insightful", "Stoic", "Empathetic", "Visionary"],
+    "skills": ["Quantum cartography", "Linguistics and xenoarchaeology", "Strategic operations", "Psychological insight", "Cryptologic navigation"],
+    "profile_image_url":""
+  },
+  "appearance": {
+    "hair": "Silver-blue, shoulder-length",
+    "eyes": "Pale blue, almost silver",
+    "height": "178 cm",
+    "build": "Athletic, graceful",
+    "clothing": "Dark blue robes with silver trim, always wears a glowing Vegvísir pendant"
+  },
+  "affiliations": {
+    "orgs": [
+      {
+        "name": "Wayfinder",
+        "status": "Visible",
+        "role": "Oracular"
+      }
+    ],
+    "characters": [
+      {
+        "name": "",
+        "status": "",
+        "relationship": ""
+      }
+    ]
+  },
+  "narrative": {
+    "short_history":"Born into a lineage long steeped in mysticism, astronomy, and coded history, Izana Skovlund II is a direct descendant of the original founder of Wayfinder. Though much of her youth remains classified within the organization’s archives, it is known that she was initiated into Wayfinder's higher rites before adulthood. She emerged during a time of great upheaval in the outer systems, stepping forward not as a warrior, but as a pathmaker—one who could see beyond immediate crises to long-term destiny.\n\nAssuming the title of Oracular, she restructured Wayfinder as both a sanctuary and a compass. Though firmly committed to nonpartisan exploration, she is no pacifist. Izana has led her people through threats both known and veiled, and her actions in unknown systems have been whispered about by independent explorers and UEE field agents alike. Many believe she is more than a leader—perhaps a seer whose dreams are not dreams at all, but coordinates in waiting.",
+    "long_history": "",
+    "favorite_quotes":[],
+    "notable_actions":[
+        "Unified scattered Wayfinder enclaves under a central code",
+        "Recovered lost navigation data from a derelict pre-Messer probe",
+        "Brokered ceasefire during the Tyrell Drift conflict between rival surveyor guilds",
+        "Mapped several previously untraceable microjump corridors",
+        "Reinstated the ceremonial rites of the original Wayfinder doctrine"
+    ]
+  },
+  "tags": [] 
+}

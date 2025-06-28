@@ -8,6 +8,8 @@
   "name": "",
   "callsign": "",
   "attributes": {
+    "born": "",
+    "died": "",
     "age": "",
     "gender": "",
     "homeworld": "",
@@ -26,12 +28,14 @@
     "orgs": [
       {
         "name": "",
-        "status": ""
+        "status": "",
+        "role": ""
       }
     ],
     "characters": [
       {
         "name": "",
+        "status": "",
         "relationship": ""
       }
     ]
