@@ -1,9 +1,9 @@
 {
   "__comment": "This is a fictional captain's log used for player-made adventures. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the captain, vehicle, organization, and mission. 'narrative' includes a short and long summary of the log, related characters, organizations, vehicles, events, and the log entry itself. 'tags' can be used for categorization or themes.",
   "version": "1.0.0",
-  "created_at": 0,
-  "modified_at": 0,
-  "uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "created_at": 1724823449,
+  "modified_at": 1724823449,
+  "uuid": "57c1a1c6-76c4-4ed1-9987-f66b20e1e763",
   "type": "captains_log",
   "name": "",
   "attributes": {
