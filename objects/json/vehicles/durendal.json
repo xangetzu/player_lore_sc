@@ -1,0 +1,51 @@
+{
+  "__comment": "This is a player-made record for a spaceship in Star Citizen. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details parsed from vehicle data scraped from the game as well as current equipped gear. 'customizations' can include modifications, colors, decals, etc. 'registry' may reflect where it was first logged or identified (e.g., Stanton, Terra). 'narrative' provides a backstory, notable events, and current status of the vehicle. 'assigned_crew' is a list of characters assigned to this vehicle, and 'organization' is the org it belongs to.",
+  "version": "1.0.0",
+  "created_at": 1724968560,
+  "modified_at": 1724932762,
+  "uuid": "b50de66d-1c01-4706-8df1-5c4a4fa8e78c",
+  "type": "vehicle",
+  "name": "Durendal",
+  "attributes": {
+    "serial_number": "ANVL-CRK-9242-DUR",
+    "size": "Large",
+    "type": "Expedition / Exploration",
+    "manufacturer": "Anvil Aerospace",
+    "model": "Carrack",
+    "cargo_capacity": 456,
+    "crew_capacity": 6,
+    "max_speed": 901,
+    "armament": {
+      "shields": ["Parapet (Industrial Grade A)", "Parapet (Industrial Grade A)"],
+      "coolers": ["Blizzard (Military Grade A)", "Blizzard (Military Grade A)"],
+      "power_plants": ["Durango (Industrial Grade A)", "Durango (Industrial Grade A)"],
+      "quantum_drives": ["XL1 (Military Grade A)"],
+      "jump_drives": ["Exodus (Civilian Grade C)"],
+      "radar": ["Surveyor (Industrial Grade A)"],
+      "life_support": ["ComfortAirMax (Civilian Grade C)"],
+      "weapons": ["Rhino (Size 4) x4", "Revenant (Size 4) x4"],
+      "missiles": ["N/A"],
+      "special_equipment": []
+    },
+    "customizations": {
+      "paint": "Citizens for Prosperity",
+      "decals": [],
+      "upgrades": [],
+      "interior_mods": []
+    }
+  },
+  "registry": "Stanton",
+  "current_owner": "Izana Skovlund II",
+  "previous_owners": [],
+  "assigned_crew": [],
+  "organization": "Wayfinder",
+  "narrative": {
+    "short_history": "A rugged Anvil Carrack long used by Wayfinder’s Oracular, the Durendal has seen the breadth of human space and the mystery beyond.",
+    "long_history": "The Durendal was acquired shortly after the ascension of Izana Skovlund II to leadership of Wayfinder. Intended as a mobile base of operations, the ship has been gradually tuned for long-range expeditions, deep scanning operations, and self-sustained traversal of uncharted space. While it remains faithful to Anvil's design philosophy, key components have been upgraded to support prolonged independent journeys and field analysis. The ship’s history includes voyages beyond surveyed space, aiding in the recovery of lost data archives and the rediscovery of dormant celestial anomalies. It serves as both flagship and relic — a vessel whose decks have echoed with centuries of echoes, dreams, and data. The wear it bears is not from neglect but from purpose: every carbon scoring, every hull plate microfracture is a record of perseverance.",
+    "notable_events": [],
+    "customizations": [],
+    "condition": "Well-maintained",
+    "status": "Active duty"
+  },
+  "tags": ["carrack", "exploration", "anvil", "wayfinder", "expedition", "ship", "Stanton", "large", "military", "base of operations", "long-range", "self-sustained", "deep scanning", "unexplored space"]
+}

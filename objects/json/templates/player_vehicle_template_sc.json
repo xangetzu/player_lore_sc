@@ -22,9 +22,10 @@
       "quantum_drives": [],
       "jump_drives": [],
       "radar": [],
-      "sensors": [],
+      "life_support": [],
       "weapons": [],
-      "missiles": []
+      "missiles": [],
+      "special_equipment": []
     },
     "customizations": {
       "paint": "",
