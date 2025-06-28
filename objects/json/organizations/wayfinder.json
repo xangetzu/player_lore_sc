@@ -1,0 +1,73 @@
+{
+  "__comment": "This is a record for a player made organization in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the organization such as its founding, home system, and philosophy. 'structure' defines the ranks and roles within the organization. 'notable_figures' lists key members and their roles. 'narrative' includes the organization's motto, manifesto, charter, public rules, and a history of the organization.",
+  "version": "1.0.0",
+  "created_at": "1719420200",
+  "modified_at": "1719516242",
+  "uuid": "81e650c2-4c27-4d77-9f18-79362a1f032b",
+  "type": "organization",
+  "name": "Wayfinder",
+  "spectrum_id": "WAYFIND",
+  "attributes": {
+    "archetype":"",
+    "founded": "1876",
+    "home_system": "Stanton System",
+    "headquarters":"Orison, Crusader",
+    "alignment": "Neutral-exploratory, with a capacity for defensive and protective operations",
+    "focus": [
+    ],
+    "symbolism": "The Vegvísir (Viking Compass) and Yggdrasil (World Tree) symbolizing navigation, destiny, and cosmic interconnectedness.", 
+    "theme": "Viking exploration, spiritual navigation, and cosmic discovery",
+    "philosophy": "To explore the unknown, chart the unseen, and illuminate the hidden truths of the universe without disrupting its natural balance.",
+    "logo_url": "",
+    "color_branding":[
+    ]
+  },
+  "structure": {
+    "ranks": {
+      "rank0":"Wanderer",
+      "rank1":"Seeker",
+      "rank2":"Pathfinder",
+      "rank3":"Compass",
+      "rank4":"Navigator",
+      "rank5":"Waymaster"
+    },
+    "roles": {
+      "founder":"Oracular",
+      "officer":"Luminary",
+      "recruitment":"Harbinger",
+      "marketing":"Seer"
+    }
+  },
+  "notable_figures": [
+    {
+      "name": "Izana Skovlund",
+      "role": "Founder and Oracular",
+      "title":"Oracular of the Wayfinder Order",
+      "joined":"1876",
+      "status":"Deceased"
+    },
+    {
+      "name": "Izana Skovlund II",
+      "role": "Oracular",
+      "title":"Oracular of the Hidden Stars",
+      "joined":"",
+      "status":"Active"
+    }
+  ],
+  "narrative": {
+    "motto":"If this sign is carried, one will never lose one's way in storms or bad weather, even when the way is not known.\n\nFrom the \"Huld Manuscript\". Handrit.is. p. 26",
+    "manifesto": "Our View of the Cosmos\n\nThe universe is not a void to conquer, but a vast canvas of possibility. Every star is a beacon, every nebula a story, every path a chance for connection. We believe that exploration is a calling, that each discovery—whether a system, a people, or an idea—enriches us all.\n\nOur Purpose\n\nWayfinder exists to explore the unknown, to chart new paths among the stars, and to weave connections between worlds. We honor the spirit of the ancient seafarers who navigated uncharted oceans, bringing their courage into the vast expanse of space.\n\nOur Motive\n\nWe are guided by the eternal compass: curiosity. Our mission is to expand horizons, to seek hidden truths, and to illuminate the shadowed corners of existence. We follow the paths others fear to tread. Like the Vegvísir, we shall never be lost; like Yggdrasil, we are interconnected with all realms.\n\nOur Role\n\nWayfinder serves as the compass and the cartographer of the future. We scout, map, and share what we learn. We safeguard those who venture with us. Our leader the Oracular, seers of hidden truths who guide us along paths unseen. Our officers—Luminaries, Harbingers, and Seers—are entrusted with stewardship of our mission and the well-being of our people. Every member, from Wanderer to Waymaster, is a vital thread in the tapestry of discovery.\n\nOur Creed\n\nWe are not lost; we are Wayfinders. We seek, we learn, we connect. We honor the past, embrace the present, and forge the future. Our paths are many, but our purpose is one.",
+    "charter": "Preamble\nWayfinder is founded upon the principles of exploration, wisdom, and mutual respect. As members of this organization, we pledge to uphold the highest standards of conduct, to honor the legacy of those who seek the unknown, and to ensure the safety and prosperity of all within our ranks. This Charter establishes the public rules to which all members, from Wanderer to Oracular, are bound.\n\nI. Conduct and Respect\nHonor All Beings: Treat fellow members, allies, and all sentient life with respect and dignity, regardless of status or origin.\nZero Tolerance for Abuse: Harassment, discrimination, or exploitation of any form shall not be tolerated.\nConstructive Discourse: Disagreements shall be resolved with calm dialogue and mutual understanding, guided by the values of integrity and wisdom.\n\nII. Duty and Responsibility\nFulfill Your Role: Each rank and role carries responsibilities essential to the functioning of Wayfinder. Members shall diligently execute their duties, support their team, and uphold the honor of the organization.\nPreserve Knowledge: Members shall record discoveries, insights, and paths charted for the benefit of all. Hoarding knowledge is discouraged; sharing strengthens the organization.\nProtect the Vulnerable: In exploration or conflict, safeguard those less able to defend themselves. Strength lies not in domination but in protection.\n\nIII. Integrity and Exploration\nTruth Above All: Members shall seek the truth in all endeavors. Deception for personal gain, within or outside the organization, is forbidden.\nHonor Exploration: Wayfinder is dedicated to discovery. Members shall respect uncharted realms, refrain from reckless actions that endanger others, and leave no trace where possible.\nRespect Resources: Exploitation of resources without regard for sustainability or impact is prohibited.\n\nIV. Unity and Loyalty\nUnity in Purpose: Divisiveness, insubordination, or acts that undermine the organization’s mission shall not be tolerated.\nConfidentiality: Sensitive information entrusted to members shall be guarded. Breaches of confidentiality are considered grave offenses.\nAllegiance to Wayfinder: Members shall prioritize the organization’s goals and honor its values above personal ambition.\n\nV. Justice and Accountability\nViolation of the Charter: Any breach of these rules will be addressed through fair and impartial inquiry. Disciplinary actions may include censure, demotion, or expulsion from Wayfinder.\nRight to Be Heard: Members accused of violations shall have the right to present their case before appointed officers and the Oracular.\n\nVI. Oath of the Wayfinder\nUpon acceptance into Wayfinder, all members shall take this oath:\n'I pledge to seek truth and forge paths. I honor unity, respect, and discovery. I am Wayfinder.'",
+    "public_rules":[
+        "Respect the integrity of unexplored systems and native entities.",
+        "Wield truth with with wisdom.",
+        "Wayfinders are stewards of knowledge and must act with impartiality.",
+        "The organization shall remain politically neutral, unless preservation of life or knowledge is at risk.",
+        "Engagements in combat must be purposeful—defense, deterrence, or protection."
+    ],
+    "short_history": "In the mid-19th century Earth, amidst the age of industrial revolution and shifting empires, whispers of a new form of exploration emerged—one not of territory, but of destiny. It was in 1876, on the windswept coasts of Norway, that a curious and visionary woman named Izana Skovlund uncovered a Vegvísir inscribed upon a weathered stone tablet unearthed by a storm. Though Icelandic folklore had whispered of such symbols for generations, it was Izana who connected the symbol’s meaning to a deeper philosophy: the concept of paths unseen, of guiding forces within and beyond the world.\n\nIzana, blending her Scandinavian heritage with a fierce curiosity for the unknown, gathered like-minded explorers, scholars, and philosophers. They called themselves Wayfinder, a name chosen to embody the ancient compass and the quest to seek truth beyond the visible horizon. What began as a society of thinkers and navigators quietly persisted through the centuries, evolving from a secretive order to a structured organization dedicated to exploration, knowledge, and the safeguarding of lost or hidden paths.\n\nAs human expansion moved beyond Earth, Wayfinder’s influence stretched into the emerging spacefaring age. With the advent of interstellar travel in the 22nd century, Wayfinder evolved into a shadow organization of scouts, cartographers, and cultural historians, tracing paths not merely through space, but through the web of connections that held civilizations together.\n\nThe 26th century, marked by humanity’s tumultuous expansion into the United Empire of Earth (UEE), saw Wayfinder emerge more prominently, albeit quietly. They aligned with initiatives that promoted exploration and cultural preservation while remaining cautious of the political entanglements of megacorporations and UEE ambitions. The organization weathered the dark periods of the Messer Era, shifting its focus to clandestine protection of heritage, navigation secrets, and the preservation of knowledge under the oppressive regime.\n\nBy the early 29th century, Wayfinder had reemerged as a formalized but independent organization, often working in the shadows of official exploration guilds. They became known for their stellar cartography, archaeological expertise, and uncanny ability to find routes through space where none were believed to exist. It was during this time that the lineage of Izana Skovlund resurfaced, with her descendant—Izana Skovlund II—rising to prominence as the current Oracular of Wayfinder.\n\nThe modern Izana Skovlund II, a direct descendant of the founder, carries the name not as a mere honorific, but as a testament to her claim of ancestral guidance and inherited destiny. Under her leadership, Wayfinder has embraced its dual heritage: honoring ancient symbols like Yggdrasil, the World Tree, and the Vegvísir, while adapting to the demands of space exploration in the 2955 Star Citizen era. Though independent of UEE control, Wayfinder’s expertise in finding hidden paths through jump points, uncharted systems, and preservation of pre-UEE cultural artifacts has made them both a respected ally and a wary competitor in the complex politics of interstellar expansion.",
+    "long_history": ""
+  },
+  "tags": [
+  ]
+}
