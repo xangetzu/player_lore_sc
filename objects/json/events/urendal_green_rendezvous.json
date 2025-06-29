@@ -1,0 +1,55 @@
+{
+  "__comment": "This is a fictional captain's log used for player-made adventures. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the captain, vehicle, organization, and mission. 'narrative' includes a short and long summary of the log, related characters, organizations, vehicles, events, and the log entry itself. 'tags' can be used for categorization or themes.",
+  "version": "1.0.0",
+  "created_at": 1751252257,
+  "modified_at": 1751252257,
+  "uuid": "22792bb5-96e3-4f5a-bd07-9f159491ed50",
+  "type": "event",
+  "created_by": "izana_skovlund_ii",
+  "name": "Durendal \u2013 Operation Green Rendezvous",
+  "attributes": {
+    "captain_name": "izana_skovlund_ii",
+    "vehicle_name": "durendal",
+    "organization": "wayfinder",
+    "location": {
+        "system": "stanton",
+        "origin": "orison_crusader",
+        "destination": "orbit_microtech_calliope"
+        },
+    "mission_type": "Rendezvous",
+    "mission_status": "Completed",
+    "location_coordinates": "",
+    "date_time": "2955-06-28"
+  },
+  "narrative": {
+    "short_summary": "After resupplying at Orison, the Durendal launched from August Dunlow to rendezvous with allied ships in orbit around MicroTech. The crew crossed the Stanton system, ultimately linking up between MicroTech and Calliope. The vessel held position while Izana Skovlund II transferred aboard The Nathanial Green, an Idris-class flagship helmed by Calliope Joe.",
+    "long_summary": "The Durendal departed August Dunlow in the early local hours, its cargo holds freshly restocked, and its systems tuned for the long jump across Stanton. Our objective was simple: a system-spanning rendezvous with old allies and new companions.\n\nWith coordinates locked, we made the burn from Crusader and leapt across the void, crossing through quantum space in silence. The journey was uneventful\u2014a rarity, and a quiet blessing.\n\nArrival near MicroTech revealed the familiar glint of The Nathanial Green, anchored between the planet and its icy moon Calliope. We took up formation, orbital stabilizers humming as we held position.\n\nElflaco and Guardian joined the party, skillfully landing their Avenger Titan and F7A-Mk II Hornet aboard the Idris. After brief comms confirmation, I, Izana Skovlund II, initiated EVA transfer to the Green, where new plans were already brewing. The Durendal remained behind as a sentinel, her silhouette quiet and poised against the stars.",
+    "related_characters": ["izana_skovlund_ii", "elflaco", "guardian", "nomadic_fox", "calliope_joe", "hanze"],
+    "related_organizations": ["wayfinder", "phase_iii", "those_guys_with_ships"],
+    "related_vehicles": [
+        {
+            "name": "Durendal",
+            "model": "Anvil Carrack",
+            "commander": "izana_skovlund_ii"
+        },
+        {
+            "name": "The Nathanial Green",
+            "model": "Idris",
+            "commander": "calliope_joe"
+        },
+        {
+            "name": "",
+            "model": "F7A-Mk II Hornet",
+            "commander": "guardian"
+        },
+        {
+            "name": "",
+            "model": "Titan Avenger",
+            "commander": "elflaco"
+        }
+    ],
+    "related_events": [],
+    "log_entry": "Durendal \u2013 Operation Green Rendezvous"
+  },
+  "tags": ["rendezvous", "durendal", "idris", "calliope", "microtech", "wayfinder", "flight_log", "orison", "2955"]
+}
