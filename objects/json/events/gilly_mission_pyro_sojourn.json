@@ -12,36 +12,36 @@
     "vehicle_name": "Nathanial Green",
     "organization": "Phase III",
     "location": ["Stanton", "MicroTech", "Calliope", "Pyro Jump Point", "Pyro Gateway Station", "Stanton Jump Point"],
-    "mission_type": ["travel", "training"],
-    "mission_status": "completed",
+    "mission_type": ["Travel", "Training"],
+    "mission_status": "Completed",
     "location_coordinates": "",
     "date_time": "2955-06-28"
   },
   "narrative": {
     "short_summary": "A multi-part mission aboard the Idris 'Nathanial Green' featuring combat trials, turret training, and a scenic detour to the Pyro system's wormhole jump point.",
     "long_summary": "Once the crew had successfully rendezvoused in orbit, the second chapter of the night began aboard Calliope Joe's Idris, the Nathanial Green. Izana Skovlund II transferred first, leaving Durendal in orbit as a navigational anchor. Guardian was next, securing his Hornet in the bay, followed by Hanze and the newcomer Elflaco, who executed a flawless landing in his Avenger Titan.\n\nThe purpose of this leg was a set of advanced turret drills known as the 'Gilly Missions.' They involved high-threat scenarios including a Hammerhead escort mission and a final showdown against a Polaris-led fleet. Elflaco quickly adapted to turret operations, scoring multiple critical hits and playing a pivotal role in neutralizing the Polaris.\n\nGuardian helmed the Idris for the Polaris engagement, expertly weakening its shields with the main laser, creating openings for coordinated attacks to dismantle its thrusters and ordinance systems. Gilly, ever the phantom handler of these simulations, commended Elflaco\u2019s marksmanship and tenacity.\n\nTo cap off the night\u2019s trials, the crew decided to take a detour to the infamous wormhole jump point to Pyro. The sight of the gate from the bridge left a lasting impression. Once through, they docked briefly at the Pyro Gateway Station. Elflaco disembarked while Calliope Joe and Nomadic Fox handled minor resupplies.\n\nOn the return trip, a jump drive fault pulled the crew unexpectedly back into Pyro. Guardian managed a safe course correction, and Izana took the helm for the final jump, linking up once more with the Durendal. With the ship secured, the crew dispersed for the evening.",
-    "related_characters": ["izana_skovlund_ii", "elflaco", "guardian", "nomadic_fox", "calliope_joe", "hanze"],
+    "related_characters": ["Izana Skovlund II", "Elflaco", "Guardian", "Nomadic Fox", "Calliope Joe", "Hanze"],
     "related_organizations": ["wayfinder", "phase_iii", "those_guys_with_ships"],
     "related_vehicles": [
         {
             "name": "Durendal",
             "model": "Anvil Carrack",
-            "commander": "izana_skovlund_ii"
+            "commander": "Izana Skovlund II"
         },
         {
             "name": "The Nathanial Green",
             "model": "Idris",
-            "commander": "calliope_joe"
+            "commander": "Calliope Joe"
         },
         {
             "name": "",
             "model": "F7A-Mk II Hornet",
-            "commander": "guardian"
+            "commander": "Guardian"
         },
         {
             "name": "",
             "model": "Titan Avenger",
-            "commander": "elflaco"
+            "commander": "Elflaco"
         }
     ],
     "related_events": ["durendal_green_rendezvous"],
