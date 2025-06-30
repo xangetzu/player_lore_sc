@@ -1,0 +1,465 @@
+{
+    "characters": [
+        {
+            "__comment": "This is a player-made record for a characters in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the character such as age and homeworld. 'appearance' describes physical traits like hair and eyes. 'affiliations' lists organizations and other characters the character is connected to. 'narrative' provides a backstory, notable actions, and favorite quotes.",
+            "version": "1.0.0",
+            "created_at": 1724789093,
+            "modified_at": 1724879613,
+            "uuid": "47c7e6f5-1b9d-4a8c-9d2a-bd3281df1bc7",
+            "type": "character",
+            "name": "Izana Skovlund",
+            "callsign": "N/A",
+            "attributes": {
+                "born": "1840",
+                "died": "1912",
+                "age": "Deceased",
+                "gender": "Female",
+                "homeworld": "Norway, Earth (Sol System)",
+                "personality": [
+                    "Reclusive",
+                    "Visionary",
+                    "Scholarly",
+                    "Resolute"
+                ],
+                "skills": [
+                    "Stellar observation",
+                    "Runic symbology",
+                    "Cartographic prophecy",
+                    "Esoteric philosophy",
+                    "Historical preservation"
+                ],
+                "profile_image_url": ""
+            },
+            "appearance": {
+                "hair": "Dark brown, often worn in braids",
+                "eyes": "Hazel",
+                "height": "165 cm",
+                "build": "Lean and sharp-featured",
+                "clothing": "Nordic woolen coats, layered skirts, and silver pendants carved with runes and cosmological symbols"
+            },
+            "affiliations": {
+                "orgs": [
+                    {
+                        "name": "Wayfinder",
+                        "status": "Visible",
+                        "role": "Founder and Oracular"
+                    }
+                ],
+                "characters": [
+                    {
+                        "name": "",
+                        "status": "",
+                        "relationship": ""
+                    }
+                ]
+            },
+            "narrative": {
+                "short_history": "Izana Skovlund was a 19th-century Nordic mystic, astronomer, and academic exile. Following the death of her family under mysterious circumstances tied to a failed Arctic expedition, Izana withdrew from public life and turned her focus to the esoteric. She began to combine Norse cosmology with newly emerging astronomical discoveries, postulating that the Viking myths were not just cultural stories but encoded navigational systems. Her work was ridiculed by mainstream academia, but she continued publishing through private channels.\n\nIn 1876, she founded a secret society—later to be known as the Wayfinder Collective—drawing in rogue astronomers, explorers, and philosophers who believed that knowledge itself was the true frontier. Though Wayfinder remained obscure during her lifetime, her teachings endured. After her death in 1912, her followers carried her ashes to a cliffside shrine carved with the Vegvísir and dedicated to the great World Tree.\n\nGenerations later, Izana would be remembered not only as the founder of a movement, but as a woman whose insight spanned centuries. In modern UEE archives, her name appears only in passing—on the margins of scanned tomes, in footnotes of lost lectures. Yet among Wayfinders, she is revered as The Seer of the Midnight Meridian—the one who charted the stars from Earth before humanity ever left it.",
+                "long_history": "",
+                "favorite_quotes": [],
+                "notable_actions": [
+                    "Founded the Wayfinder Collective in 1876",
+                    "Developed the Meridian Codex — a hybrid stellar-runic system",
+                    "Mapped celestial anomalies that would later correspond to known jump points",
+                    "Preserved pre-industrial Norse navigational tools and mythos through esoteric manuscripts",
+                    "Mentored early members whose families carried the Wayfinder doctrine into the space age"
+                ]
+            },
+            "tags": []
+        },
+        {
+            "__comment": "This is a player-made record for a characters in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the character such as age and homeworld. 'appearance' describes physical traits like hair and eyes. 'affiliations' lists organizations and other characters the character is connected to. 'narrative' provides a backstory, notable actions, and favorite quotes.",
+            "version": "1.0.0",
+            "created_at": 1724789093,
+            "modified_at": 1724888192,
+            "uuid": "f8caa1c8-2912-4c9f-a97a-efc35708c71d",
+            "type": "character",
+            "name": "Izana Skovlund II",
+            "callsign": "xangetzu",
+            "attributes": {
+                "born": "2916-03-23",
+                "died": "",
+                "age": 39,
+                "gender": "female",
+                "homeworld": "Unknown (publicly undisclosed, believed to be within UEE space)",
+                "personality": [
+                    "Insightful",
+                    "Stoic",
+                    "Empathetic",
+                    "Visionary"
+                ],
+                "skills": [
+                    "Quantum cartography",
+                    "Linguistics and xenoarchaeology",
+                    "Strategic operations",
+                    "Psychological insight",
+                    "Cryptologic navigation"
+                ],
+                "profile_image_url": ""
+            },
+            "appearance": {
+                "hair": "Silver-blue, shoulder-length",
+                "eyes": "Pale blue, almost silver",
+                "height": "178 cm",
+                "build": "Athletic, graceful",
+                "clothing": "Dark blue robes with silver trim, always wears a glowing Vegvísir pendant"
+            },
+            "affiliations": {
+                "orgs": [
+                    {
+                        "name": "Wayfinder",
+                        "status": "Visible",
+                        "role": "Oracular"
+                    }
+                ],
+                "characters": [
+                    {
+                        "name": "",
+                        "status": "",
+                        "relationship": ""
+                    }
+                ]
+            },
+            "narrative": {
+                "short_history": "Born into a lineage long steeped in mysticism, astronomy, and coded history, Izana Skovlund II is a direct descendant of the original founder of Wayfinder. Though much of her youth remains classified within the organization’s archives, it is known that she was initiated into Wayfinder's higher rites before adulthood. She emerged during a time of great upheaval in the outer systems, stepping forward not as a warrior, but as a pathmaker—one who could see beyond immediate crises to long-term destiny.\n\nAssuming the title of Oracular, she restructured Wayfinder as both a sanctuary and a compass. Though firmly committed to nonpartisan exploration, she is no pacifist. Izana has led her people through threats both known and veiled, and her actions in unknown systems have been whispered about by independent explorers and UEE field agents alike. Many believe she is more than a leader—perhaps a seer whose dreams are not dreams at all, but coordinates in waiting.",
+                "long_history": "",
+                "favorite_quotes": [],
+                "notable_actions": [
+                    "Unified scattered Wayfinder enclaves under a central code",
+                    "Recovered lost navigation data from a derelict pre-Messer probe",
+                    "Brokered ceasefire during the Tyrell Drift conflict between rival surveyor guilds",
+                    "Mapped several previously untraceable microjump corridors",
+                    "Reinstated the ceremonial rites of the original Wayfinder doctrine"
+                ]
+            },
+            "tags": []
+        }
+    ],
+    "organizations": [
+        {
+            "__comment": "This is a record for a player made organization in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the organization such as its founding, home system, and philosophy. 'structure' defines the ranks and roles within the organization. 'notable_figures' lists key members and their roles. 'narrative' includes the organization's motto, manifesto, charter, public rules, and a history of the organization.",
+            "version": "1.0.0",
+            "created_at": 1719420200,
+            "modified_at": 1724823377,
+            "uuid": "ce2db9ec-dc40-4e3f-b98e-420983d76d40",
+            "type": "organization",
+            "name": "Wayfinder",
+            "spectrum_id": "WAYFIND",
+            "attributes": {
+                "archetype": "Faith",
+                "founded": "1876",
+                "home_system": "Stanton System",
+                "headquarters": "Orison, Crusader",
+                "alignment": "Neutral-exploratory, with a capacity for defensive and protective operations",
+                "focus": [
+                    "Exploration",
+                    "Freelancing"
+                ],
+                "symbolism": "The Vegvísir (Viking Compass) and Yggdrasil (World Tree) symbolizing navigation, destiny, and cosmic interconnectedness.",
+                "theme": "Viking exploration, spiritual navigation, and cosmic discovery",
+                "philosophy": "To explore the unknown, chart the unseen, and illuminate the hidden truths of the universe without disrupting its natural balance.",
+                "logo_url": "",
+                "color_branding": [
+                    "Deep Space Blue (#0D1B2A to #14213D range)",
+                    "Frosted Cyan-Steel Blue (#4C91A6 to #5CA8C1 range)",
+                    "Muted Slate Gray (#2E3C48 range)"
+                ]
+            },
+            "structure": {
+                "ranks": {
+                    "rank0": "Wanderer",
+                    "rank1": "Seeker",
+                    "rank2": "Pathfinder",
+                    "rank3": "Compass",
+                    "rank4": "Navigator",
+                    "rank5": "Waymaster"
+                },
+                "roles": {
+                    "founder": "Oracular",
+                    "officer": "Luminary",
+                    "recruitment": "Harbinger",
+                    "marketing": "Seer"
+                }
+            },
+            "notable_figures": [
+                {
+                    "name": "Izana Skovlund",
+                    "role": "Founder and Oracular",
+                    "title": "Oracular of the Wayfinder Order",
+                    "joined": "1876",
+                    "status": "Deceased"
+                },
+                {
+                    "name": "Izana Skovlund II",
+                    "role": "Oracular",
+                    "title": "Oracular of the Hidden Stars",
+                    "joined": "",
+                    "status": "Active"
+                }
+            ],
+            "narrative": {
+                "motto": "If this sign is carried, one will never lose one's way in storms or bad weather, even when the way is not known.\n\nFrom the \"Huld Manuscript\". Handrit.is. p. 26",
+                "manifesto": "Our View of the Cosmos\n\nThe universe is not a void to conquer, but a vast canvas of possibility. Every star is a beacon, every nebula a story, every path a chance for connection. We believe that exploration is a calling, that each discovery—whether a system, a people, or an idea—enriches us all.\n\nOur Purpose\n\nWayfinder exists to explore the unknown, to chart new paths among the stars, and to weave connections between worlds. We honor the spirit of the ancient seafarers who navigated uncharted oceans, bringing their courage into the vast expanse of space.\n\nOur Motive\n\nWe are guided by the eternal compass: curiosity. Our mission is to expand horizons, to seek hidden truths, and to illuminate the shadowed corners of existence. We follow the paths others fear to tread. Like the Vegvísir, we shall never be lost; like Yggdrasil, we are interconnected with all realms.\n\nOur Role\n\nWayfinder serves as the compass and the cartographer of the future. We scout, map, and share what we learn. We safeguard those who venture with us. Our leader the Oracular, seers of hidden truths who guide us along paths unseen. Our officers—Luminaries, Harbingers, and Seers—are entrusted with stewardship of our mission and the well-being of our people. Every member, from Wanderer to Waymaster, is a vital thread in the tapestry of discovery.\n\nOur Creed\n\nWe are not lost; we are Wayfinders. We seek, we learn, we connect. We honor the past, embrace the present, and forge the future. Our paths are many, but our purpose is one.",
+                "charter": "Preamble\nWayfinder is founded upon the principles of exploration, wisdom, and mutual respect. As members of this organization, we pledge to uphold the highest standards of conduct, to honor the legacy of those who seek the unknown, and to ensure the safety and prosperity of all within our ranks. This Charter establishes the public rules to which all members, from Wanderer to Oracular, are bound.\n\nI. Conduct and Respect\nHonor All Beings: Treat fellow members, allies, and all sentient life with respect and dignity, regardless of status or origin.\nZero Tolerance for Abuse: Harassment, discrimination, or exploitation of any form shall not be tolerated.\nConstructive Discourse: Disagreements shall be resolved with calm dialogue and mutual understanding, guided by the values of integrity and wisdom.\n\nII. Duty and Responsibility\nFulfill Your Role: Each rank and role carries responsibilities essential to the functioning of Wayfinder. Members shall diligently execute their duties, support their team, and uphold the honor of the organization.\nPreserve Knowledge: Members shall record discoveries, insights, and paths charted for the benefit of all. Hoarding knowledge is discouraged; sharing strengthens the organization.\nProtect the Vulnerable: In exploration or conflict, safeguard those less able to defend themselves. Strength lies not in domination but in protection.\n\nIII. Integrity and Exploration\nTruth Above All: Members shall seek the truth in all endeavors. Deception for personal gain, within or outside the organization, is forbidden.\nHonor Exploration: Wayfinder is dedicated to discovery. Members shall respect uncharted realms, refrain from reckless actions that endanger others, and leave no trace where possible.\nRespect Resources: Exploitation of resources without regard for sustainability or impact is prohibited.\n\nIV. Unity and Loyalty\nUnity in Purpose: Divisiveness, insubordination, or acts that undermine the organization’s mission shall not be tolerated.\nConfidentiality: Sensitive information entrusted to members shall be guarded. Breaches of confidentiality are considered grave offenses.\nAllegiance to Wayfinder: Members shall prioritize the organization’s goals and honor its values above personal ambition.\n\nV. Justice and Accountability\nViolation of the Charter: Any breach of these rules will be addressed through fair and impartial inquiry. Disciplinary actions may include censure, demotion, or expulsion from Wayfinder.\nRight to Be Heard: Members accused of violations shall have the right to present their case before appointed officers and the Oracular.\n\nVI. Oath of the Wayfinder\nUpon acceptance into Wayfinder, all members shall take this oath:\n'I pledge to seek truth and forge paths. I honor unity, respect, and discovery. I am Wayfinder.'",
+                "public_rules": [
+                    "Respect the integrity of unexplored systems and native entities.",
+                    "Wield truth with with wisdom.",
+                    "Wayfinders are stewards of knowledge and must act with impartiality.",
+                    "The organization shall remain politically neutral, unless preservation of life or knowledge is at risk.",
+                    "Engagements in combat must be purposeful—defense, deterrence, or protection."
+                ],
+                "short_history": "In the mid-19th century Earth, amidst the age of industrial revolution and shifting empires, whispers of a new form of exploration emerged—one not of territory, but of destiny. It was in 1876, on the windswept coasts of Norway, that a curious and visionary woman named Izana Skovlund uncovered a Vegvísir inscribed upon a weathered stone tablet unearthed by a storm. Though Icelandic folklore had whispered of such symbols for generations, it was Izana who connected the symbol’s meaning to a deeper philosophy: the concept of paths unseen, of guiding forces within and beyond the world.\n\nIzana, blending her Scandinavian heritage with a fierce curiosity for the unknown, gathered like-minded explorers, scholars, and philosophers. They called themselves Wayfinder, a name chosen to embody the ancient compass and the quest to seek truth beyond the visible horizon. What began as a society of thinkers and navigators quietly persisted through the centuries, evolving from a secretive order to a structured organization dedicated to exploration, knowledge, and the safeguarding of lost or hidden paths.\n\nAs human expansion moved beyond Earth, Wayfinder’s influence stretched into the emerging spacefaring age. With the advent of interstellar travel in the 22nd century, Wayfinder evolved into a shadow organization of scouts, cartographers, and cultural historians, tracing paths not merely through space, but through the web of connections that held civilizations together.\n\nThe 26th century, marked by humanity’s tumultuous expansion into the United Empire of Earth (UEE), saw Wayfinder emerge more prominently, albeit quietly. They aligned with initiatives that promoted exploration and cultural preservation while remaining cautious of the political entanglements of megacorporations and UEE ambitions. The organization weathered the dark periods of the Messer Era, shifting its focus to clandestine protection of heritage, navigation secrets, and the preservation of knowledge under the oppressive regime.\n\nBy the early 29th century, Wayfinder had reemerged as a formalized but independent organization, often working in the shadows of official exploration guilds. They became known for their stellar cartography, archaeological expertise, and uncanny ability to find routes through space where none were believed to exist. It was during this time that the lineage of Izana Skovlund resurfaced, with her descendant—Izana Skovlund II—rising to prominence as the current Oracular of Wayfinder.\n\nThe modern Izana Skovlund II, a direct descendant of the founder, carries the name not as a mere honorific, but as a testament to her claim of ancestral guidance and inherited destiny. Under her leadership, Wayfinder has embraced its dual heritage: honoring ancient symbols like Yggdrasil, the World Tree, and the Vegvísir, while adapting to the demands of space exploration in the 2955 Star Citizen era. Though independent of UEE control, Wayfinder’s expertise in finding hidden paths through jump points, uncharted systems, and preservation of pre-UEE cultural artifacts has made them both a respected ally and a wary competitor in the complex politics of interstellar expansion.",
+                "long_history": ""
+            },
+            "tags": []
+        }
+    ],
+    "vehicles": [
+        {
+            "__comment": "This is a player-made record for a spaceship in Star Citizen. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details parsed from vehicle data scraped from the game as well as current equipped gear. 'customizations' can include modifications, colors, decals, etc. 'registry' may reflect where it was first logged or identified (e.g., Stanton, Terra). 'narrative' provides a backstory, notable events, and current status of the vehicle. 'assigned_crew' is a list of characters assigned to this vehicle, and 'organization' is the org it belongs to.",
+            "version": "1.0.0",
+            "created_at": 1724968560,
+            "modified_at": 1724932762,
+            "uuid": "b50de66d-1c01-4706-8df1-5c4a4fa8e78c",
+            "type": "vehicle",
+            "name": "Durendal",
+            "attributes": {
+                "serial_number": "ANVL-CRK-9242-DUR",
+                "size": "Large",
+                "type": "Expedition / Exploration",
+                "manufacturer": "Anvil Aerospace",
+                "model": "Carrack",
+                "cargo_capacity": 456,
+                "crew_capacity": 6,
+                "max_speed": 901,
+                "armament": {
+                    "shields": [
+                        "Parapet (Industrial Grade A)",
+                        "Parapet (Industrial Grade A)"
+                    ],
+                    "coolers": [
+                        "Blizzard (Military Grade A)",
+                        "Blizzard (Military Grade A)"
+                    ],
+                    "power_plants": [
+                        "Durango (Industrial Grade A)",
+                        "Durango (Industrial Grade A)"
+                    ],
+                    "quantum_drives": [
+                        "XL1 (Military Grade A)"
+                    ],
+                    "jump_drives": [
+                        "Exodus (Civilian Grade C)"
+                    ],
+                    "radar": [
+                        "Surveyor (Industrial Grade A)"
+                    ],
+                    "life_support": [
+                        "ComfortAirMax (Civilian Grade C)"
+                    ],
+                    "weapons": [
+                        "Rhino (Size 4) x4",
+                        "Revenant (Size 4) x4"
+                    ],
+                    "missiles": [
+                        "N/A"
+                    ],
+                    "special_equipment": []
+                },
+                "customizations": {
+                    "paint": "Citizens for Prosperity",
+                    "decals": [],
+                    "upgrades": [],
+                    "interior_mods": []
+                }
+            },
+            "registry": "Stanton",
+            "current_owner": "Izana Skovlund II",
+            "previous_owners": [],
+            "assigned_crew": [],
+            "organization": "Wayfinder",
+            "narrative": {
+                "short_history": "A rugged Anvil Carrack long used by Wayfinder’s Oracular, the Durendal has seen the breadth of human space and the mystery beyond.",
+                "long_history": "The Durendal was acquired shortly after the ascension of Izana Skovlund II to leadership of Wayfinder. Intended as a mobile base of operations, the ship has been gradually tuned for long-range expeditions, deep scanning operations, and self-sustained traversal of uncharted space. While it remains faithful to Anvil's design philosophy, key components have been upgraded to support prolonged independent journeys and field analysis. The ship’s history includes voyages beyond surveyed space, aiding in the recovery of lost data archives and the rediscovery of dormant celestial anomalies. It serves as both flagship and relic — a vessel whose decks have echoed with centuries of echoes, dreams, and data. The wear it bears is not from neglect but from purpose: every carbon scoring, every hull plate microfracture is a record of perseverance.",
+                "notable_events": [],
+                "customizations": [],
+                "condition": "Well-maintained",
+                "status": "Active duty"
+            },
+            "tags": [
+                "carrack",
+                "exploration",
+                "anvil",
+                "wayfinder",
+                "expedition",
+                "ship",
+                "Stanton",
+                "large",
+                "military",
+                "base of operations",
+                "long-range",
+                "self-sustained",
+                "deep scanning",
+                "unexplored space"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "__comment": "This is a fictional captain's log used for player-made adventures. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the captain, vehicle, organization, and mission. 'narrative' includes a short and long summary of the log, related characters, organizations, vehicles, events, and the log entry itself. 'tags' can be used for categorization or themes.",
+            "version": "1.0.0",
+            "created_at": 1720033200,
+            "modified_at": 1720033200,
+            "uuid": "9c52e8c3-b28e-4c63-92a7-0f0f57e6f9ae",
+            "type": "event",
+            "created_by": "Izana Skovlund II",
+            "name": "Gilly Mission Tour & Pyro Sojourn",
+            "attributes": {
+                "captain_name": "Calliope Joe",
+                "vehicle_name": "Nathanial Green",
+                "organization": "Phase III",
+                "location": [
+                    "Stanton",
+                    "MicroTech",
+                    "Calliope",
+                    "Pyro Jump Point",
+                    "Pyro Gateway Station",
+                    "Stanton Jump Point"
+                ],
+                "mission_type": [
+                    "Travel",
+                    "Training"
+                ],
+                "mission_status": "Completed",
+                "date_time": "2955-06-28"
+            },
+            "narrative": {
+                "short_summary": "A multi-part mission aboard the Idris 'Nathanial Green' featuring combat trials, turret training, and a scenic detour to the Pyro system's wormhole jump point.",
+                "long_summary": "Once the crew had successfully rendezvoused in orbit, the second chapter of the night began aboard Calliope Joe's Idris, the Nathanial Green. Izana Skovlund II transferred first, leaving Durendal in orbit as a navigational anchor. Guardian was next, securing his Hornet in the bay, followed by Hanze and the newcomer Elflaco, who executed a flawless landing in his Avenger Titan.\n\nThe purpose of this leg was a set of advanced turret drills known as the 'Gilly Missions.' They involved high-threat scenarios including a Hammerhead escort mission and a final showdown against a Polaris-led fleet. Elflaco quickly adapted to turret operations, scoring multiple critical hits and playing a pivotal role in neutralizing the Polaris.\n\nGuardian helmed the Idris for the Polaris engagement, expertly weakening its shields with the main laser, creating openings for coordinated attacks to dismantle its thrusters and ordinance systems. Gilly, ever the phantom handler of these simulations, commended Elflaco’s marksmanship and tenacity.\n\nTo cap off the night’s trials, the crew decided to take a detour to the infamous wormhole jump point to Pyro. The sight of the gate from the bridge left a lasting impression. Once through, they docked briefly at the Pyro Gateway Station. Elflaco disembarked while Calliope Joe and Nomadic Fox handled minor resupplies.\n\nOn the return trip, a jump drive fault pulled the crew unexpectedly back into Pyro. Guardian managed a safe course correction, and Izana took the helm for the final jump, linking up once more with the Durendal. With the ship secured, the crew dispersed for the evening.",
+                "related_characters": [
+                    "Izana Skovlund II",
+                    "Elflaco",
+                    "Guardian",
+                    "Nomadic Fox",
+                    "Calliope Joe",
+                    "Hanze"
+                ],
+                "related_organizations": [
+                    "wayfinder",
+                    "phase_iii",
+                    "those_guys_with_ships"
+                ],
+                "related_vehicles": [
+                    {
+                        "name": "Durendal",
+                        "model": "Anvil Carrack",
+                        "commander": "Izana Skovlund II"
+                    },
+                    {
+                        "name": "The Nathanial Green",
+                        "model": "Idris",
+                        "commander": "Calliope Joe"
+                    },
+                    {
+                        "name": "",
+                        "model": "F7A-Mk II Hornet",
+                        "commander": "Guardian"
+                    },
+                    {
+                        "name": "",
+                        "model": "Titan Avenger",
+                        "commander": "Elflaco"
+                    }
+                ],
+                "related_events": [
+                    "durendal_green_rendezvous"
+                ],
+                "log_entry": "A multi-part mission aboard the Idris 'Nathanial Green' featuring combat trials, turret training, and a scenic detour to the Pyro system's wormhole jump point."
+            },
+            "tags": [
+                "Idris",
+                "training",
+                "combat mission",
+                "wormhole",
+                "Pyro jump point",
+                "fleet operations",
+                "crew onboarding"
+            ]
+        },
+        {
+            "__comment": "This is a fictional captain's log used for player-made adventures. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the captain, vehicle, organization, and mission. 'narrative' includes a short and long summary of the log, related characters, organizations, vehicles, events, and the log entry itself. 'tags' can be used for categorization or themes.",
+            "version": "1.0.0",
+            "created_at": 1751252257,
+            "modified_at": 1751252257,
+            "uuid": "22792bb5-96e3-4f5a-bd07-9f159491ed50",
+            "type": "event",
+            "created_by": "Izana Skovlund II",
+            "name": "Durendal – Operation Green Rendezvous",
+            "attributes": {
+                "captain_name": "Izana Skovlund II",
+                "vehicle_name": "Durendal",
+                "organization": "Wayfinder",
+                "location": {
+                    "system": "Stanton",
+                    "origin": "Orison Crusader",
+                    "destination": "orbit Microtech Calliope"
+                },
+                "mission_type": "Rendezvous",
+                "mission_status": "Completed",
+                "date_time": "2955-06-28"
+            },
+            "narrative": {
+                "short_summary": "After resupplying at Orison, the Durendal launched from August Dunlow to rendezvous with allied ships in orbit around MicroTech. The crew crossed the Stanton system, ultimately linking up between MicroTech and Calliope. The vessel held position while Izana Skovlund II transferred aboard The Nathanial Green, an Idris-class flagship helmed by Calliope Joe.",
+                "long_summary": "The Durendal departed August Dunlow in the early local hours, its cargo holds freshly restocked, and its systems tuned for the long jump across Stanton. Our objective was simple: a system-spanning rendezvous with old allies and new companions.\n\nWith coordinates locked, we made the burn from Crusader and leapt across the void, crossing through quantum space in silence. The journey was uneventful—a rarity, and a quiet blessing.\n\nArrival near MicroTech revealed the familiar glint of The Nathanial Green, anchored between the planet and its icy moon Calliope. We took up formation, orbital stabilizers humming as we held position.\n\nElflaco and Guardian joined the party, skillfully landing their Avenger Titan and F7A-Mk II Hornet aboard the Idris. After brief comms confirmation, I, Izana Skovlund II, initiated EVA transfer to the Green, where new plans were already brewing. The Durendal remained behind as a sentinel, her silhouette quiet and poised against the stars.",
+                "related_characters": [
+                    "izana_skovlund_ii",
+                    "elflaco",
+                    "guardian",
+                    "nomadic_fox",
+                    "calliope_joe",
+                    "hanze"
+                ],
+                "related_organizations": [
+                    "wayfinder",
+                    "phase_iii",
+                    "those_guys_with_ships"
+                ],
+                "related_vehicles": [
+                    {
+                        "name": "Durendal",
+                        "model": "Anvil Carrack",
+                        "commander": "izana_skovlund_ii"
+                    },
+                    {
+                        "name": "The Nathanial Green",
+                        "model": "Idris",
+                        "commander": "calliope_joe"
+                    },
+                    {
+                        "name": "",
+                        "model": "F7A-Mk II Hornet",
+                        "commander": "guardian"
+                    },
+                    {
+                        "name": "",
+                        "model": "Titan Avenger",
+                        "commander": "elflaco"
+                    }
+                ],
+                "related_events": [],
+                "log_entry": "Durendal – Operation Green Rendezvous"
+            },
+            "tags": [
+                "rendezvous",
+                "durendal",
+                "idris",
+                "calliope",
+                "microtech",
+                "wayfinder",
+                "flight_log",
+                "orison",
+                "2955"
+            ]
+        }
+    ]
+}
