@@ -11,10 +11,9 @@
     "captain_name": "",
     "vehicle_name": "",
     "organization": "",
-    "location": "",
-    "mission_type": "",
+    "location": [],
+    "mission_type": [],
     "mission_status": "",
-    "location_coordinates": "",
     "date_time": ""
   },
   "narrative": {

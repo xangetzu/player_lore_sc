@@ -14,7 +14,6 @@
     "location": ["Stanton", "MicroTech", "Calliope", "Pyro Jump Point", "Pyro Gateway Station", "Stanton Jump Point"],
     "mission_type": ["Travel", "Training"],
     "mission_status": "Completed",
-    "location_coordinates": "",
     "date_time": "2955-06-28"
   },
   "narrative": {
