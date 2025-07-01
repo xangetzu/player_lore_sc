@@ -37,6 +37,12 @@
         "Social",
         "Trade",
         "Transport"
+      ],
+      "size": [
+        "Small",
+        "Medium",
+        "Large",
+        "Capital"
       ]
     }
   }

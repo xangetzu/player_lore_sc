@@ -1,50 +1,50 @@
 {
-  "__comment": "This is a player-made record for a characters in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the character such as age and homeworld. 'appearance' describes physical traits like hair and eyes. 'affiliations' lists organizations and other characters the character is connected to. 'narrative' provides a backstory, notable actions, and favorite quotes.",
-  "version": "1.0.0",
-  "created_at": 1724789093,
-  "modified_at": 1724789093,
-  "uuid": "c3f8e4a2-4d79-4b97-94f0-2781e3dfb741",
+  "__comment": "This is a player-made record for a characters in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. Some fields can be found within common_values such as status. This field/value pair should be removed before exporting the new lore json. Some descriptions to follow - 'attributes' cover details about the character such as age and homeworld. 'appearance' describes physical traits like hair and eyes. 'affiliations' lists organizations and other characters the character is connected to. 'narrative' provides a backstory, notable actions, and favorite quotes.",
+  "version": "1.0.1",
+  "created_at": "UNIX_TIMESTAMP IN SECONDS",
+  "modified_at": "UNIX_TIMESTAMP IN SECONDS",
+  "uuid": "UUID VERSION 4",
   "type": "character",
-  "name": "",
-  "callsign": "",
+  "name": "NAME OF PLAYER CHARACTER",
+  "callsign": "HANDLE",
   "attributes": {
-    "born": "",
-    "died": "",
-    "age": "",
-    "gender": "",
-    "homeworld": "",
-    "personality":[],
-    "skills": [],
-    "profile_image_url":""
+    "born": "YEAR-MONTH-DAY",
+    "died": "YEAR-MONTH-DAY",
+    "age": "AGE IN YEARS",
+    "gender": "CHARACTER GENDER",
+    "homeworld": "NAME OF HOMEWORLD (LORE FRIENDLY)",
+    "personality":["TRAIT1", "TRAIT2", "TRAIT3"],
+    "skills": ["SKILL1", "SKILL2", "SKILL3"],
+    "profile_image_url":"URL TO PUBLIC PROFILE IMAGE"
   },
   "appearance": {
-    "hair": "",
-    "eyes": "",
-    "height": "",
-    "build": "",
-    "clothing": ""
+    "hair": "COLOR AND STYLE",
+    "eyes": "COLOR",
+    "height": "HEIGHT IN CM",
+    "build": "BUILD TYPE (e.g., athletic, slender)",
+    "clothing": "CLOTHING STYLE"
   },
   "affiliations": {
     "orgs": [
       {
-        "name": "",
-        "status": "",
-        "role": ""
+        "name": "NAME OF ORGANIZATION",
+        "status": "USE OPTIONS FROM common_values status",
+        "role": "ROLE WITHIN THE ORGANIZATION"
       }
     ],
     "characters": [
       {
-        "name": "",
-        "status": "",
-        "relationship": ""
+        "name": "NAME OF CHARACTER",
+        "status": "USE OPTIONS FROM common_values status",
+        "relationship": "RELATIONSHIP TO PLAYER'S CHARACTER"
       }
     ]
   },
   "narrative": {
-    "short_history":"",
-    "long_history": "",
-    "favorite_quotes":[],
-    "notable_actions":[]
+    "short_history":"A SHORT BACKGROUND HISTORY OF THE CHARACTER",
+    "long_history": "A DETAILED BACKGROUND HISTORY OF THE CHARACTER",
+    "favorite_quotes":["QUOTE1", "QUOTE2", "QUOTE3"],
+    "notable_actions":["ACTION1", "ACTION2", "ACTION3"]
   },
-  "tags": [] 
+  "tags": ["LIST OF TAGS (e.g., explorer, trader, etc.)"]
 }

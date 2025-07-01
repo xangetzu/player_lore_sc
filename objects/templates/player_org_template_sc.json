@@ -1,58 +1,58 @@
 {
-  "__comment": "This is a record for a player made organization in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the organization such as its founding, home system, and philosophy. 'structure' defines the ranks and roles within the organization. 'notable_figures' lists key members and their roles. 'narrative' includes the organization's motto, manifesto, charter, public rules, and a history of the organization.",
-  "version": "1.0.0",
-  "created_at": 1719420200,
-  "modified_at": 1719516242,
-  "uuid": "81e650c2-4c27-4d77-9f18-79362a1f032b",
+  "__comment": "This is a record for a player made organization in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. Some fields can be found within common_values. This field/value pair should be removed before exporting the new lore json. Some descriptions to follow - 'attributes' cover details about the organization such as its founding, home system, and philosophy. 'structure' defines the ranks and roles within the organization. 'notable_figures' lists key members and their roles. 'narrative' includes the organization's motto, manifesto, charter, public rules, and a history of the organization.",
+  "version": "1.0.1",
+  "created_at": "UNIX_TIMESTAMP IN SECONDS",
+  "modified_at": "UNIX_TIMESTAMP IN SECONDS",
+  "uuid": "UUID VERSION 4",
   "type": "organization",
-  "name": "",
-  "spectrum_id": "",
+  "name": "NAME OF ORGANIZATION",
+  "spectrum_id": "SPECTRUM ID OF",
   "attributes": {
-    "archetype":"",
-    "founded": "",
-    "home_system": "",
-    "headquarters":"",
-    "alignment": "",
-    "focus": [],
-    "symbolism": "", 
-    "theme": "",
-    "philosophy": "",
-    "logo_url": "",
-    "color_branding":[]
+    "archetype":"USE OPTIONS FROM common_values archetype",
+    "founded": "LORE FRIENDLY DATE YEAR-MONTH-DAY, OFFSET 930 YEARS",
+    "home_system": "HOME STAR SYSTEM OF THE ORGANIZATION (LORE FRIENDLY)",
+    "headquarters":"MAIN STATION OR CITY OF THE ORGANIZATION (LORE FRIENDLY)",
+    "alignment": "SHORT DESCRIPTION OF THE ORGANIZATION'S ALIGNMENT (e.g. 'Independent', 'Pirate', 'Military')",
+    "focus": ["USE OPTIONS FROM common_values org_focus"],
+    "symbolism": "DEFINING SYMBOLS OR ICONS USED BY THE ORGANIZATION", 
+    "theme": "PRIMARY THEME OR MOTIF OF THE ORGANIZATION (e.g. 'spiritual navigation', 'underhanded trade', 'cosmic discovery', 'search and rescue')",
+    "logo_url": "URL TO PUBLIC LOGO IMAGE",
+    "color_branding":["PRIMARY COLOR HEX CODE OR DESCRIPTION", "SECONDARY COLOR HEX CODE OR DESCRIPTION", "TERTIARY COLOR HEX CODE OR DESCRIPTION"]
   },
   "structure": {
     "ranks": {
-      "rank0":"",
-      "rank1":"",
-      "rank2":"",
-      "rank3":"",
-      "rank4":"",
-      "rank5":""
+      "rank0":"NAME OF THE LOWEST RANK",
+      "rank1":"NAME OF THE NEXT RANK",
+      "rank2":"NAME OF THE NEXT RANK",
+      "rank3":"NAME OF THE NEXT RANK",
+      "rank4":"NAME OF THE NEXT RANK",
+      "rank5":"NAME OF THE HIGHEST RANK"
     },
     "roles": {
-      "founder":"",
-      "officer":"",
-      "recruitment":"",
-      "marketing":""
+      "founder":"NAME OF THE FOUNDER ROLE",
+      "officer":"NAME OF THE OFFICER ROLE",
+      "recruitment":"NAME OF THE RECRUITMENT ROLE",
+      "marketing":"NAME OF THE MARKETING ROLE"
     }
   },
   "notable_figures": [
     {
-      "name": "",
-      "role": "",
-      "title":"",
-      "joined":"",
-      "status":""
+      "name": "NOTEABLE FIGURE OR CHARACTER NAME",
+      "role": "THEIR ROLE IN THE ORGANIZATION (e.g. 'Founder', 'Captain', 'Recruiter')",
+      "title":"SPECIFIC TITLE OR POSITION HELD",
+      "joined":"LORE FRIENDLY DATE YEAR-MONTH-DAY, OFFSET 930 YEARS",
+      "status":"ACTIVE STATUS (e.g. 'Active', 'Retired', 'Deceased')"
     }
   ],
   "narrative": {
-    "motto":"",
-    "manifesto": "",
-    "charter": "",
+    "motto":"MOTTO OF THE ORGANIZATION (e.g. 'To explore the unknown, chart the unseen, and illuminate the hidden truths of the universe without disrupting its natural balance.')",
+    "manifesto": "FULL MANIFESTO OF THE ORGANIZATION (e.g. 'We are the Wayfinder, seekers of truth and explorers of the cosmos, guided by the stars and the wisdom of the ancients.')",
+    "charter": "FULL CHARTER OF THE ORGANIZATION (e.g. 'The Wayfinder is dedicated to the pursuit of knowledge, exploration, and the protection of the natural order of the universe. We operate with integrity, respect, and a commitment to the greater good.')",
     "public_rules":[
+      "LIST OF PUBLIC RULES OR GUIDELINES FOR MEMBERS (e.g. 'Respect the natural order of the universe', 'Do not engage in piracy or unlawful activities', 'Support fellow members in their endeavors')"
     ],
-    "short_history": "",
-    "long_history": ""
+    "short_history": "SHORT HISTORY OF THE ORGANIZATION (e.g. 'Founded in 2945, the Wayfinder has grown from a small group of explorers to a respected organization in the galaxy, known for its commitment to exploration and discovery.')",
+    "long_history": "DETAILED HISTORY OF THE ORGANIZATION (e.g. 'The Wayfinder was founded by a group of explorers who sought to chart the unknown regions of space. Over the years, it has expanded its reach and influence, becoming a key player in the exploration and discovery of new worlds and civilizations.')"
   },
-  "tags": []
+  "tags": ["LIST OF TAGS OR KEYWORDS RELATED TO THE ORGANIZATION (e.g. 'exploration', 'discovery', 'navigation', 'spirituality')"]
 }

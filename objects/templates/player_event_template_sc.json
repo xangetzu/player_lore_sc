@@ -1,30 +1,29 @@
 {
-  "__comment": "This is a fictional captain's log used for player-made adventures. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details about the captain, vehicle, organization, and mission. 'narrative' includes a short and long summary of the log, related characters, organizations, vehicles, events, and the log entry itself. 'tags' can be used for categorization or themes.",
-  "version": "1.0.0",
-  "created_at": 1724823449,
-  "modified_at": 1724823449,
-  "uuid": "57c1a1c6-76c4-4ed1-9987-f66b20e1e763",
+  "__comment": "This is a fictional captain's log used for player-made adventures. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. Some fields can be found within common_values. This field/value pair should be removed before exporting the new lore json. Some descriptions to follow - 'attributes' cover details about the captain, vehicle, organization, and mission. 'narrative' includes a short and long summary of the log, related characters, organizations, vehicles, events, and the log entry itself. 'tags' can be used for categorization or themes.",
+  "version": "1.0.1",
+  "created_at": "UNIX_TIMESTAMP IN SECONDS",
+  "modified_at": "UNIX_TIMESTAMP IN SECONDS",
+  "uuid": "UUID VERSION 4",
   "type": "event",
-  "created_by": "",
-  "name": "",
+  "created_by": "NAME OF PLAYER CHARACTER",
+  "name": "SHORT NAME OF EVENT",
   "attributes": {
-    "captain_name": "",
-    "vehicle_name": "",
-    "organization": "",
-    "location": [],
-    "mission_type": [],
-    "mission_status": "",
-    "date_time": ""
+    "captain_name": "NAME OF PRIMARY CAPTAIN - CHARACTER",
+    "vehicle_name": "NAME OF PRIMARY VEHICLE",
+    "organization": "NAME OF PRIMARY ORGANIZATION",
+    "location": ["NAME OF LOCATION", "SYSTEM NAME", "PLANET NAME", "MOON NAME", "STATION NAME"],
+    "mission_type": ["MISSION TYPE 1", "MISSION TYPE 2", "MISSION TYPE 3"],
+    "mission_status": "STATUS OF MISSION COMPLETION",
+    "date_time": "LORE FRIENDLY DATE YEAR-MONTH-DAY, OFFSET 930 YEARS"
   },
   "narrative": {
-    "short_summary": "",
-    "long_summary": "",
-    "related_characters": [],
-    "related_organizations": [],
-    "related_vehicles": [],
-    "related_events": [],
-    "log_entry": ""
+    "short_summary": "SHORT SUMMARY OF THE EVENT",
+    "long_summary": "LONG / DETAILED SUMMARY OF THE EVENT",
+    "related_characters": ["LIST OF RELATED CHARACTERS"],
+    "related_organizations": ["LIST"],
+    "related_vehicles": ["LIST OF RELATED VEHICLES"],
+    "related_events": ["LIST OF RELATED EVENTS"],
+    "log_entry": "SHORT DESCRIPTION OF THE EVENT"
   },
-  "tags": [
-  ]
+  "tags": ["LIST OF TAGS (e.g., combat, exploration, trade, etc.)"]
 }

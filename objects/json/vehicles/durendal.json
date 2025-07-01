@@ -1,5 +1,4 @@
 {
-  "__comment": "This is a player-made record for a spaceship in Star Citizen. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. some descriptions to follow - 'attributes' cover details parsed from vehicle data scraped from the game as well as current equipped gear. 'customizations' can include modifications, colors, decals, etc. 'registry' may reflect where it was first logged or identified (e.g., Stanton, Terra). 'narrative' provides a backstory, notable events, and current status of the vehicle. 'assigned_crew' is a list of characters assigned to this vehicle, and 'organization' is the org it belongs to.",
   "version": "1.0.0",
   "created_at": 1724968560,
   "modified_at": 1724932762,
