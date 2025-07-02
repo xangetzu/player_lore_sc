@@ -1,11 +1,16 @@
-import os
 import requests
 import json
+from pathlib import Path
 
-# Base URL for SC Trade Tools API
+# Dynamically resolve the output directory based on the script's location
+base_dir = Path(__file__).resolve().parent.parent
+output_dir = base_dir / "external_data" / "sc_trade_tools"
+output_dir.mkdir(parents=True, exist_ok=True)
+
+# Base URL for the SC Trade Tools API
 base_url = "https://sc-trade.tools/api"
 
-# List of endpoints we want to retrieve and store
+# List of API endpoints to pull JSON from
 endpoints = [
     "locations",
     "shops",
@@ -23,26 +28,23 @@ endpoints = [
     "crowdsource/commodity-listings"
 ]
 
-# Output directory to save the JSON files
-output_dir = "external_data/sc_trade_tools"
-os.makedirs(output_dir, exist_ok=True)
-
-# Loop through each endpoint and fetch its data
+# Iterate over each endpoint and fetch/save JSON response
 for endpoint in endpoints:
     try:
         url = f"{base_url}/{endpoint}"
         print(f"🔄 Fetching {endpoint} from {url}...")
 
         response = requests.get(url, timeout=10)
-        response.raise_for_status()  # Raise error for HTTP 4xx/5xx
+        response.raise_for_status()  # Raise on HTTP errors (4xx, 5xx)
 
-        # Parse and pretty-print JSON
         data = response.json()
-        output_path = os.path.join(output_dir, f"{endpoint.replace('/', '_')}.json")
+        safe_name = endpoint.replace('/', '_')  # Flatten nested endpoint names
+        output_path = output_dir / f"{safe_name}.json"
+
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
-        print(f"✅ Successfully saved: {output_path}")
+        print(f"✅ Successfully saved: {output_path.name}")
 
     except requests.RequestException as e:
         print(f"❌ Failed to fetch {endpoint}: {e}")

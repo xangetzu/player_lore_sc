@@ -1,7 +1,13 @@
 import os
 import json
 import requests
+from pathlib import Path
 from dotenv import load_dotenv
+
+# Resolve output directory relative to the script's location
+base_dir = Path(__file__).resolve().parent.parent
+output_dir = base_dir / "external_data" / "uex"
+output_dir.mkdir(parents=True, exist_ok=True)
 
 # Load API key from .env
 load_dotenv()
@@ -9,12 +15,14 @@ token = os.getenv("UEX_API_KEY")
 if not token:
     raise Exception("UEX_API_KEY not found in .env")
 
+# Set up headers for authentication
 headers = {
     "Authorization": f"Bearer {token}",
     "Accept": "application/json"
 }
-base_url = "https://api.uexcorp.space/2.0"
 
+# Define base API URL and list of resources to fetch
+base_url = "https://api.uexcorp.space/2.0"
 resources = [
     "categories", "categories_attributes", "cities", "commodities", "commodities_alerts",
     "commodities_averages", "commodities_prices", "commodities_prices_all",
@@ -34,23 +42,19 @@ resources = [
     "vehicles_rentals_prices", "vehicles_rentals_prices_all", "wallet_balance"
 ]
 
-output_dir = "external_data/uex"
-os.makedirs(output_dir, exist_ok=True)
-
+# Fetch and save each resource
 for resource in resources:
     url = f"{base_url}/{resource}"
     try:
-        print(f"📡 Fetching {resource}")
-        resp = requests.get(url, headers=headers)
-        resp.raise_for_status()
-        
-        # Parse and re-dump the JSON with indentation
-        parsed_json = resp.json()
-        with open(os.path.join(output_dir, f"{resource}.json"), "w", encoding="utf-8") as f:
-            json.dump(parsed_json, f, indent=2, ensure_ascii=False)
-        
-        print(f"✅ Saved: {resource}.json (formatted)")
-    except requests.HTTPError as e:
-        print(f"⚠️ Skipped {resource}: {e.response.status_code} {e.response.reason}")
+        print(f"🔄 Fetching: {resource}")
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+
+        data = response.json()
+        output_file = output_dir / f"{resource}.json"
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+
+        print(f"✅ Saved: {output_file.name}")
     except Exception as e:
-        print(f"❌ Error for {resource}: {e}")
+        print(f"❌ Error fetching {resource}: {e}")

@@ -1,41 +1,40 @@
 import json
-import os
 from pathlib import Path
 
-# Define source folders
-BASE_DIR = Path(__file__).resolve().parent
-JSON_DIR = BASE_DIR / 'objects' / 'json'
-OUTPUT_FILE = BASE_DIR / 'master_lore.json'
+# Base directory of the script
+base_dir = Path(__file__).resolve().parent.parent
 
-# Define categories and their folder mappings
-CATEGORIES = {
-    'characters': JSON_DIR / 'characters',
-    'organizations': JSON_DIR / 'organizations',
-    'vehicles': JSON_DIR / 'vehicles',
-    'events': JSON_DIR / 'events'
+# Input directories for each category
+json_dir = base_dir / 'objects' / 'json'
+categories = {
+    'characters': json_dir / 'characters',
+    'organizations': json_dir / 'organizations',
+    'vehicles': json_dir / 'vehicles',
+    'events': json_dir / 'events'
 }
 
-# Container for merged content
+# Output path
+output_dir = base_dir / 'compiled_data'
+output_dir.mkdir(parents=True, exist_ok=True)
+output_file = output_dir / 'master_lore.json'
+
+# Compile data
 master_data = {}
-
-# Merge each category
-for category, path in CATEGORIES.items():
+for category, folder in categories.items():
     master_data[category] = []
-
-    if not path.exists():
-        print(f"⚠️ Warning: Folder not found for {category}: {path}")
+    if not folder.exists():
+        print(f"⚠️ Warning: Folder not found for {category}: {folder}")
         continue
-
-    for file in path.glob('*.json'):
+    for file in folder.glob('*.json'):
         try:
-            with open(file, 'r', encoding='utf-8') as f:
+            with file.open('r', encoding='utf-8') as f:
                 content = json.load(f)
                 master_data[category].append(content)
         except Exception as e:
             print(f"❌ Error loading {file.name}: {e}")
 
-# Save to master file
-with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+# Save compiled JSON
+with output_file.open('w', encoding='utf-8') as f:
     json.dump(master_data, f, indent=4, ensure_ascii=False)
 
-print(f"✅ Master lore compiled successfully to: {OUTPUT_FILE}")
+print(f"✅ Master lore compiled successfully to: {output_file}")

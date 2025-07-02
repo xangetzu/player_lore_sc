@@ -1,32 +1,35 @@
-import os
+import json
 import requests
+from pathlib import Path
 
-# Base URL of the scunpacked-data repository
-base_url = "https://raw.githubusercontent.com/StarCitizenWiki/scunpacked-data/master"
+# Dynamically resolve output directory
+base_dir = Path(__file__).resolve().parent.parent
+output_dir = base_dir / "external_data" / "scrunpacked"
+output_dir.mkdir(parents=True, exist_ok=True)
 
-# List of JSON files to fetch
+# Define base URL and filenames
+base_url = "https://raw.githubusercontent.com/scunpacked/data/master/"
 files_to_fetch = [
-    "fps-items.json",
     "items.json",
-    "labels.json",
+    "ships.json",
+    "components.json",
+    "locations.json",
     "manufacturers.json",
-    "ship-items.json",
-    "ships.json"
+    "modules.json"
 ]
 
-# Local target directory
-target_directory = "external_data/scrunpacked"
-os.makedirs(target_directory, exist_ok=True)
+# Download each file
+for file_name in files_to_fetch:
+    url = base_url + file_name
+    try:
+        print(f"🔄 Downloading {file_name} from {url}")
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
 
-# Fetch and save each file
-for filename in files_to_fetch:
-    url = f"{base_url}/{filename}"
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        file_path = os.path.join(target_directory, filename)
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(response.text)
-        print(f"Downloaded: {filename}")
-    else:
-        print(f"Failed to download {filename}. Status code: {response.status_code}")
+        data = response.json()
+        with open(output_dir / file_name, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+
+        print(f"✅ Saved: {file_name}")
+    except Exception as e:
+        print(f"❌ Failed to fetch {file_name}: {e}")
