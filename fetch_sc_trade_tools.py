@@ -7,38 +7,44 @@ base_url = "https://sc-trade.tools/api"
 
 # List of endpoints we want to retrieve and store
 endpoints = [
-    "locations",     # All planets, moons, outposts, etc.
-    "commodities",   # All tradable goods like Laranite, Titanium, etc.
-    "prices",        # Buy/sell prices at various locations
-    "refineries",    # Refining facilities and yield information
-    "shops",         # Shops and what they sell
-    "shipyards"      # Locations selling ships
+    "locations",
+    "shops",
+    "ships",
+    "securityLevels",
+    "locationTypes",
+    "items",
+    "itemTypes",
+    "factions",
+    "system/supporters",
+    "crowdsource/locationBounties",
+    "crowdsource/leaderboards/current",
+    "crowdsource/leaderboards/overall",
+    "crowdsource/leaderboards/previous",
+    "crowdsource/commodity-listings"
 ]
 
-# Directory where the downloaded JSON files will be saved
+# Output directory to save the JSON files
 output_dir = "external_data/sc_trade_tools"
-os.makedirs(output_dir, exist_ok=True)  # Create the folder if it doesn't exist
+os.makedirs(output_dir, exist_ok=True)
 
-# Loop through each endpoint and fetch data
+# Loop through each endpoint and fetch its data
 for endpoint in endpoints:
-    url = f"{base_url}/{endpoint}"  # Construct full URL for the request
     try:
+        url = f"{base_url}/{endpoint}"
         print(f"🔄 Fetching {endpoint} from {url}...")
-        response = requests.get(url)           # Send the GET request
-        response.raise_for_status()            # Raise error if request fails (e.g., 404, 500)
 
-        # Parse the JSON response for formatting
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()  # Raise error for HTTP 4xx/5xx
+
+        # Parse and pretty-print JSON
         data = response.json()
+        output_path = os.path.join(output_dir, f"{endpoint.replace('/', '_')}.json")
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
 
-        # Save the response content to a formatted (pretty) JSON file
-        with open(os.path.join(output_dir, f"{endpoint}.json"), "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)  # Pretty-print with 2-space indentation
-
-        print(f"✅ Successfully saved: {endpoint}.json")
+        print(f"✅ Successfully saved: {output_path}")
 
     except requests.RequestException as e:
-        # Catch and print any network/API errors
         print(f"❌ Failed to fetch {endpoint}: {e}")
-    except json.JSONDecodeError as e:
-        # Catch any JSON decoding issues
-        print(f"❌ Failed to parse JSON for {endpoint}: {e}")
+    except json.JSONDecodeError:
+        print(f"❌ Failed to parse JSON for {endpoint}: Non-JSON response")

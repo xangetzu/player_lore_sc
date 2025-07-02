@@ -1,0 +1,42 @@
+[
+  {
+    "location": "Stanton > Hurston > Maker's Point",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Stanton > Hurston > Lorville > Leavsden Square Admin Office",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Pyro > Pyro V > Pyro IV > Fallow Field",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Stanton > microTech > Dunboro",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Stanton > Hurston > HDMS-Oparei",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Stanton > Hurston > Magda > HDMS-Hahn",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Stanton > Hurston > HDMS-Thedus",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Stanton > Hurston > Aberdeen > HDMS-Anderson",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Stanton > Crusader > Cellin > Hickes Research Outpost",
+    "multiplier": 100.0
+  },
+  {
+    "location": "Stanton > microTech > Port Tressler",
+    "multiplier": 100.0
+  }
+]

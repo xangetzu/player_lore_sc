@@ -1,0 +1,766 @@
+[
+  {
+    "name": "Pyro",
+    "type": "System"
+  },
+  {
+    "name": "Pyro > Bloom",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Pyro > Bloom > Bueno Ravine",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Bloom > Frigid Knot",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Bloom > Orbituary",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Bloom > Sheperd's Rest",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Bloom > The Golden Riviera",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Checkmate",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Dudley & Daughters",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Endgame",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Gaslight",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Megumi Refueling",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Monox",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Pyro > Monox > Arid Reach",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Monox > Jackson's Swap",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Monox > Sunset Mesa",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Patch City",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Pyro I",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Pyro > Pyro I > Rustville",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Pyro V",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Pyro > Pyro V > Adir",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Pyro > Pyro V > Fairo",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Pyro > Pyro V > Fuego",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Pyro > Pyro V > Ignis",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Pyro > Pyro V > Ignis > Ashland",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Pyro V > Ignis > Kabir's Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV > Chawla's Beach",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV > Fallow Field",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV > Goner's Deal",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV > Sacren's Plot",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Pyro V > Vatra",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Pyro > Pyro V > Vatra > Seer's Canyon",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Pyro V > Vuur",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Pyro > Pyro-Stanton Jump Point",
+    "type": "Jump point"
+  },
+  {
+    "name": "Pyro > Rat's Nest",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Rod's Fuel 'N Supplies",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Starlight Service Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Pyro > Terminus",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Pyro > Terminus > Blackrock Exchange",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Terminus > Canard View",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Terminus > Last Landings",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Terminus > Rough Landing",
+    "type": "Shop"
+  },
+  {
+    "name": "Pyro > Terminus > Ruin Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton",
+    "type": "System"
+  },
+  {
+    "name": "Stanton > ARC L1",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > ARC L1 > ARC-L1 Wide Forest Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > ARC L2",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > ARC L2 > ARC-L2 Lively Pathway Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > ARC L3",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > ARC L3 > ARC-L3 Modern Express Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > ARC L4",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > ARC L4 > ARC-L4 Faint Glen Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > ARC L5",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > ARC L5 > ARC-L5 Yellow Core Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Aaron Halo",
+    "type": "Asteroid field"
+  },
+  {
+    "name": "Stanton > ArcCorp",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Stanton > ArcCorp > Area18",
+    "type": "City"
+  },
+  {
+    "name": "Stanton > ArcCorp > Area18 > Dumpers Depot",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Baijini Point",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Humboldt Mines",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Loveridge Mineral Reserve",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Paradise Cove",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Shubin Mining Facility SAL-2",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Shubin Mining Facility SAL-5",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > The Orphanage",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > ArcCorp Mining Area 045",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > ArcCorp Mining Area 048",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > ArcCorp Mining Area 056",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > ArcCorp Mining Area 061",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > Samson & Son's Salvage Center",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > Shady Glen Farms",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > CRU L1",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > CRU L1 > CRU-L1 Ambitious Dream Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > CRU L2",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > CRU L3",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > CRU L4",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > CRU L4 > CRU-L4 Shallow Fields Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > CRU L5",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > CRU L5 > CRU-L5 Beautiful Glen Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Crusader",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > Gallete Family Farms",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > Hickes Research Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > PRIVATE PROPERTY",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > Terra Mills HydroFarm",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > Tram & Myers Mining",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > ArcCorp Mining Area 141",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Bountiful Harvest Hydroponics",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Brio's Breaker Yard",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Jumptown",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Kudre Ore",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Nuen Waste Management",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Shubin Mining Facility SCD-1",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Orison",
+    "type": "City"
+  },
+  {
+    "name": "Stanton > Crusader > Seraphim Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Crusader > Seraphim Station > Dumpers Depot",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Yela",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > ArcCorp Mining Area 157",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > Benson Mining Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > Deakins Research Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > Grim HEX",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > Grim HEX > Dumpers Depot",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > NT-999-XX",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > HUR L1",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > HUR L1 > HUR-L1 Green Glade Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > HUR L2",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > HUR L2 > HUR-L2 Faithful Dream Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > HUR L3",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > HUR L3 > HUR-L3 Thundering Express Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > HUR L4",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > HUR L4 > HUR-L4 Melodic Fields Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > HUR L5",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > HUR L5 > HUR-L5 High Course Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Hurston",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Stanton > Hurston > Aberdeen",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > Hurston > Aberdeen > HDMS-Anderson",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Aberdeen > HDMS-Norgaard",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Arial",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > Hurston > Arial > HDMS-Bezdek",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Arial > HDMS-Lathan",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Cutter’s Rig",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Everus Harbor",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Hurston > Finn’s Folly",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Edmond",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Hadley",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Oparei",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Pinewood",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Stanhope",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Thedus",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Ita",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > Hurston > Ita > HDMS-Ryder",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Ita > HDMS-Woodruff",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Lorville",
+    "type": "City"
+  },
+  {
+    "name": "Stanton > Hurston > Lorville > Central Business District",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Ludlow",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Magda",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > Hurston > Magda > HDMS-Hahn",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Magda > HDMS-Perlman",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Maker's Point",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Pickers Field",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Rappel",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Reclamation & Disposal Orinth",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Weeping Cove",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > Hurston > Zephyr",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > MIC L1",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > MIC L1 > MIC-L1 Shallow Frontier Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > MIC L1 > Xenothreat-SecurityStation",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > MIC L2",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > MIC L2 > MIC-L2 Long Forest Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > MIC L3",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > MIC L3 > MIC-L3 Endless Odyssey Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > MIC L4",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > MIC L4 > MIC-L4 Red Crossroads Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > MIC L5",
+    "type": "Lagrangian point"
+  },
+  {
+    "name": "Stanton > MIC L5 > MIC-L5 Modern Icarus Station",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Magnus Gateway",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Pyro Gateway",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > Terra Gateway",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > microTech",
+    "type": "Planet surface"
+  },
+  {
+    "name": "Stanton > microTech > Astor’s Clearing",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Bloodshot Ridge",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Calliope",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > microTech > Calliope > Rayari Anvik Research Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Calliope > Rayari Kaltag Research Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Calliope > Shubin Mining Facility SMCa-6",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Calliope > Shubin Mining Facility SMCa-8",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Clio",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > microTech > Clio > Rayari Cantwell Research Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Clio > Rayari McGrath Research Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Dunboro",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Euterpe",
+    "type": "Moon surface"
+  },
+  {
+    "name": "Stanton > microTech > Euterpe > Bud's Growery",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Euterpe > Devlin Scrap & Salvage",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Frostbite",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Harper’s Point",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Moreland Hills",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > New Babbage",
+    "type": "City"
+  },
+  {
+    "name": "Stanton > microTech > Outpost 54",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Port Tressler",
+    "type": "Space station"
+  },
+  {
+    "name": "Stanton > microTech > Raven's Roost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Rayari Deltana Research Outpost",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Razor’s Edge",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Shubin Mining Facility SM0-10",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Shubin Mining Facility SM0-13",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Shubin Mining Facility SM0-18",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > Shubin Mining Facility SM0-22",
+    "type": "Shop"
+  },
+  {
+    "name": "Stanton > microTech > The Necropolis",
+    "type": "Shop"
+  }
+]

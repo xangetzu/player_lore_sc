@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "None",
+    "icon": "bi bi-wifi-off"
+  },
+  {
+    "id": 2,
+    "name": "NPCs",
+    "icon": "bi bi-person-exclamation"
+  },
+  {
+    "id": 3,
+    "name": "Monitored",
+    "icon": "bi bi-wifi"
+  },
+  {
+    "id": 4,
+    "name": "Armistice zone",
+    "icon": "bi bi-peace"
+  },
+  {
+    "id": 5,
+    "name": "Private hangars",
+    "icon": "bi bi-shield-lock"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Pyro > Bloom > Bueno Ravine"
+  },
+  {
+    "name": "Pyro > Bloom > Frigid Knot"
+  },
+  {
+    "name": "Pyro > Bloom > Orbituary"
+  },
+  {
+    "name": "Pyro > Bloom > Shepherd's Rest"
+  },
+  {
+    "name": "Pyro > Bloom > The Golden Riviera"
+  },
+  {
+    "name": "Pyro > Checkmate"
+  },
+  {
+    "name": "Pyro > Dudley & Daughters"
+  },
+  {
+    "name": "Pyro > Endgame"
+  },
+  {
+    "name": "Pyro > Gaslight"
+  },
+  {
+    "name": "Pyro > Megumi Refueling"
+  },
+  {
+    "name": "Pyro > Monox > Arid Reach"
+  },
+  {
+    "name": "Pyro > Monox > Jackson's Swap"
+  },
+  {
+    "name": "Pyro > Monox > Sunset Mesa"
+  },
+  {
+    "name": "Pyro > Patch City"
+  },
+  {
+    "name": "Pyro > Pyro I > Rustville"
+  },
+  {
+    "name": "Pyro > Pyro V > Ignis > Ashland"
+  },
+  {
+    "name": "Pyro > Pyro V > Ignis > Kabir's Outpost"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV > Chawla's Beach"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV > Fallow Field"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV > Goner's Deal"
+  },
+  {
+    "name": "Pyro > Pyro V > Pyro IV > Sacren's Plot"
+  },
+  {
+    "name": "Pyro > Pyro V > Vatra > Seer's Canyon"
+  },
+  {
+    "name": "Pyro > Rat's Nest"
+  },
+  {
+    "name": "Pyro > Rod's Fuel 'N Supplies"
+  },
+  {
+    "name": "Pyro > Stanton Gateway"
+  },
+  {
+    "name": "Pyro > Stanton Gateway > Platinum Bay"
+  },
+  {
+    "name": "Pyro > Starlight Service Station"
+  },
+  {
+    "name": "Pyro > Terminus > Blackrock Exchange"
+  },
+  {
+    "name": "Pyro > Terminus > Canard View"
+  },
+  {
+    "name": "Pyro > Terminus > Last Landings"
+  },
+  {
+    "name": "Pyro > Terminus > Rough Landing"
+  },
+  {
+    "name": "Pyro > Terminus > Ruin Station"
+  },
+  {
+    "name": "Stanton > ARC L1 > ARC-L1 Wide Forest Station"
+  },
+  {
+    "name": "Stanton > ARC L1 > ARC-L1 Wide Forest Station > Platinum Bay"
+  },
+  {
+    "name": "Stanton > ARC L2 > ARC-L2 Lively Pathway Station"
+  },
+  {
+    "name": "Stanton > ARC L3 > ARC-L3 Modern Express Station"
+  },
+  {
+    "name": "Stanton > ARC L4 > ARC-L4 Faint Glen Station"
+  },
+  {
+    "name": "Stanton > ARC L5 > ARC-L5 Yellow Core Station"
+  },
+  {
+    "name": "Stanton > ArcCorp > Area18"
+  },
+  {
+    "name": "Stanton > ArcCorp > Area18 > Dumper's Depot"
+  },
+  {
+    "name": "Stanton > ArcCorp > Area18 > IO-North Tower"
+  },
+  {
+    "name": "Stanton > ArcCorp > Baijini Point"
+  },
+  {
+    "name": "Stanton > ArcCorp > Baijini Point > Platinum Bay"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Humboldt Mines"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Loveridge Mineral Reserve"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Paradise Cove"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Shubin Mining Facility SAL-2"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > Shubin Mining Facility SAL-5"
+  },
+  {
+    "name": "Stanton > ArcCorp > Lyria > The Orphanage"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > ArcCorp Mining Area 045"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > ArcCorp Mining Area 048"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > ArcCorp Mining Area 056"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > ArcCorp Mining Area 061"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > Samson & Son's Salvage Center"
+  },
+  {
+    "name": "Stanton > ArcCorp > Wala > Shady Glen Farms"
+  },
+  {
+    "name": "Stanton > CRU L1 > CRU-L1 Ambitious Dream Station"
+  },
+  {
+    "name": "Stanton > CRU L1 > CRU-L1 Ambitious Dream Station > Platinum Bay"
+  },
+  {
+    "name": "Stanton > CRU L4 > CRU-L4 Shallow Fields Station"
+  },
+  {
+    "name": "Stanton > CRU L4 > CRU-L4 Shallow Fields Station > Locker room"
+  },
+  {
+    "name": "Stanton > CRU L4 > CRU-L4 Shallow Fields Station > Platinum Bay"
+  },
+  {
+    "name": "Stanton > CRU L5 > CRU-L5 Beautiful Glen Station"
+  },
+  {
+    "name": "Stanton > CRU L5 > CRU-L5 Beautiful Glen Station > Maintenance Area"
+  },
+  {
+    "name": "Stanton > CRU L5 > CRU-L5 Beautiful Glen Station > Platinum Bay"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > Gallete Family Farms"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > Hickes Research Outpost"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > PRIVATE PROPERTY"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > Terra Mills HydroFarm"
+  },
+  {
+    "name": "Stanton > Crusader > Cellin > Tram & Myers Mining"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > ArcCorp Mining Area 141"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Bountiful Harvest Hydroponics"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Brio's Breaker Yard"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Jumptown"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Kudre Ore"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Nuen Waste Management"
+  },
+  {
+    "name": "Stanton > Crusader > Daymar > Shubin Mining Facility SCD-1"
+  },
+  {
+    "name": "Stanton > Crusader > Orison"
+  },
+  {
+    "name": "Stanton > Crusader > Orison > Providence Platform"
+  },
+  {
+    "name": "Stanton > Crusader > Seraphim Station"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > ArcCorp Mining Area 157"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > Benson Mining Outpost"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > Deakins Research Outpost"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > Grim HEX"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > Grim HEX > Dumper's Depot"
+  },
+  {
+    "name": "Stanton > Crusader > Yela > NT-999-XX"
+  },
+  {
+    "name": "Stanton > HUR L1 > HUR-L1 Green Glade Station"
+  },
+  {
+    "name": "Stanton > HUR L2 > HUR-L2 Faithful Dream Station"
+  },
+  {
+    "name": "Stanton > HUR L2 > HUR-L2 Faithful Dream Station > Platinum Bay"
+  },
+  {
+    "name": "Stanton > HUR L3 > HUR-L3 Thundering Express Station"
+  },
+  {
+    "name": "Stanton > HUR L3 > HUR-L3 Thundering Express Station > Platinum Bay"
+  },
+  {
+    "name": "Stanton > HUR L4 > HUR-L4 Melodic Fields Station"
+  },
+  {
+    "name": "Stanton > HUR L5 > HUR-L5 High Course Station"
+  },
+  {
+    "name": "Stanton > HUR L5 > HUR-L5 High Course Station > Platinum Bay"
+  },
+  {
+    "name": "Stanton > Hurston > Aberdeen > HDMS-Anderson"
+  },
+  {
+    "name": "Stanton > Hurston > Aberdeen > HDMS-Norgaard"
+  },
+  {
+    "name": "Stanton > Hurston > Arial > HDMS-Bezdek"
+  },
+  {
+    "name": "Stanton > Hurston > Arial > HDMS-Lathan"
+  },
+  {
+    "name": "Stanton > Hurston > Everus Harbor"
+  },
+  {
+    "name": "Stanton > Hurston > Everus Harbor > Platinum Bay"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Edmond"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Hadley"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Oparei"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Pinewood"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Stanhope"
+  },
+  {
+    "name": "Stanton > Hurston > HDMS-Thedus"
+  },
+  {
+    "name": "Stanton > Hurston > Ita > HDMS-Ryder"
+  },
+  {
+    "name": "Stanton > Hurston > Ita > HDMS-Woodruff"
+  },
+  {
+    "name": "Stanton > Hurston > Lorville"
+  },
+  {
+    "name": "Stanton > Hurston > Lorville > Leavsden Square Admin Office"
+  },
+  {
+    "name": "Stanton > Hurston > Magda > HDMS-Hahn"
+  },
+  {
+    "name": "Stanton > Hurston > Magda > HDMS-Perlman"
+  },
+  {
+    "name": "Stanton > Hurston > Maker's Point"
+  },
+  {
+    "name": "Stanton > Hurston > Pickers Field"
+  },
+  {
+    "name": "Stanton > Hurston > Rappel"
+  },
+  {
+    "name": "Stanton > Hurston > Reclamation & Disposal Orinth"
+  },
+  {
+    "name": "Stanton > MIC L1 > MIC-L1 Shallow Frontier Station"
+  },
+  {
+    "name": "Stanton > MIC L2 > MIC-L2 Long Forest Station"
+  },
+  {
+    "name": "Stanton > MIC L3 > MIC-L3 Endless Odyssey Station"
+  },
+  {
+    "name": "Stanton > MIC L4 > MIC-L4 Red Crossroads Station"
+  },
+  {
+    "name": "Stanton > MIC L5 > MIC-L5 Modern Icarus Station"
+  },
+  {
+    "name": "Stanton > Magnus Gateway"
+  },
+  {
+    "name": "Stanton > Magnus Gateway > Platinum Bay"
+  },
+  {
+    "name": "Stanton > Pyro Gateway"
+  },
+  {
+    "name": "Stanton > Pyro Gateway > Platinum Bay"
+  },
+  {
+    "name": "Stanton > Terra Gateway"
+  },
+  {
+    "name": "Stanton > Terra Gateway > Platinum Bay"
+  },
+  {
+    "name": "Stanton > microTech > Astor’s Clearing"
+  },
+  {
+    "name": "Stanton > microTech > Calliope > Rayari Anvik Research Outpost"
+  },
+  {
+    "name": "Stanton > microTech > Calliope > Rayari Kaltag Research Outpost"
+  },
+  {
+    "name": "Stanton > microTech > Calliope > Shubin Mining Facility SMCa-6"
+  },
+  {
+    "name": "Stanton > microTech > Calliope > Shubin Mining Facility SMCa-8"
+  },
+  {
+    "name": "Stanton > microTech > Clio > Rayari Cantwell Research Outpost"
+  },
+  {
+    "name": "Stanton > microTech > Clio > Rayari McGrath Research Outpost"
+  },
+  {
+    "name": "Stanton > microTech > Dunboro"
+  },
+  {
+    "name": "Stanton > microTech > Euterpe > Bud's Growery"
+  },
+  {
+    "name": "Stanton > microTech > Euterpe > Devlin Scrap & Salvage"
+  },
+  {
+    "name": "Stanton > microTech > New Babbage"
+  },
+  {
+    "name": "Stanton > microTech > New Babbage > Commons > MT Planetary Services"
+  },
+  {
+    "name": "Stanton > microTech > Outpost 54"
+  },
+  {
+    "name": "Stanton > microTech > Port Tressler"
+  },
+  {
+    "name": "Stanton > microTech > Port Tressler > Platinum Bay"
+  },
+  {
+    "name": "Stanton > microTech > Raven's Roost"
+  },
+  {
+    "name": "Stanton > microTech > Rayari Deltana Research Outpost"
+  },
+  {
+    "name": "Stanton > microTech > Shubin Mining Facility SM0-10"
+  },
+  {
+    "name": "Stanton > microTech > Shubin Mining Facility SM0-13"
+  },
+  {
+    "name": "Stanton > microTech > Shubin Mining Facility SM0-18"
+  },
+  {
+    "name": "Stanton > microTech > Shubin Mining Facility SM0-22"
+  },
+  {
+    "name": "Stanton > microTech > The Necropolis"
+  }
+]
