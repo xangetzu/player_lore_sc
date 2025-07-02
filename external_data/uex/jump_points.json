@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "http_code": 200,
+  "data": [
+    {
+      "id": 1,
+      "id_star_system_origin": 68,
+      "id_star_system_destination": 64,
+      "id_orbit_origin": 360,
+      "id_orbit_destination": 386,
+      "date_added": 1741181167,
+      "date_modified": 0,
+      "star_system_origin_name": "Stanton",
+      "star_system_destination_name": "Pyro",
+      "orbit_origin_name": "Pyro Jump Point",
+      "orbit_destination_name": "Stanton Gateway"
+    },
+    {
+      "id": 2,
+      "id_star_system_origin": 64,
+      "id_star_system_destination": 68,
+      "id_orbit_origin": 386,
+      "id_orbit_destination": 360,
+      "date_added": 1741181167,
+      "date_modified": 0,
+      "star_system_origin_name": "Pyro",
+      "star_system_destination_name": "Stanton",
+      "orbit_origin_name": "Stanton Gateway",
+      "orbit_destination_name": "Pyro Jump Point"
+    }
+  ],
+  "message": ""
+}

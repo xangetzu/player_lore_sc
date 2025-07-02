@@ -1,0 +1,837 @@
+{
+  "status": "ok",
+  "http_code": 200,
+  "data": [
+    {
+      "id": 1,
+      "type": "item",
+      "section": "Armor",
+      "name": "Arms",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1749147187
+    },
+    {
+      "id": 2,
+      "type": "item",
+      "section": "Armor",
+      "name": "Backpacks",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1751279778
+    },
+    {
+      "id": 3,
+      "type": "item",
+      "section": "Armor",
+      "name": "Helmets",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1749109451
+    },
+    {
+      "id": 4,
+      "type": "item",
+      "section": "Armor",
+      "name": "Legs",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1749150835
+    },
+    {
+      "id": 5,
+      "type": "item",
+      "section": "Armor",
+      "name": "Torso",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1750176549
+    },
+    {
+      "id": 7,
+      "type": "item",
+      "section": "Armor",
+      "name": "Set",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1708712564
+    },
+    {
+      "id": 8,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Footwear",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745418459
+    },
+    {
+      "id": 9,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Gloves",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745418790
+    },
+    {
+      "id": 10,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Hats",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745418979
+    },
+    {
+      "id": 11,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Jackets",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1749147914
+    },
+    {
+      "id": 12,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Jumpsuits",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 13,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Legwear",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1749148124
+    },
+    {
+      "id": 14,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Shirts",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745422802
+    },
+    {
+      "id": 15,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Full Set",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1718798015
+    },
+    {
+      "id": 16,
+      "type": "item",
+      "section": "Miscellaneous",
+      "name": "Consumables",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745415318
+    },
+    {
+      "id": 17,
+      "type": "item",
+      "section": "Personal Weapons",
+      "name": "Attachments",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745590695
+    },
+    {
+      "id": 18,
+      "type": "item",
+      "section": "Personal Weapons",
+      "name": "Personal Weapons",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1744738214
+    },
+    {
+      "id": 19,
+      "type": "item",
+      "section": "Systems",
+      "name": "Coolers",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1744878209
+    },
+    {
+      "id": 20,
+      "type": "item",
+      "section": "Liveries",
+      "name": "Liveries",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1703533992
+    },
+    {
+      "id": 21,
+      "type": "item",
+      "section": "Systems",
+      "name": "Power Plants",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1744883068
+    },
+    {
+      "id": 22,
+      "type": "item",
+      "section": "Systems",
+      "name": "Quantum Drives",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1744889870
+    },
+    {
+      "id": 23,
+      "type": "item",
+      "section": "Systems",
+      "name": "Shield Generators",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1744888974
+    },
+    {
+      "id": 24,
+      "type": "item",
+      "section": "Undersuits",
+      "name": "Undersuits",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1749109733
+    },
+    {
+      "id": 25,
+      "type": "item",
+      "section": "Utility",
+      "name": "Docking Collars",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1709667775
+    },
+    {
+      "id": 26,
+      "type": "item",
+      "section": "Utility",
+      "name": "External Fuel Tanks",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1747560129
+    },
+    {
+      "id": 27,
+      "type": "item",
+      "section": "Utility",
+      "name": "Fuel Nozzle",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1704935368
+    },
+    {
+      "id": 28,
+      "type": "item",
+      "section": "Utility",
+      "name": "Gadgets",
+      "is_game_related": 1,
+      "is_mining": 1,
+      "date_added": 1689783635,
+      "date_modified": 1714413474
+    },
+    {
+      "id": 29,
+      "type": "item",
+      "section": "Utility",
+      "name": "Mining Laser Heads",
+      "is_game_related": 1,
+      "is_mining": 1,
+      "date_added": 1689783635,
+      "date_modified": 1745118860
+    },
+    {
+      "id": 30,
+      "type": "item",
+      "section": "Utility",
+      "name": "Mining Modules",
+      "is_game_related": 1,
+      "is_mining": 1,
+      "date_added": 1689783635,
+      "date_modified": 1747560941
+    },
+    {
+      "id": 31,
+      "type": "item",
+      "section": "Utility",
+      "name": "Scraper Beams",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745414591
+    },
+    {
+      "id": 32,
+      "type": "item",
+      "section": "Vehicle Weapons",
+      "name": "Guns",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745342937
+    },
+    {
+      "id": 33,
+      "type": "item",
+      "section": "Vehicle Weapons",
+      "name": "Missile Racks",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1710218967
+    },
+    {
+      "id": 34,
+      "type": "item",
+      "section": "Vehicle Weapons",
+      "name": "Missiles",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1748535634
+    },
+    {
+      "id": 35,
+      "type": "item",
+      "section": "Vehicle Weapons",
+      "name": "Turrets",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1745414088
+    },
+    {
+      "id": 36,
+      "type": "item",
+      "section": "Commodities",
+      "name": "Commodities",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1704652267
+    },
+    {
+      "id": 37,
+      "type": "item",
+      "section": "Data",
+      "name": "Points of Interest",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 38,
+      "type": "item",
+      "section": "Other",
+      "name": "Other",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 1704989485
+    },
+    {
+      "id": 39,
+      "type": "service",
+      "section": "General",
+      "name": "Trading",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 40,
+      "type": "service",
+      "section": "General",
+      "name": "Hauling",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 41,
+      "type": "service",
+      "section": "General",
+      "name": "Mining",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 42,
+      "type": "service",
+      "section": "General",
+      "name": "Refining",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 43,
+      "type": "service",
+      "section": "General",
+      "name": "Salvaging",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 44,
+      "type": "service",
+      "section": "General",
+      "name": "Medical",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 45,
+      "type": "service",
+      "section": "General",
+      "name": "Refueling",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 46,
+      "type": "service",
+      "section": "General",
+      "name": "Repairing",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 47,
+      "type": "service",
+      "section": "General",
+      "name": "Scanning",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 48,
+      "type": "service",
+      "section": "General",
+      "name": "Exploration",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 49,
+      "type": "service",
+      "section": "General",
+      "name": "Construction",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 50,
+      "type": "service",
+      "section": "General",
+      "name": "Private Pilot",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 51,
+      "type": "service",
+      "section": "General",
+      "name": "Racing",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 52,
+      "type": "service",
+      "section": "General",
+      "name": "Towing",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 53,
+      "type": "service",
+      "section": "General",
+      "name": "Security",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 54,
+      "type": "service",
+      "section": "General",
+      "name": "Gunner",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 55,
+      "type": "service",
+      "section": "General",
+      "name": "Mercenary",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 56,
+      "type": "service",
+      "section": "General",
+      "name": "Datarunning",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 57,
+      "type": "service",
+      "section": "General",
+      "name": "Science",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 58,
+      "type": "service",
+      "section": "General",
+      "name": "Mass Transit",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 59,
+      "type": "service",
+      "section": "General",
+      "name": "Tourism",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 60,
+      "type": "service",
+      "section": "Other",
+      "name": "Other",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1689783635,
+      "date_modified": 0
+    },
+    {
+      "id": 61,
+      "type": "item",
+      "section": "Miscellaneous",
+      "name": "Miscellaneous",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1703521871,
+      "date_modified": 1745439761
+    },
+    {
+      "id": 62,
+      "type": "item",
+      "section": "Miscellaneous",
+      "name": "Drinks",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1703522433,
+      "date_modified": 1745412045
+    },
+    {
+      "id": 63,
+      "type": "item",
+      "section": "Miscellaneous",
+      "name": "Foods",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1703522450,
+      "date_modified": 1745412088
+    },
+    {
+      "id": 64,
+      "type": "item",
+      "section": "Utility",
+      "name": "Container",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1703524458,
+      "date_modified": 1745414628
+    },
+    {
+      "id": 65,
+      "type": "item",
+      "section": "Miscellaneous",
+      "name": "Container",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1703524496,
+      "date_modified": 1745412123
+    },
+    {
+      "id": 67,
+      "type": "item",
+      "section": "Utility",
+      "name": "Tractor Beams",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1703697293,
+      "date_modified": 1714482848
+    },
+    {
+      "id": 68,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Eyeware",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1707985831,
+      "date_modified": 1707985842
+    },
+    {
+      "id": 69,
+      "type": "item",
+      "section": "Consumable",
+      "name": "Consumable",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1709012173,
+      "date_modified": 1709012229
+    },
+    {
+      "id": 70,
+      "type": "item",
+      "section": "Vehicle Weapons",
+      "name": "Bombs",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1712428743,
+      "date_modified": 1712429031
+    },
+    {
+      "id": 71,
+      "type": "service",
+      "section": "General",
+      "name": "Engineering",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1713527146,
+      "date_modified": 1713527173
+    },
+    {
+      "id": 72,
+      "type": "item",
+      "section": "Clothing",
+      "name": "Dresses",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1715797060,
+      "date_modified": 0
+    },
+    {
+      "id": 73,
+      "type": "item",
+      "section": "Technology",
+      "name": "Mobiglas",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1716820409,
+      "date_modified": 0
+    },
+    {
+      "id": 74,
+      "type": "item",
+      "section": "Ship Modules",
+      "name": "Ship Modules",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1716939939,
+      "date_modified": 0
+    },
+    {
+      "id": 75,
+      "type": "item",
+      "section": "Decorations",
+      "name": "Decorations",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1719363168,
+      "date_modified": 1745434287
+    },
+    {
+      "id": 79,
+      "type": "item",
+      "section": "Vehicle Weapons",
+      "name": "Point Defense Cannon",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1731194690,
+      "date_modified": 1746937781
+    },
+    {
+      "id": 80,
+      "type": "item",
+      "section": "Vehicle Weapons",
+      "name": "Torpedo Tubes",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1731194988,
+      "date_modified": 0
+    },
+    {
+      "id": 81,
+      "type": "item",
+      "section": "Systems",
+      "name": "Batteries",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1731425647,
+      "date_modified": 0
+    },
+    {
+      "id": 82,
+      "type": "item",
+      "section": "Systems",
+      "name": "Avionics",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1731425672,
+      "date_modified": 0
+    },
+    {
+      "id": 83,
+      "type": "item",
+      "section": "Systems",
+      "name": "Radar",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1731425725,
+      "date_modified": 0
+    },
+    {
+      "id": 84,
+      "type": "item",
+      "section": "Systems",
+      "name": "Gravity Generator",
+      "is_game_related": 0,
+      "is_mining": 0,
+      "date_added": 1731425801,
+      "date_modified": 0
+    },
+    {
+      "id": 86,
+      "type": "item",
+      "section": "Propulsion",
+      "name": "Jump Modules",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1733591163,
+      "date_modified": 1745411452
+    },
+    {
+      "id": 87,
+      "type": "item",
+      "section": "Commodities",
+      "name": "Harvestables",
+      "is_game_related": 0,
+      "is_mining": 1,
+      "date_added": 1744482901,
+      "date_modified": 1744482918
+    },
+    {
+      "id": 89,
+      "type": "item",
+      "section": "Systems",
+      "name": "Avionics",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1747404684,
+      "date_modified": 1749288431
+    },
+    {
+      "id": 90,
+      "type": "item",
+      "section": "Vehicle Weapons",
+      "name": "Bomb Racks",
+      "is_game_related": 1,
+      "is_mining": 0,
+      "date_added": 1749097579,
+      "date_modified": 0
+    }
+  ],
+  "message": ""
+}

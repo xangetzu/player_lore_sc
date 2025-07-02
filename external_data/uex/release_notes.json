@@ -1,0 +1,157 @@
+{
+  "status": "ok",
+  "http_code": 200,
+  "data": [
+    {
+      "id": 164,
+      "date_updated": 1751411950,
+      "content": "API\r\n\r\nFixed an issue causing some links to break (thanks @ArkDelta for the heads-up)\r\nAdded support for marketplace_negotiations_messages (GET & POST)\r\n\r\n\r\nMarketplace\r\n\r\nNegotiations: Chat now updates automatically.\r\nListings: Verified users can upvote or downvote listings.\r\nAdded support for emoji shortcodes (e.g. :blush:) in listing descriptions and support messages\r\nMinor bug fixes"
+    },
+    {
+      "id": 163,
+      "date_updated": 1751150398,
+      "content": "UEX 2.2 – Org Tools & Marketplace UpgradesWe’re rolling out new features to give organizations more control and improving the marketplace experience across the board.\r\n\r\nNew Org Trader Role: Organizations can now assign the Trader role to trusted members, allowing them to:\r\n\r\nAdd and edit org listings\r\nNegotiate on behalf of the org\r\nMore flexibility, with basic accountability built in.\r\n\r\n\r\nMarketplace Improvements\r\n\r\nManage > Audit: New org-level activity log to help managers monitor member actions (basic logging for now, more coming soon)\r\nManage > Rating: You can now search your own ratings (limited visibility for privacy)\r\nManage > Deals:\r\n\r\nAdded \"Org\" filter (visible if you're linked to an org)\r\nBug fixes and performance tweaks\r\n\r\n\r\nNegotiate\r\n\r\nFixed a bug preventing ratings in some cases\r\nChat button removed from org-linked listings (as multiple members may manage them)\r\nGeneral bug fixes\r\n\r\n\r\nReporting\r\n\r\nUpgraded reporting system with improved stats\r\nAll reports are reviewed — if ToS violations are found, we act quickly\r\n\r\n\r\n\r\n\r\nAPI\r\n\r\nWebhooks (Early Support): We’re laying the groundwork for webhook integration. While still early, this opens the door to syncing external tools or automating workflows — more flexibility for power users and orgs.\r\n\r\n\r\nStability Note\r\n\r\nWhile tested extensively, some bugs may surface. If you spot anything unusual, let us know.\r\n\r\n\r\n\r\nThanks for helping us build a fairer, safer marketplace for everyone."
+    },
+    {
+      "id": 162,
+      "date_updated": 1750807257,
+      "content": "Marketplace\r\n\r\nManage → Settings: Added a Trading Hours input, allowing advertisers to more clearly indicate their in-game availability.\r\n\r\n\r\nAccount\r\n\r\nOrgs: Fixed an issue that prevented the verification tool from reading the confirmation code on the RSI website (thanks to @PLAYDAGAMES for the heads-up!).\r\n\r\n\r\nUsers\r\n\r\nFixed an issue where the wrong user profiles were being displayed."
+    },
+    {
+      "id": 161,
+      "date_updated": 1749230875,
+      "content": "We're rolling out an optimization update that, while tested internally, may introduce some unexpected bugs across the site. We're actively monitoring for issues.If you notice something broken, please let us know via our Bug Report page.We can't respond to everyone or fix every issue immediately, but we always read and appreciate your feedback."
+    },
+    {
+      "id": 160,
+      "date_updated": 1749162552,
+      "content": "Signup: Fixed an issue that prevented new users from completing the signup process, which was showing an unintended 'Bla bla bla' (yeah, I know...) placeholder message. Apologies for the oversight.\r\nAPI →  data_submit: PTU reports should now be correctly classified as submissions. Thanks to @PLAYDAGAMES for the heads-up."
+    },
+    {
+      "id": 159,
+      "date_updated": 1749090400,
+      "content": "Account → Verification: Optimized the verification process to improve accuracy and reduce false negatives.\r\nUser Profiles: Fixed an issue that prevented certain profiles from loading correctly."
+    },
+    {
+      "id": 158,
+      "date_updated": 1748641532,
+      "content": "Account Settings: Resolved an issue where certain website preferences were not saving as intended.\r\nTrade Center: Introduced \"Incidents\" in the trade log, marking locations where you encountered issues such as pirate attacks or collisions with space debris."
+    },
+    {
+      "id": 157,
+      "date_updated": 1748106004,
+      "content": "Items\r\n\r\nFixed a critical bug that caused the Items page to remain non-functional. Unfortunately, this issue occurred during our break time, so we apologize for the oversight.\r\n\r\n\r\nTrade → Routes\r\n\r\nAdded 'No Questions Asked' filter and fixed an issue that prevented routes to or from these terminals from appearing in the routes list."
+    },
+    {
+      "id": 156,
+      "date_updated": 1748051845,
+      "content": "Marketplace → Negotiations → Deals Tab\r\n\r\nFixed an issue where messages and notifications from blocked users still appeared in the Deals list.\r\n\r\n\r\nFleet → My Orgs\r\n\r\nFixed an issue where vehicles from users removed from organizations continued to appear on the list.\r\n\r\n\r\nTrade → Routes\r\n\r\nAdded an 'Averages' filter that allows toggling between routes based on the latest reported values and the new 15-day averages."
+    },
+    {
+      "id": 155,
+      "date_updated": 1747957846,
+      "content": "Trade\r\n\r\nRoutes: Fixed an issue that caused incorrect profit calculations for subroutes."
+    },
+    {
+      "id": 154,
+      "date_updated": 1747864658,
+      "content": "Marketplace\r\n\r\nNew listing images now automatically include a watermark with the advertiser's username. This helps reduce the risk of image theft. Advertisers can also upload a custom watermark via the Marketplace > Manage > Settings page.\r\nAdvertisers can now specify the source of an item, allowing clients to know whether it originates from a pledge, loot, piracy, or duplication.\r\nFixed an issue affecting the 'Newest' sort filter.\r\n\r\n\r\nAPI\r\n\r\n/marketplace_listings\r\n\r\nFixed an issue that omitted several keys from the results under certain conditions.\r\nAdded the source key to the results."
+    },
+    {
+      "id": 153,
+      "date_updated": 1747665302,
+      "content": "API\r\n\r\n/marketplace_negotiations\r\n\r\nYou can now list all advertisement deals associated with a user. \r\n\r\n\r\n/user_notifications\r\n\r\nUsers can now retrieve account notifications via the API. Requires the user's secret_key.\r\n\r\n\r\n/user\r\n\r\nAdded new columns: is_datarunner, is_datarunner_banned and is_staff."
+    },
+    {
+      "id": 151,
+      "date_updated": 1747260574,
+      "content": "API > data_submit\r\n\r\nAdded optional date_added parameter to allow setting a custom report creation date."
+    },
+    {
+      "id": 150,
+      "date_updated": 1747157336,
+      "content": "Account / Organizations\r\n\r\nFixed an issue that prevented some users from leaving an organization on their own\r\nFixed a permission issue that prevented org owners from deleting their organizations (Thanks @Lucky_MuadDib!)\r\n\r\n\r\nMarketplace / Negotiations\r\n\r\nFixed an issue where expired listings under negotiation were not properly labeled, causing users to believe the negotiation was still active"
+    },
+    {
+      "id": 149,
+      "date_updated": 1747054473,
+      "content": "Account Settings & Organizations > Manage:\r\n\r\nFixed an issue where form data was unintentionally displayed after submission. (Thanks @TheKronny!)"
+    },
+    {
+      "id": 148,
+      "date_updated": 1746711781,
+      "content": "Items\r\n\r\nFixed an issue where items with an asterisk in their names were not searchable. (Thanks @Hurricane!)\r\n\r\n\r\nMarketplace > Manage > Negotiations\r\n\r\nNegotiations: Fixed an issue where negotiations for hidden listings were not displayed. (Thanks @FatalMerlin!)\r\n\r\n\r\nAPI > terminals\r\n\r\nThe name parameter now searches both the name and nickname fields."
+    },
+    {
+      "id": 147,
+      "date_updated": 1746303202,
+      "content": "API\r\n\r\ndata_submit\r\n\r\nResolved an issue that triggered a 500 error during screenshot uploads."
+    },
+    {
+      "id": 146,
+      "date_updated": 1746221183,
+      "content": "Marketplace\r\n\r\nNegotiations\r\n\r\nA 5-star rating is now selected by default to prevent accidental negative reviews when users forget to set a rating.\r\n\r\n\r\n\r\n\r\nTrade\r\n\r\nRoutes\r\n\r\nAdded Average values for reference\r\n\r\n\r\n\r\n\r\nUsers\r\n\r\nReviews\r\n\r\nAdded a \"My Reviews\" section where users can view the reviews they've written."
+    },
+    {
+      "id": 145,
+      "date_updated": 1745865101,
+      "content": "Trade\r\n\r\nTrade Center\r\n\r\nFixed a major issue that caused unknown wallet registries to appear randomly, resulting in invalid wallet values. Thanks to @kay_j for the heads up.\r\n\r\n\r\nPrice Finder\r\n\r\n(Datarunners Only) Fixed a link formatting issue that caused the History query to return incorrect results, including wrong average values."
+    },
+    {
+      "id": 144,
+      "date_updated": 1745701660,
+      "content": "Commodities\r\n\r\nInfo\r\n\r\nFixed an issue where clicking on charts (datarunners only) opened the History tool with the wrong period selected.\r\n\r\n\r\n\r\n\r\nMining\r\n\r\nPricing / Mining Center\r\n\r\nFixed an issue preventing Stileron and Silicon from appearing in the list.\r\nFixed an issue causing some links to throw a 404 error page."
+    },
+    {
+      "id": 143,
+      "date_updated": 1745337471,
+      "content": "Items\r\n\r\nDue to an internal process issue, several item attributes were updated with incorrect data. Since our backups are from a previous version, and the last patch brought many changes, we’re asking datarunners to help us correct them. You can submit updates via Data > Request or directly on an item’s page under Specifications > Update (Datarunners only). We appreciate your support and apologize for the inaccurate info.\r\nOutdated attribute values are now visually marked.\r\nInfo Page: Fixed an issue that was preventing the search bar from functioning properly.\r\n\r\n\r\nDatacenter\r\n\r\nFixed an issue where attributes with a value of \"0\" were not saved to the database after processing reports. (Thanks @Xerwon!)"
+    },
+    {
+      "id": 142,
+      "date_updated": 1745274802,
+      "content": "Trade\r\n\r\nTrade Center\r\n\r\nAdded a Transaction input to log total transaction values.\r\n\r\nEntering the Transaction amount and SCU will auto-calculate the Price.\r\nEntering the Price and Transaction will auto-fill the SCU.\r\n\r\n\r\nFixed an issue that could prevent users from editing certain trade trips.\r\nYour feedback is important — let us know what you think about these changes!"
+    },
+    {
+      "id": 141,
+      "date_updated": 1746016024,
+      "content": "Mining\r\n\r\nComponents\r\n\r\nAdded visual highlights to indicate when a mining item was updated in a different game version than the one currently supported by the site.\r\nEnabled horizontal scrolling via click-and-drag with the mouse.\r\n\r\n\r\n\r\n\r\nDatacenter\r\n\r\nRequests\r\n\r\nEdit Report\r\n\r\nFixed an issue where editing a request could cause the loss of report attribute data, reverting to default values instead.\r\nAdditional bug fixes."
+    },
+    {
+      "id": 140,
+      "date_updated": 1745096673,
+      "content": "Marketplace\r\n\r\nNegotiations Page\r\n\r\nFixed an issue that prevented some users from sending messages during negotiations.\r\n\r\n\r\n\r\n\r\nMining\r\n\r\nAdded a new Components tab featuring simple tables for quick attribute comparisons."
+    },
+    {
+      "id": 139,
+      "date_updated": 1744930591,
+      "content": "Accounts\r\n\r\nIntroduced a new Notifications tab, allowing users to manage how they receive updates across the site. For now, only Marketplace notifications are available.To help keep costs under control, email notification frequency will be limited. If you'd like to support the site and help expand notifications to other tools, consider becoming a donor.\r\n\r\n\r\n Marketplace\r\n\r\nHome\r\n\r\nAdded a Sort by filter\r\n\r\n\r\nItem Info\r\n\r\nThe label 'Online {x} days ago' now displays an approximate time based on the trader's last activity.\r\n\r\n\r\nManage\r\n\r\nYou can now hide negotiations you no longer want to follow\r\n\r\n\r\nNegotiations\r\n\r\nFixed an issue where webhooks were not triggered when a deal was closed.\r\nSending a message or closing a deal will now trigger transactional emails — for users who have email notifications enabled."
+    },
+    {
+      "id": 138,
+      "date_updated": 1744653560,
+      "content": "Account\r\n\r\nAdded 'Friend Requests' tool"
+    },
+    {
+      "id": 137,
+      "date_updated": 1744514640,
+      "content": "Marketplace\r\n\r\nLists\r\n\r\nFixed a rounding issue that caused price anomalies.\r\n\r\n\r\nNegotiations\r\n\r\nFixed an issue where seller/buyer ratings (stars) were displaying incorrect values.\r\nAdded In-game Location to the negotiation header.\r\n\r\n\r\nAdvertise & Edit\r\n\r\nAdded new In-game Location input (thanks @Immandil!).\r\n\r\n\r\n\r\n\r\nUser Profiles\r\n\r\nMarketplace Tab: Fixed a counting issue that caused price anomalies.\r\n\r\n\r\nAPI\r\n\r\nmarketplace_listings & marketplace_advertise\r\n\r\nAdded column 'location'\r\nUpdated documentation"
+    },
+    {
+      "id": 136,
+      "date_updated": 1744483920,
+      "content": "API\r\n\r\ncommodities: Adding 'is_refinable' column. \r\n\r\n\r\nUsers\r\n\r\nUser Profile Page\r\n\r\nReworked for improved readability.\r\nMarketplace Tab\r\n\r\nAdded transaction labels (WTS, WTB, WTT, WTF, etc.).\r\nAdded \"Sold Out\" and \"New\" item labels.\r\nAdded a quick search feature.\r\nPagination is planned for a future release.\r\n\r\n\r\nReviews Tab\r\n\r\nNow displays both positive and negative reviews.\r\nNote: Not all reviews may be shown due to internal filtering criteria.\r\nPagination is planned for a future release.\r\n\r\n\r\nFleet Tab\r\n\r\nAdded a quick search feature.\r\nDatarunner Tab (Visible only to Datarunners)\r\nMoved the home chart to this tab.\r\nAdded new statistics section.\r\n\r\n\r\n\r\n\r\n\r\n\r\nMarketplace\r\n\r\nAdded a new \"Harvestables\" category under Commodities (thanks to @Ronillon for the suggestion).\r\nAdvertise: Fixed an issue preventing some users from progressing to the next step due to a \"missing language\" error. (thanks @CitizenJaxSnow)\r\nHome: Fixed a display issue with favorite labels.\r\nManage > Listings\r\n\r\nFixed a database performance issue that caused long load times.\r\nThe \"Deals\" column now displays deals in a n/n format (successful deals / total negotiations). Hovering shows the success percentage."
+    },
+    {
+      "id": 135,
+      "date_updated": 1744413286,
+      "content": "Marketplace > Negotiations page: Fixed a layout issue that was hiding part of the page. Thanks @SouthernNord for the heads up. Apologies for the disruption.\r\nOther fixes and improvements. Thanks to @Lulu, @agathorn, @Testiculitis, and others for your bug reports."
+    },
+    {
+      "id": 134,
+      "date_updated": 1744114949,
+      "content": "Marketplace\r\n\r\nNegotiations\r\n\r\nNegotiations can no longer be ended by either party within the first 24 hours. This change helps prevent clients or suppliers from ending negotiations prematurely due to delayed responses. Since users are in different time zones, this aims to reduce misunderstandings. Rolled back temporarily.\r\nTimezone information (if selected by the user) is now displayed on the negotiations screen.\r\n\r\n\r\nInfo Page\r\n\r\nAdded \"More From Seller\" suggestions to display other relevant items listed by the same trader.\r\nIncreased the number of \"You May Also Like\" listings from 8 to 16.\r\n\r\n\r\n\r\n\r\nDatacenter\r\n\r\nSubmit\r\n\r\nRequest: Fixed an issue where items with double quotes in their names weren’t fully populating in the input field. (thanks @Hurric4ne!)\r\n\r\n\r\n\r\n\r\nMining\r\n\r\nMining Center\r\n\r\nFixed an issue where only the first refinery job row was exported when clicking \"Download as CSV\". (Thanks @Hokman!)\r\n\r\n\r\n\r\n\r\nCommodities\r\n\r\nAverages Index tab\r\n\r\nFixed an issue that prevented certain commodities from appearing in the list.\r\n\r\n\r\n\r\n\r\nAPI\r\n\r\nThe commodities_ranking resource is now deprecated. We recommend using the cax_score column from the commodities_averages endpoint as a replacement.\r\nMigrated raw-form commodities from 'commodities_averages' to the new 'commodities_raw_averages' table.\r\nAdded 'buy prices' for resources commodities_raw_prices and commodities_raw_prices_history."
+    }
+  ],
+  "message": ""
+}

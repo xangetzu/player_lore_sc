@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "http_code": 200,
+  "data": {
+    "global": {
+      "is_accepting_reports": 1,
+      "is_accepting_ptu_reports": 1,
+      "is_datacenter_enabled": 1,
+      "game_version": "4.2",
+      "game_version_ptu": "4.2.1",
+      "evaluation_period_days": 90
+    },
+    "commodity": {
+      "is_accepted": 1,
+      "is_temporary_enabled": 1,
+      "price_variation": 60,
+      "scu_variation": 5000,
+      "ttl": 15
+    },
+    "item": {
+      "is_accepted": 1,
+      "price_variation": 100,
+      "ttl": 60
+    },
+    "vehicle_rent": {
+      "is_accepted": 1,
+      "price_variation": 60,
+      "ttl": 60
+    },
+    "vehicle_buy": {
+      "is_accepted": 1,
+      "price_variation": 10,
+      "ttl": 60
+    }
+  },
+  "message": ""
+}

@@ -1,0 +1,1797 @@
+{
+  "status": "ok",
+  "http_code": 200,
+  "data": [
+    {
+      "id": 3,
+      "id_vehicle": 118,
+      "id_terminal": 147,
+      "price_rent": 37485,
+      "date_added": 1703535837,
+      "date_modified": 1750366837,
+      "vehicle_name": "M50",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 4,
+      "id_vehicle": 4,
+      "id_terminal": 147,
+      "price_rent": 34398,
+      "date_added": 1703535837,
+      "date_modified": 1750366837,
+      "vehicle_name": "300i",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 5,
+      "id_vehicle": 10,
+      "id_terminal": 147,
+      "price_rent": 680794,
+      "date_added": 1703535837,
+      "date_modified": 1750366837,
+      "vehicle_name": "600i Explorer",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 7,
+      "id_vehicle": 45,
+      "id_terminal": 147,
+      "price_rent": 254016,
+      "date_added": 1703535837,
+      "date_modified": 1750366837,
+      "vehicle_name": "Constellation Andromeda",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 10,
+      "id_vehicle": 27,
+      "id_terminal": 151,
+      "price_rent": 27165,
+      "date_added": 1703539451,
+      "date_modified": 1750352170,
+      "vehicle_name": "Avenger Titan",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 13,
+      "id_vehicle": 128,
+      "id_terminal": 151,
+      "price_rent": 9639,
+      "date_added": 1703539451,
+      "date_modified": 1750352170,
+      "vehicle_name": "Mustang Alpha",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 15,
+      "id_vehicle": 67,
+      "id_terminal": 151,
+      "price_rent": 8568,
+      "date_added": 1703539451,
+      "date_modified": 1750352170,
+      "vehicle_name": "Dragonfly Black",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 17,
+      "id_vehicle": 22,
+      "id_terminal": 151,
+      "price_rent": 6351,
+      "date_added": 1703539451,
+      "date_modified": 1750352170,
+      "vehicle_name": "Aurora ES",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 19,
+      "id_vehicle": 60,
+      "id_terminal": 151,
+      "price_rent": 2598,
+      "date_added": 1703539452,
+      "date_modified": 1750352170,
+      "vehicle_name": "Cyclone",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 22,
+      "id_vehicle": 52,
+      "id_terminal": 156,
+      "price_rent": 52920,
+      "date_added": 1703542365,
+      "date_modified": 1749916705,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Traveler Baijini"
+    },
+    {
+      "id": 25,
+      "id_vehicle": 52,
+      "id_terminal": 167,
+      "price_rent": 52920,
+      "date_added": 1703562466,
+      "date_modified": 1750469473,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Traveler Tressler"
+    },
+    {
+      "id": 26,
+      "id_vehicle": 168,
+      "id_terminal": 157,
+      "price_rent": 2599,
+      "date_added": 1703616590,
+      "date_modified": 1750607854,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage ARCL1"
+    },
+    {
+      "id": 27,
+      "id_vehicle": 148,
+      "id_terminal": 157,
+      "price_rent": 73238,
+      "date_added": 1703616590,
+      "date_modified": 1750607854,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage ARCL1"
+    },
+    {
+      "id": 28,
+      "id_vehicle": 52,
+      "id_terminal": 157,
+      "price_rent": 52920,
+      "date_added": 1703616590,
+      "date_modified": 1750607854,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage ARCL1"
+    },
+    {
+      "id": 32,
+      "id_vehicle": 128,
+      "id_terminal": 152,
+      "price_rent": 9639,
+      "date_added": 1703643865,
+      "date_modified": 1747181218,
+      "vehicle_name": "Mustang Alpha",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 33,
+      "id_vehicle": 67,
+      "id_terminal": 152,
+      "price_rent": 8568,
+      "date_added": 1703643865,
+      "date_modified": 1747181215,
+      "vehicle_name": "Dragonfly Black",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 37,
+      "id_vehicle": 22,
+      "id_terminal": 152,
+      "price_rent": 10584,
+      "date_added": 1703643865,
+      "date_modified": 1747181215,
+      "vehicle_name": "Aurora ES",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 39,
+      "id_vehicle": 60,
+      "id_terminal": 152,
+      "price_rent": 2599,
+      "date_added": 1703643865,
+      "date_modified": 1747181214,
+      "vehicle_name": "Cyclone",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 42,
+      "id_vehicle": 52,
+      "id_terminal": 163,
+      "price_rent": 52920,
+      "date_added": 1703659637,
+      "date_modified": 1749912883,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Traveler Everus"
+    },
+    {
+      "id": 43,
+      "id_vehicle": 168,
+      "id_terminal": 158,
+      "price_rent": 2599,
+      "date_added": 1703694635,
+      "date_modified": 1750709574,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage ARCL2"
+    },
+    {
+      "id": 44,
+      "id_vehicle": 148,
+      "id_terminal": 158,
+      "price_rent": 73238,
+      "date_added": 1703694635,
+      "date_modified": 1750709574,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage ARCL2"
+    },
+    {
+      "id": 45,
+      "id_vehicle": 52,
+      "id_terminal": 158,
+      "price_rent": 52920,
+      "date_added": 1703694635,
+      "date_modified": 1750709574,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage ARCL2"
+    },
+    {
+      "id": 46,
+      "id_vehicle": 168,
+      "id_terminal": 267,
+      "price_rent": 2599,
+      "date_added": 1703707272,
+      "date_modified": 1751206585,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage ARCL4"
+    },
+    {
+      "id": 47,
+      "id_vehicle": 148,
+      "id_terminal": 267,
+      "price_rent": 73238,
+      "date_added": 1703707272,
+      "date_modified": 1751206585,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage ARCL4"
+    },
+    {
+      "id": 48,
+      "id_vehicle": 52,
+      "id_terminal": 267,
+      "price_rent": 52920,
+      "date_added": 1703707272,
+      "date_modified": 1751206585,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage ARCL4"
+    },
+    {
+      "id": 59,
+      "id_vehicle": 168,
+      "id_terminal": 165,
+      "price_rent": 2598,
+      "date_added": 1703990620,
+      "date_modified": 1750159426,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage MICL2"
+    },
+    {
+      "id": 60,
+      "id_vehicle": 148,
+      "id_terminal": 165,
+      "price_rent": 73237,
+      "date_added": 1703990620,
+      "date_modified": 1750159426,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage MICL2"
+    },
+    {
+      "id": 61,
+      "id_vehicle": 52,
+      "id_terminal": 165,
+      "price_rent": 52920,
+      "date_added": 1703990620,
+      "date_modified": 1750159426,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage MICL2"
+    },
+    {
+      "id": 62,
+      "id_vehicle": 168,
+      "id_terminal": 166,
+      "price_rent": 2598,
+      "date_added": 1704459750,
+      "date_modified": 1750965505,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage MICL5"
+    },
+    {
+      "id": 63,
+      "id_vehicle": 148,
+      "id_terminal": 166,
+      "price_rent": 73237,
+      "date_added": 1704459750,
+      "date_modified": 1750965505,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage MICL5"
+    },
+    {
+      "id": 64,
+      "id_vehicle": 52,
+      "id_terminal": 166,
+      "price_rent": 52920,
+      "date_added": 1704459750,
+      "date_modified": 1750965505,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage MICL5"
+    },
+    {
+      "id": 67,
+      "id_vehicle": 52,
+      "id_terminal": 291,
+      "price_rent": 52920,
+      "date_added": 1704465082,
+      "date_modified": 1750828170,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Traveler Terra Gateway"
+    },
+    {
+      "id": 68,
+      "id_vehicle": 168,
+      "id_terminal": 298,
+      "price_rent": 2599,
+      "date_added": 1704465195,
+      "date_modified": 1751118236,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage Terra Gateway"
+    },
+    {
+      "id": 69,
+      "id_vehicle": 148,
+      "id_terminal": 298,
+      "price_rent": 73238,
+      "date_added": 1704465195,
+      "date_modified": 1751118236,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage Terra Gateway"
+    },
+    {
+      "id": 70,
+      "id_vehicle": 52,
+      "id_terminal": 298,
+      "price_rent": 52920,
+      "date_added": 1704465195,
+      "date_modified": 1751118236,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage Terra Gateway"
+    },
+    {
+      "id": 71,
+      "id_vehicle": 168,
+      "id_terminal": 153,
+      "price_rent": 2599,
+      "date_added": 1704588943,
+      "date_modified": 1750924653,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage HURL1"
+    },
+    {
+      "id": 72,
+      "id_vehicle": 148,
+      "id_terminal": 153,
+      "price_rent": 73238,
+      "date_added": 1704588943,
+      "date_modified": 1750924653,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage HURL1"
+    },
+    {
+      "id": 73,
+      "id_vehicle": 52,
+      "id_terminal": 153,
+      "price_rent": 52920,
+      "date_added": 1704588943,
+      "date_modified": 1750924653,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage HURL1"
+    },
+    {
+      "id": 74,
+      "id_vehicle": 168,
+      "id_terminal": 162,
+      "price_rent": 2599,
+      "date_added": 1704934946,
+      "date_modified": 1751215632,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage HURL2"
+    },
+    {
+      "id": 75,
+      "id_vehicle": 148,
+      "id_terminal": 162,
+      "price_rent": 73238,
+      "date_added": 1704934946,
+      "date_modified": 1751215632,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage HURL2"
+    },
+    {
+      "id": 76,
+      "id_vehicle": 52,
+      "id_terminal": 162,
+      "price_rent": 52920,
+      "date_added": 1704934946,
+      "date_modified": 1751215632,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage HURL2"
+    },
+    {
+      "id": 77,
+      "id_vehicle": 168,
+      "id_terminal": 164,
+      "price_rent": 2599,
+      "date_added": 1705033548,
+      "date_modified": 1750769965,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage MICL1"
+    },
+    {
+      "id": 78,
+      "id_vehicle": 148,
+      "id_terminal": 164,
+      "price_rent": 73238,
+      "date_added": 1705033548,
+      "date_modified": 1750769965,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage MICL1"
+    },
+    {
+      "id": 79,
+      "id_vehicle": 52,
+      "id_terminal": 164,
+      "price_rent": 52920,
+      "date_added": 1705033548,
+      "date_modified": 1750769965,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage MICL1"
+    },
+    {
+      "id": 82,
+      "id_vehicle": 52,
+      "id_terminal": 312,
+      "price_rent": 52920,
+      "date_added": 1705035212,
+      "date_modified": 1751289656,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Traveler Pyro Gateway"
+    },
+    {
+      "id": 83,
+      "id_vehicle": 168,
+      "id_terminal": 319,
+      "price_rent": 2599,
+      "date_added": 1705039130,
+      "date_modified": 1748704106,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage Pyro Gateway"
+    },
+    {
+      "id": 84,
+      "id_vehicle": 148,
+      "id_terminal": 319,
+      "price_rent": 73238,
+      "date_added": 1705039130,
+      "date_modified": 1748704106,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage Pyro Gateway"
+    },
+    {
+      "id": 85,
+      "id_vehicle": 52,
+      "id_terminal": 319,
+      "price_rent": 52920,
+      "date_added": 1705039130,
+      "date_modified": 1750472720,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage Pyro Gateway"
+    },
+    {
+      "id": 86,
+      "id_vehicle": 168,
+      "id_terminal": 160,
+      "price_rent": 2599,
+      "date_added": 1705146421,
+      "date_modified": 1750707080,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage CRUL1"
+    },
+    {
+      "id": 87,
+      "id_vehicle": 148,
+      "id_terminal": 160,
+      "price_rent": 73238,
+      "date_added": 1705146421,
+      "date_modified": 1750707080,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage CRUL1"
+    },
+    {
+      "id": 88,
+      "id_vehicle": 52,
+      "id_terminal": 160,
+      "price_rent": 52920,
+      "date_added": 1705146421,
+      "date_modified": 1750707080,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage CRUL1"
+    },
+    {
+      "id": 91,
+      "id_vehicle": 52,
+      "id_terminal": 323,
+      "price_rent": 52920,
+      "date_added": 1705292379,
+      "date_modified": 1750915107,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Traveler Magnus Gateway"
+    },
+    {
+      "id": 92,
+      "id_vehicle": 168,
+      "id_terminal": 324,
+      "price_rent": 2598,
+      "date_added": 1705293342,
+      "date_modified": 1750919678,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage Magnus Gateway"
+    },
+    {
+      "id": 93,
+      "id_vehicle": 148,
+      "id_terminal": 324,
+      "price_rent": 73237,
+      "date_added": 1705293342,
+      "date_modified": 1750919678,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage Magnus Gateway"
+    },
+    {
+      "id": 94,
+      "id_vehicle": 52,
+      "id_terminal": 324,
+      "price_rent": 52920,
+      "date_added": 1705293342,
+      "date_modified": 1750919678,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage Magnus Gateway"
+    },
+    {
+      "id": 97,
+      "id_vehicle": 52,
+      "id_terminal": 346,
+      "price_rent": 52920,
+      "date_added": 1711374538,
+      "date_modified": 1751110533,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Traveler Seraphim"
+    },
+    {
+      "id": 211,
+      "id_vehicle": 148,
+      "id_terminal": 529,
+      "price_rent": 73238,
+      "date_added": 1733353552,
+      "date_modified": 1751218785,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Traveler Stanton Gateway"
+    },
+    {
+      "id": 212,
+      "id_vehicle": 52,
+      "id_terminal": 529,
+      "price_rent": 52920,
+      "date_added": 1733353552,
+      "date_modified": 1751218785,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Traveler Stanton Gateway"
+    },
+    {
+      "id": 215,
+      "id_vehicle": 122,
+      "id_terminal": 156,
+      "price_rent": 223257,
+      "date_added": 1734033810,
+      "date_modified": 1749916705,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Traveler Baijini"
+    },
+    {
+      "id": 216,
+      "id_vehicle": 136,
+      "id_terminal": 156,
+      "price_rent": 30240,
+      "date_added": 1734033810,
+      "date_modified": 1749916705,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Baijini"
+    },
+    {
+      "id": 217,
+      "id_vehicle": 227,
+      "id_terminal": 156,
+      "price_rent": 10395,
+      "date_added": 1734033810,
+      "date_modified": 1749916705,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Traveler Baijini"
+    },
+    {
+      "id": 218,
+      "id_vehicle": 57,
+      "id_terminal": 156,
+      "price_rent": 9526,
+      "date_added": 1734033810,
+      "date_modified": 1749916705,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Baijini"
+    },
+    {
+      "id": 219,
+      "id_vehicle": 82,
+      "id_terminal": 156,
+      "price_rent": 85050,
+      "date_added": 1734033811,
+      "date_modified": 1749916705,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Traveler Baijini"
+    },
+    {
+      "id": 220,
+      "id_vehicle": 102,
+      "id_terminal": 156,
+      "price_rent": 34020,
+      "date_added": 1734033811,
+      "date_modified": 1749916705,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Traveler Baijini"
+    },
+    {
+      "id": 221,
+      "id_vehicle": 148,
+      "id_terminal": 156,
+      "price_rent": 73238,
+      "date_added": 1734033811,
+      "date_modified": 1749916705,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Traveler Baijini"
+    },
+    {
+      "id": 222,
+      "id_vehicle": 122,
+      "id_terminal": 529,
+      "price_rent": 223257,
+      "date_added": 1734102170,
+      "date_modified": 1751218785,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Traveler Stanton Gateway"
+    },
+    {
+      "id": 223,
+      "id_vehicle": 136,
+      "id_terminal": 529,
+      "price_rent": 30240,
+      "date_added": 1734102170,
+      "date_modified": 1751218785,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Stanton Gateway"
+    },
+    {
+      "id": 224,
+      "id_vehicle": 227,
+      "id_terminal": 529,
+      "price_rent": 10395,
+      "date_added": 1734102170,
+      "date_modified": 1751218785,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Traveler Stanton Gateway"
+    },
+    {
+      "id": 225,
+      "id_vehicle": 57,
+      "id_terminal": 529,
+      "price_rent": 9526,
+      "date_added": 1734102170,
+      "date_modified": 1751218785,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Stanton Gateway"
+    },
+    {
+      "id": 226,
+      "id_vehicle": 82,
+      "id_terminal": 529,
+      "price_rent": 85050,
+      "date_added": 1734102170,
+      "date_modified": 1751218785,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Traveler Stanton Gateway"
+    },
+    {
+      "id": 227,
+      "id_vehicle": 102,
+      "id_terminal": 529,
+      "price_rent": 34020,
+      "date_added": 1734102170,
+      "date_modified": 1751218785,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Traveler Stanton Gateway"
+    },
+    {
+      "id": 228,
+      "id_vehicle": 122,
+      "id_terminal": 153,
+      "price_rent": 223257,
+      "date_added": 1734102171,
+      "date_modified": 1750924653,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage HURL1"
+    },
+    {
+      "id": 229,
+      "id_vehicle": 122,
+      "id_terminal": 162,
+      "price_rent": 223257,
+      "date_added": 1734102171,
+      "date_modified": 1751215633,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage HURL2"
+    },
+    {
+      "id": 240,
+      "id_vehicle": 122,
+      "id_terminal": 346,
+      "price_rent": 223256,
+      "date_added": 1734102172,
+      "date_modified": 1751110533,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Traveler Seraphim"
+    },
+    {
+      "id": 241,
+      "id_vehicle": 136,
+      "id_terminal": 346,
+      "price_rent": 30240,
+      "date_added": 1734102173,
+      "date_modified": 1751110533,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Seraphim"
+    },
+    {
+      "id": 242,
+      "id_vehicle": 227,
+      "id_terminal": 346,
+      "price_rent": 10395,
+      "date_added": 1734102173,
+      "date_modified": 1751110533,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Traveler Seraphim"
+    },
+    {
+      "id": 243,
+      "id_vehicle": 57,
+      "id_terminal": 346,
+      "price_rent": 9526,
+      "date_added": 1734102173,
+      "date_modified": 1751110533,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Seraphim"
+    },
+    {
+      "id": 244,
+      "id_vehicle": 82,
+      "id_terminal": 346,
+      "price_rent": 85050,
+      "date_added": 1734102173,
+      "date_modified": 1751110533,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Traveler Seraphim"
+    },
+    {
+      "id": 245,
+      "id_vehicle": 102,
+      "id_terminal": 346,
+      "price_rent": 34020,
+      "date_added": 1734102173,
+      "date_modified": 1751110533,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Traveler Seraphim"
+    },
+    {
+      "id": 246,
+      "id_vehicle": 148,
+      "id_terminal": 346,
+      "price_rent": 73238,
+      "date_added": 1734102173,
+      "date_modified": 1751110533,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Traveler Seraphim"
+    },
+    {
+      "id": 247,
+      "id_vehicle": 122,
+      "id_terminal": 267,
+      "price_rent": 223257,
+      "date_added": 1734102173,
+      "date_modified": 1751206585,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage ARCL4"
+    },
+    {
+      "id": 248,
+      "id_vehicle": 122,
+      "id_terminal": 164,
+      "price_rent": 223257,
+      "date_added": 1734102174,
+      "date_modified": 1750769965,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage MICL1"
+    },
+    {
+      "id": 249,
+      "id_vehicle": 122,
+      "id_terminal": 160,
+      "price_rent": 223257,
+      "date_added": 1734102174,
+      "date_modified": 1750707080,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage CRUL1"
+    },
+    {
+      "id": 250,
+      "id_vehicle": 122,
+      "id_terminal": 312,
+      "price_rent": 223257,
+      "date_added": 1734102174,
+      "date_modified": 1751289656,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Traveler Pyro Gateway"
+    },
+    {
+      "id": 251,
+      "id_vehicle": 136,
+      "id_terminal": 312,
+      "price_rent": 30240,
+      "date_added": 1734102174,
+      "date_modified": 1751289656,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Pyro Gateway"
+    },
+    {
+      "id": 252,
+      "id_vehicle": 227,
+      "id_terminal": 312,
+      "price_rent": 10395,
+      "date_added": 1734102174,
+      "date_modified": 1751289656,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Traveler Pyro Gateway"
+    },
+    {
+      "id": 253,
+      "id_vehicle": 57,
+      "id_terminal": 312,
+      "price_rent": 9526,
+      "date_added": 1734102174,
+      "date_modified": 1751289656,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Pyro Gateway"
+    },
+    {
+      "id": 254,
+      "id_vehicle": 82,
+      "id_terminal": 312,
+      "price_rent": 85050,
+      "date_added": 1734102175,
+      "date_modified": 1751289656,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Traveler Pyro Gateway"
+    },
+    {
+      "id": 255,
+      "id_vehicle": 102,
+      "id_terminal": 312,
+      "price_rent": 34020,
+      "date_added": 1734102175,
+      "date_modified": 1751289656,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Traveler Pyro Gateway"
+    },
+    {
+      "id": 256,
+      "id_vehicle": 148,
+      "id_terminal": 312,
+      "price_rent": 73238,
+      "date_added": 1734102175,
+      "date_modified": 1751289656,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Traveler Pyro Gateway"
+    },
+    {
+      "id": 257,
+      "id_vehicle": 122,
+      "id_terminal": 319,
+      "price_rent": 223257,
+      "date_added": 1734102175,
+      "date_modified": 1748704106,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage Pyro Gateway"
+    },
+    {
+      "id": 267,
+      "id_vehicle": 122,
+      "id_terminal": 167,
+      "price_rent": 223257,
+      "date_added": 1734672228,
+      "date_modified": 1750374045,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Traveler Tressler"
+    },
+    {
+      "id": 268,
+      "id_vehicle": 136,
+      "id_terminal": 167,
+      "price_rent": 30240,
+      "date_added": 1734672228,
+      "date_modified": 1750469473,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Tressler"
+    },
+    {
+      "id": 269,
+      "id_vehicle": 227,
+      "id_terminal": 167,
+      "price_rent": 10395,
+      "date_added": 1734672228,
+      "date_modified": 1750469473,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Traveler Tressler"
+    },
+    {
+      "id": 270,
+      "id_vehicle": 57,
+      "id_terminal": 167,
+      "price_rent": 9526,
+      "date_added": 1734672228,
+      "date_modified": 1750374045,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Tressler"
+    },
+    {
+      "id": 271,
+      "id_vehicle": 82,
+      "id_terminal": 167,
+      "price_rent": 85050,
+      "date_added": 1734672228,
+      "date_modified": 1750469473,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Traveler Tressler"
+    },
+    {
+      "id": 272,
+      "id_vehicle": 102,
+      "id_terminal": 167,
+      "price_rent": 34020,
+      "date_added": 1734672229,
+      "date_modified": 1750469473,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Traveler Tressler"
+    },
+    {
+      "id": 273,
+      "id_vehicle": 148,
+      "id_terminal": 167,
+      "price_rent": 73238,
+      "date_added": 1734672229,
+      "date_modified": 1750374045,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Traveler Tressler"
+    },
+    {
+      "id": 274,
+      "id_vehicle": 122,
+      "id_terminal": 291,
+      "price_rent": 223257,
+      "date_added": 1734672231,
+      "date_modified": 1750828170,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Traveler Terra Gateway"
+    },
+    {
+      "id": 275,
+      "id_vehicle": 136,
+      "id_terminal": 291,
+      "price_rent": 30240,
+      "date_added": 1734672231,
+      "date_modified": 1750828170,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Terra Gateway"
+    },
+    {
+      "id": 276,
+      "id_vehicle": 227,
+      "id_terminal": 291,
+      "price_rent": 10395,
+      "date_added": 1734672231,
+      "date_modified": 1750828170,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Traveler Terra Gateway"
+    },
+    {
+      "id": 277,
+      "id_vehicle": 57,
+      "id_terminal": 291,
+      "price_rent": 9526,
+      "date_added": 1734672231,
+      "date_modified": 1750828170,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Terra Gateway"
+    },
+    {
+      "id": 278,
+      "id_vehicle": 82,
+      "id_terminal": 291,
+      "price_rent": 85050,
+      "date_added": 1734672231,
+      "date_modified": 1750828170,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Traveler Terra Gateway"
+    },
+    {
+      "id": 279,
+      "id_vehicle": 102,
+      "id_terminal": 291,
+      "price_rent": 34020,
+      "date_added": 1734672231,
+      "date_modified": 1750828170,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Traveler Terra Gateway"
+    },
+    {
+      "id": 280,
+      "id_vehicle": 148,
+      "id_terminal": 291,
+      "price_rent": 73237,
+      "date_added": 1734672231,
+      "date_modified": 1750828170,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Traveler Terra Gateway"
+    },
+    {
+      "id": 281,
+      "id_vehicle": 80,
+      "id_terminal": 152,
+      "price_rent": 62370,
+      "date_added": 1734672233,
+      "date_modified": 1747181214,
+      "vehicle_name": "Freelancer",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 282,
+      "id_vehicle": 168,
+      "id_terminal": 152,
+      "price_rent": 2599,
+      "date_added": 1734672233,
+      "date_modified": 1747181214,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 283,
+      "id_vehicle": 23,
+      "id_terminal": 152,
+      "price_rent": 22680,
+      "date_added": 1734672233,
+      "date_modified": 1747181214,
+      "vehicle_name": "Aurora LN",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 284,
+      "id_vehicle": 25,
+      "id_terminal": 152,
+      "price_rent": 17010,
+      "date_added": 1734672233,
+      "date_modified": 1747181214,
+      "vehicle_name": "Aurora MR",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 285,
+      "id_vehicle": 55,
+      "id_terminal": 152,
+      "price_rent": 71442,
+      "date_added": 1734672233,
+      "date_modified": 1747181215,
+      "vehicle_name": "Cutlass Red",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 286,
+      "id_vehicle": 50,
+      "id_terminal": 152,
+      "price_rent": 163800,
+      "date_added": 1734672233,
+      "date_modified": 1747181215,
+      "vehicle_name": "Corsair",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 287,
+      "id_vehicle": 122,
+      "id_terminal": 152,
+      "price_rent": 223257,
+      "date_added": 1734672234,
+      "date_modified": 1747181215,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 288,
+      "id_vehicle": 187,
+      "id_terminal": 152,
+      "price_rent": 1890,
+      "date_added": 1734672234,
+      "date_modified": 1747181216,
+      "vehicle_name": "STV",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 289,
+      "id_vehicle": 82,
+      "id_terminal": 152,
+      "price_rent": 85050,
+      "date_added": 1734672234,
+      "date_modified": 1747181216,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 290,
+      "id_vehicle": 151,
+      "id_terminal": 152,
+      "price_rent": 70875,
+      "date_added": 1734672234,
+      "date_modified": 1747181216,
+      "vehicle_name": "RAFT",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 291,
+      "id_vehicle": 102,
+      "id_terminal": 152,
+      "price_rent": 34020,
+      "date_added": 1734672234,
+      "date_modified": 1747181216,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 292,
+      "id_vehicle": 21,
+      "id_terminal": 152,
+      "price_rent": 20412,
+      "date_added": 1734672234,
+      "date_modified": 1747181216,
+      "vehicle_name": "Aurora CL",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 293,
+      "id_vehicle": 57,
+      "id_terminal": 152,
+      "price_rent": 15876,
+      "date_added": 1734672234,
+      "date_modified": 1747181217,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 294,
+      "id_vehicle": 227,
+      "id_terminal": 152,
+      "price_rent": 10395,
+      "date_added": 1734672234,
+      "date_modified": 1747181217,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 295,
+      "id_vehicle": 162,
+      "id_terminal": 152,
+      "price_rent": 42998,
+      "date_added": 1734672234,
+      "date_modified": 1747181217,
+      "vehicle_name": "Reliant Kore",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 296,
+      "id_vehicle": 148,
+      "id_terminal": 152,
+      "price_rent": 73238,
+      "date_added": 1734672235,
+      "date_modified": 1747181217,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 297,
+      "id_vehicle": 34,
+      "id_terminal": 152,
+      "price_rent": 41580,
+      "date_added": 1734672235,
+      "date_modified": 1747181217,
+      "vehicle_name": "Buccaneer",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 298,
+      "id_vehicle": 52,
+      "id_terminal": 152,
+      "price_rent": 52920,
+      "date_added": 1734672235,
+      "date_modified": 1747181218,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage Lorville"
+    },
+    {
+      "id": 299,
+      "id_vehicle": 49,
+      "id_terminal": 147,
+      "price_rent": 160877,
+      "date_added": 1734672236,
+      "date_modified": 1750366837,
+      "vehicle_name": "Constellation Taurus",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 300,
+      "id_vehicle": 6,
+      "id_terminal": 147,
+      "price_rent": 46305,
+      "date_added": 1734672236,
+      "date_modified": 1750366837,
+      "vehicle_name": "325a",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 301,
+      "id_vehicle": 1,
+      "id_terminal": 147,
+      "price_rent": 28665,
+      "date_added": 1734672236,
+      "date_modified": 1750366837,
+      "vehicle_name": "100i",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 302,
+      "id_vehicle": 132,
+      "id_terminal": 147,
+      "price_rent": 29453,
+      "date_added": 1734672237,
+      "date_modified": 1750366837,
+      "vehicle_name": "Mustang Gamma",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 303,
+      "id_vehicle": 66,
+      "id_terminal": 147,
+      "price_rent": 155925,
+      "date_added": 1734672237,
+      "date_modified": 1750366837,
+      "vehicle_name": "Defender",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 304,
+      "id_vehicle": 192,
+      "id_terminal": 147,
+      "price_rent": 2835,
+      "date_added": 1734672237,
+      "date_modified": 1750366837,
+      "vehicle_name": "Ursa",
+      "terminal_name": "Regal NBIS"
+    },
+    {
+      "id": 305,
+      "id_vehicle": 168,
+      "id_terminal": 559,
+      "price_rent": 2599,
+      "date_added": 1734672240,
+      "date_modified": 1751218603,
+      "vehicle_name": "ROC",
+      "terminal_name": "Vantage Stanton Gateway"
+    },
+    {
+      "id": 306,
+      "id_vehicle": 52,
+      "id_terminal": 559,
+      "price_rent": 52920,
+      "date_added": 1734672240,
+      "date_modified": 1751218603,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "Vantage Stanton Gateway"
+    },
+    {
+      "id": 307,
+      "id_vehicle": 148,
+      "id_terminal": 559,
+      "price_rent": 73238,
+      "date_added": 1734672240,
+      "date_modified": 1751218603,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Vantage Stanton Gateway"
+    },
+    {
+      "id": 308,
+      "id_vehicle": 122,
+      "id_terminal": 559,
+      "price_rent": 223257,
+      "date_added": 1734672240,
+      "date_modified": 1751218603,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage Stanton Gateway"
+    },
+    {
+      "id": 309,
+      "id_vehicle": 122,
+      "id_terminal": 165,
+      "price_rent": 223256,
+      "date_added": 1734672242,
+      "date_modified": 1750159426,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage MICL2"
+    },
+    {
+      "id": 311,
+      "id_vehicle": 122,
+      "id_terminal": 163,
+      "price_rent": 223256,
+      "date_added": 1734789770,
+      "date_modified": 1749912883,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Traveler Everus"
+    },
+    {
+      "id": 312,
+      "id_vehicle": 136,
+      "id_terminal": 163,
+      "price_rent": 30240,
+      "date_added": 1734789770,
+      "date_modified": 1749912883,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Everus"
+    },
+    {
+      "id": 313,
+      "id_vehicle": 227,
+      "id_terminal": 163,
+      "price_rent": 10395,
+      "date_added": 1734789771,
+      "date_modified": 1749912883,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Traveler Everus"
+    },
+    {
+      "id": 314,
+      "id_vehicle": 57,
+      "id_terminal": 163,
+      "price_rent": 9525,
+      "date_added": 1734789771,
+      "date_modified": 1749912883,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Everus"
+    },
+    {
+      "id": 315,
+      "id_vehicle": 82,
+      "id_terminal": 163,
+      "price_rent": 85050,
+      "date_added": 1734789771,
+      "date_modified": 1749912883,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Traveler Everus"
+    },
+    {
+      "id": 316,
+      "id_vehicle": 102,
+      "id_terminal": 163,
+      "price_rent": 34020,
+      "date_added": 1734789771,
+      "date_modified": 1749912883,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Traveler Everus"
+    },
+    {
+      "id": 317,
+      "id_vehicle": 148,
+      "id_terminal": 163,
+      "price_rent": 73237,
+      "date_added": 1734789771,
+      "date_modified": 1749912883,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Traveler Everus"
+    },
+    {
+      "id": 318,
+      "id_vehicle": 122,
+      "id_terminal": 157,
+      "price_rent": 223257,
+      "date_added": 1734840225,
+      "date_modified": 1750607854,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage ARCL1"
+    },
+    {
+      "id": 319,
+      "id_vehicle": 187,
+      "id_terminal": 151,
+      "price_rent": 1890,
+      "date_added": 1734869070,
+      "date_modified": 1750352170,
+      "vehicle_name": "STV",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 320,
+      "id_vehicle": 36,
+      "id_terminal": 151,
+      "price_rent": 18633,
+      "date_added": 1734869070,
+      "date_modified": 1750352170,
+      "vehicle_name": "C8 Pisces",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 321,
+      "id_vehicle": 136,
+      "id_terminal": 151,
+      "price_rent": 30240,
+      "date_added": 1734869070,
+      "date_modified": 1750352170,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 322,
+      "id_vehicle": 57,
+      "id_terminal": 151,
+      "price_rent": 9526,
+      "date_added": 1734869070,
+      "date_modified": 1750352170,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 323,
+      "id_vehicle": 179,
+      "id_terminal": 151,
+      "price_rent": 62370,
+      "date_added": 1734869070,
+      "date_modified": 1750352170,
+      "vehicle_name": "C1 Spirit",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 324,
+      "id_vehicle": 21,
+      "id_terminal": 151,
+      "price_rent": 20412,
+      "date_added": 1734869071,
+      "date_modified": 1750352170,
+      "vehicle_name": "Aurora CL",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 325,
+      "id_vehicle": 37,
+      "id_terminal": 151,
+      "price_rent": 13892,
+      "date_added": 1734869071,
+      "date_modified": 1750352170,
+      "vehicle_name": "C8R Pisces Rescue",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 326,
+      "id_vehicle": 23,
+      "id_terminal": 151,
+      "price_rent": 22680,
+      "date_added": 1734869071,
+      "date_modified": 1750352170,
+      "vehicle_name": "Aurora LN",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 327,
+      "id_vehicle": 192,
+      "id_terminal": 151,
+      "price_rent": 2835,
+      "date_added": 1734869071,
+      "date_modified": 1750352170,
+      "vehicle_name": "Ursa",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 328,
+      "id_vehicle": 122,
+      "id_terminal": 166,
+      "price_rent": 223256,
+      "date_added": 1734869071,
+      "date_modified": 1750965505,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage MICL5"
+    },
+    {
+      "id": 329,
+      "id_vehicle": 122,
+      "id_terminal": 298,
+      "price_rent": 223257,
+      "date_added": 1734869071,
+      "date_modified": 1751118236,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage Terra Gateway"
+    },
+    {
+      "id": 330,
+      "id_vehicle": 122,
+      "id_terminal": 324,
+      "price_rent": 223256,
+      "date_added": 1734869071,
+      "date_modified": 1750919678,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage Magnus Gateway"
+    },
+    {
+      "id": 331,
+      "id_vehicle": 122,
+      "id_terminal": 323,
+      "price_rent": 223257,
+      "date_added": 1734869072,
+      "date_modified": 1750915107,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Traveler Magnus Gateway"
+    },
+    {
+      "id": 332,
+      "id_vehicle": 136,
+      "id_terminal": 323,
+      "price_rent": 30240,
+      "date_added": 1734869072,
+      "date_modified": 1750915107,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Magnus Gateway"
+    },
+    {
+      "id": 333,
+      "id_vehicle": 227,
+      "id_terminal": 323,
+      "price_rent": 10395,
+      "date_added": 1734869072,
+      "date_modified": 1750915107,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "Traveler Magnus Gateway"
+    },
+    {
+      "id": 334,
+      "id_vehicle": 57,
+      "id_terminal": 323,
+      "price_rent": 9525,
+      "date_added": 1734869072,
+      "date_modified": 1750915107,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Magnus Gateway"
+    },
+    {
+      "id": 335,
+      "id_vehicle": 82,
+      "id_terminal": 323,
+      "price_rent": 85050,
+      "date_added": 1734869072,
+      "date_modified": 1750915107,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "Traveler Magnus Gateway"
+    },
+    {
+      "id": 336,
+      "id_vehicle": 102,
+      "id_terminal": 323,
+      "price_rent": 34020,
+      "date_added": 1734869072,
+      "date_modified": 1750915107,
+      "vehicle_name": "Hull A",
+      "terminal_name": "Traveler Magnus Gateway"
+    },
+    {
+      "id": 337,
+      "id_vehicle": 148,
+      "id_terminal": 323,
+      "price_rent": 73237,
+      "date_added": 1734869073,
+      "date_modified": 1750915107,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Traveler Magnus Gateway"
+    },
+    {
+      "id": 338,
+      "id_vehicle": 22,
+      "id_terminal": 150,
+      "price_rent": 6350,
+      "date_added": 1734926552,
+      "date_modified": 1748859024,
+      "vehicle_name": "Aurora ES",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 339,
+      "id_vehicle": 60,
+      "id_terminal": 150,
+      "price_rent": 2598,
+      "date_added": 1734926553,
+      "date_modified": 1748859025,
+      "vehicle_name": "Cyclone",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 340,
+      "id_vehicle": 27,
+      "id_terminal": 150,
+      "price_rent": 27165,
+      "date_added": 1734926552,
+      "date_modified": 1748858978,
+      "vehicle_name": "Avenger Titan",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 341,
+      "id_vehicle": 67,
+      "id_terminal": 150,
+      "price_rent": 8568,
+      "date_added": 1734926551,
+      "date_modified": 1748858890,
+      "vehicle_name": "Dragonfly Black",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 342,
+      "id_vehicle": 21,
+      "id_terminal": 150,
+      "price_rent": 20412,
+      "date_added": 1734926550,
+      "date_modified": 1748858890,
+      "vehicle_name": "Aurora CL",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 343,
+      "id_vehicle": 187,
+      "id_terminal": 150,
+      "price_rent": 1890,
+      "date_added": 1734926551,
+      "date_modified": 1748858890,
+      "vehicle_name": "STV",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 344,
+      "id_vehicle": 57,
+      "id_terminal": 150,
+      "price_rent": 9525,
+      "date_added": 1734926551,
+      "date_modified": 1748858891,
+      "vehicle_name": "Cutter",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 345,
+      "id_vehicle": 179,
+      "id_terminal": 150,
+      "price_rent": 62370,
+      "date_added": 1734926551,
+      "date_modified": 1748858891,
+      "vehicle_name": "C1 Spirit",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 346,
+      "id_vehicle": 136,
+      "id_terminal": 150,
+      "price_rent": 30240,
+      "date_added": 1734926551,
+      "date_modified": 1748858977,
+      "vehicle_name": "Nomad",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 347,
+      "id_vehicle": 37,
+      "id_terminal": 150,
+      "price_rent": 13891,
+      "date_added": 1734926552,
+      "date_modified": 1748858977,
+      "vehicle_name": "C8R Pisces Rescue",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 348,
+      "id_vehicle": 36,
+      "id_terminal": 150,
+      "price_rent": 18632,
+      "date_added": 1734926552,
+      "date_modified": 1748858978,
+      "vehicle_name": "C8 Pisces",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 349,
+      "id_vehicle": 23,
+      "id_terminal": 150,
+      "price_rent": 22680,
+      "date_added": 1734926552,
+      "date_modified": 1748859024,
+      "vehicle_name": "Aurora LN",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 350,
+      "id_vehicle": 25,
+      "id_terminal": 150,
+      "price_rent": 17010,
+      "date_added": 1734926552,
+      "date_modified": 1748859025,
+      "vehicle_name": "Aurora MR",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 351,
+      "id_vehicle": 192,
+      "id_terminal": 150,
+      "price_rent": 2835,
+      "date_added": 1734926553,
+      "date_modified": 1748859025,
+      "vehicle_name": "Ursa",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 352,
+      "id_vehicle": 128,
+      "id_terminal": 150,
+      "price_rent": 9639,
+      "date_added": 1734926551,
+      "date_modified": 1748858977,
+      "vehicle_name": "Mustang Alpha",
+      "terminal_name": "Traveler Orison"
+    },
+    {
+      "id": 353,
+      "id_vehicle": 25,
+      "id_terminal": 151,
+      "price_rent": 17010,
+      "date_added": 1735164124,
+      "date_modified": 1750352170,
+      "vehicle_name": "Aurora MR",
+      "terminal_name": "Traveler Area 18"
+    },
+    {
+      "id": 354,
+      "id_vehicle": 122,
+      "id_terminal": 158,
+      "price_rent": 223257,
+      "date_added": 1735768957,
+      "date_modified": 1750709574,
+      "vehicle_name": "MOLE",
+      "terminal_name": "Vantage ARCL2"
+    },
+    {
+      "id": 355,
+      "id_vehicle": 156,
+      "id_terminal": 147,
+      "price_rent": 46589,
+      "date_added": 1747181213,
+      "date_modified": 1750366837,
+      "vehicle_name": "Razor",
+      "terminal_name": "Regal NBIS"
+    }
+  ],
+  "message": ""
+}

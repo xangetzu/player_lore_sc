@@ -1,0 +1,9 @@
+{
+  "status": "ok",
+  "http_code": 200,
+  "data": {
+    "live": "4.2",
+    "ptu": "4.2.1"
+  },
+  "message": ""
+}

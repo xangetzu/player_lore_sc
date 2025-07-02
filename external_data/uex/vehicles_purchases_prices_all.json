@@ -1,0 +1,2137 @@
+{
+  "status": "ok",
+  "http_code": 200,
+  "data": [
+    {
+      "id": 1,
+      "id_vehicle": 99,
+      "id_terminal": 148,
+      "price_buy": 2646000,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Hawk",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 2,
+      "id_vehicle": 20,
+      "id_terminal": 148,
+      "price_buy": 1984500,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Arrow",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 3,
+      "id_vehicle": 92,
+      "id_terminal": 148,
+      "price_buy": 4365900,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Gladiator",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 4,
+      "id_vehicle": 75,
+      "id_terminal": 148,
+      "price_buy": 4762800,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "F7C-M Super Hornet Mk I",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 5,
+      "id_vehicle": 77,
+      "id_terminal": 148,
+      "price_buy": 3210480,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "F7C-R Hornet Tracker Mk I",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 6,
+      "id_vehicle": 78,
+      "id_terminal": 148,
+      "price_buy": 3307500,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "F7C-S Hornet Ghost Mk I",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 7,
+      "id_vehicle": 107,
+      "id_terminal": 148,
+      "price_buy": 5556600,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Hurricane",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 8,
+      "id_vehicle": 191,
+      "id_terminal": 148,
+      "price_buy": 5433120,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Terrapin",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 9,
+      "id_vehicle": 194,
+      "id_terminal": 148,
+      "price_buy": 19845000,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Valkyrie",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 10,
+      "id_vehicle": 30,
+      "id_terminal": 148,
+      "price_buy": 1481760,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Ballista",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 11,
+      "id_vehicle": 39,
+      "id_terminal": 148,
+      "price_buy": 34398000,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Carrack",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 12,
+      "id_vehicle": 38,
+      "id_terminal": 148,
+      "price_buy": 515970,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "C8X Pisces Expedition",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 13,
+      "id_vehicle": 177,
+      "id_terminal": 148,
+      "price_buy": 846720,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Spartan",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 14,
+      "id_vehicle": 44,
+      "id_terminal": 148,
+      "price_buy": 1164240,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "Centurion",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 15,
+      "id_vehicle": 36,
+      "id_terminal": 148,
+      "price_buy": 745290,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "C8 Pisces",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 16,
+      "id_vehicle": 74,
+      "id_terminal": 148,
+      "price_buy": 4630500,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "F7C Hornet Wildfire Mk I",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 17,
+      "id_vehicle": 37,
+      "id_terminal": 148,
+      "price_buy": 555660,
+      "date_added": 1703518768,
+      "date_modified": 1750352169,
+      "vehicle_name": "C8R Pisces Rescue",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 18,
+      "id_vehicle": 138,
+      "id_terminal": 148,
+      "price_buy": 722925,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Nox",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 19,
+      "id_vehicle": 111,
+      "id_terminal": 148,
+      "price_buy": 7229250,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Khartu-al",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 20,
+      "id_vehicle": 66,
+      "id_terminal": 148,
+      "price_buy": 6237000,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Defender",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 21,
+      "id_vehicle": 131,
+      "id_terminal": 148,
+      "price_buy": 1228500,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Mustang Delta",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 22,
+      "id_vehicle": 132,
+      "id_terminal": 148,
+      "price_buy": 1178100,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Mustang Gamma",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 23,
+      "id_vehicle": 101,
+      "id_terminal": 148,
+      "price_buy": 56700,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "HoverQuad",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 24,
+      "id_vehicle": 35,
+      "id_terminal": 148,
+      "price_buy": 18900000,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "C2 Hercules Starlifter",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 25,
+      "id_vehicle": 149,
+      "id_terminal": 148,
+      "price_buy": 18711000,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Prowler",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 26,
+      "id_vehicle": 33,
+      "id_terminal": 148,
+      "price_buy": 7796250,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Blade",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 27,
+      "id_vehicle": 189,
+      "id_terminal": 148,
+      "price_buy": 3260250,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Talon",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 28,
+      "id_vehicle": 190,
+      "id_terminal": 148,
+      "price_buy": 3260250,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "Talon Shrike",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 29,
+      "id_vehicle": 150,
+      "id_terminal": 148,
+      "price_buy": 28350,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "PTV",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 30,
+      "id_vehicle": 187,
+      "id_terminal": 148,
+      "price_buy": 75600,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "STV",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 31,
+      "id_vehicle": 142,
+      "id_terminal": 148,
+      "price_buy": 283500,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "P-52 Merlin",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 32,
+      "id_vehicle": 143,
+      "id_terminal": 148,
+      "price_buy": 449820,
+      "date_added": 1703518977,
+      "date_modified": 1750352169,
+      "vehicle_name": "P-72 Archimedes",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 33,
+      "id_vehicle": 157,
+      "id_terminal": 148,
+      "price_buy": 1757700,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "Razor EX",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 34,
+      "id_vehicle": 158,
+      "id_terminal": 148,
+      "price_buy": 1927800,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "Razor LX",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 35,
+      "id_vehicle": 84,
+      "id_terminal": 148,
+      "price_buy": 727650,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "Fury",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 36,
+      "id_vehicle": 85,
+      "id_terminal": 148,
+      "price_buy": 824670,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "Fury LX",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 37,
+      "id_vehicle": 4,
+      "id_terminal": 148,
+      "price_buy": 1375920,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "300i",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 38,
+      "id_vehicle": 5,
+      "id_terminal": 148,
+      "price_buy": 1490580,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "315p",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 39,
+      "id_vehicle": 6,
+      "id_terminal": 148,
+      "price_buy": 1852200,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "325a",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 40,
+      "id_vehicle": 118,
+      "id_terminal": 148,
+      "price_buy": 1499400,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "M50",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 41,
+      "id_vehicle": 7,
+      "id_terminal": 148,
+      "price_buy": 3748500,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "350r",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 42,
+      "id_vehicle": 10,
+      "id_terminal": 148,
+      "price_buy": 27231800,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "600i Explorer",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 43,
+      "id_vehicle": 11,
+      "id_terminal": 148,
+      "price_buy": 24938600,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "600i Touring",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 44,
+      "id_vehicle": 1,
+      "id_terminal": 148,
+      "price_buy": 1146600,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "100i",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 45,
+      "id_vehicle": 3,
+      "id_terminal": 148,
+      "price_buy": 1490580,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "135c",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 46,
+      "id_vehicle": 13,
+      "id_terminal": 148,
+      "price_buy": 65356200,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "890 Jump",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 47,
+      "id_vehicle": 8,
+      "id_terminal": 148,
+      "price_buy": 11466000,
+      "date_added": 1703519177,
+      "date_modified": 1750352169,
+      "vehicle_name": "400i",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 109,
+      "id_vehicle": 121,
+      "id_terminal": 112,
+      "price_buy": 12285000,
+      "date_added": 1703791245,
+      "date_modified": 1750486318,
+      "vehicle_name": "Mercury Star Runner",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 110,
+      "id_vehicle": 35,
+      "id_terminal": 112,
+      "price_buy": 18900000,
+      "date_added": 1703791245,
+      "date_modified": 1750486318,
+      "vehicle_name": "C2 Hercules Starlifter",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 111,
+      "id_vehicle": 18,
+      "id_terminal": 112,
+      "price_buy": 4725000,
+      "date_added": 1703791245,
+      "date_modified": 1750486318,
+      "vehicle_name": "Ares Ion Starfighter",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 112,
+      "id_vehicle": 14,
+      "id_terminal": 112,
+      "price_buy": 44496900,
+      "date_added": 1703791245,
+      "date_modified": 1750486319,
+      "vehicle_name": "A2 Hercules Starlifter",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 113,
+      "id_vehicle": 117,
+      "id_terminal": 112,
+      "price_buy": 29484000,
+      "date_added": 1703791245,
+      "date_modified": 1750486319,
+      "vehicle_name": "M2 Hercules Starlifter",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 114,
+      "id_vehicle": 17,
+      "id_terminal": 112,
+      "price_buy": 4725000,
+      "date_added": 1703791245,
+      "date_modified": 1750486318,
+      "vehicle_name": "Ares Inferno Starfighter",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 142,
+      "id_vehicle": 97,
+      "id_terminal": 149,
+      "price_buy": 47958000,
+      "date_added": 1712171404,
+      "date_modified": 1747181178,
+      "vehicle_name": "Hammerhead",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 143,
+      "id_vehicle": 26,
+      "id_terminal": 149,
+      "price_buy": 1587600,
+      "date_added": 1712171404,
+      "date_modified": 1747181178,
+      "vehicle_name": "Avenger Stalker",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 144,
+      "id_vehicle": 27,
+      "id_terminal": 149,
+      "price_buy": 1358280,
+      "date_added": 1712171404,
+      "date_modified": 1747181179,
+      "vehicle_name": "Avenger Titan",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 145,
+      "id_vehicle": 29,
+      "id_terminal": 149,
+      "price_buy": 2249100,
+      "date_added": 1712171404,
+      "date_modified": 1747181179,
+      "vehicle_name": "Avenger Warlock",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 146,
+      "id_vehicle": 69,
+      "id_terminal": 149,
+      "price_buy": 7938000,
+      "date_added": 1712171404,
+      "date_modified": 1747181179,
+      "vehicle_name": "Eclipse",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 147,
+      "id_vehicle": 93,
+      "id_terminal": 149,
+      "price_buy": 2381400,
+      "date_added": 1712171404,
+      "date_modified": 1747181179,
+      "vehicle_name": "Gladius",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 148,
+      "id_vehicle": 159,
+      "id_terminal": 149,
+      "price_buy": 31752000,
+      "date_added": 1712171404,
+      "date_modified": 1747181179,
+      "vehicle_name": "Reclaimer",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 149,
+      "id_vehicle": 167,
+      "id_terminal": 149,
+      "price_buy": 7938000,
+      "date_added": 1712171404,
+      "date_modified": 1747181180,
+      "vehicle_name": "Retaliator Bomber",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 150,
+      "id_vehicle": 170,
+      "id_terminal": 149,
+      "price_buy": 4498200,
+      "date_added": 1712171404,
+      "date_modified": 1747181180,
+      "vehicle_name": "Sabre",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 151,
+      "id_vehicle": 199,
+      "id_terminal": 149,
+      "price_buy": 10319400,
+      "date_added": 1712171404,
+      "date_modified": 1747181180,
+      "vehicle_name": "Vanguard Warden",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 152,
+      "id_vehicle": 197,
+      "id_terminal": 149,
+      "price_buy": 9327150,
+      "date_added": 1712171404,
+      "date_modified": 1747181180,
+      "vehicle_name": "Vanguard Hoplite",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 153,
+      "id_vehicle": 196,
+      "id_terminal": 149,
+      "price_buy": 11510100,
+      "date_added": 1712171404,
+      "date_modified": 1747181185,
+      "vehicle_name": "Vanguard Harbinger",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 154,
+      "id_vehicle": 198,
+      "id_terminal": 149,
+      "price_buy": 10914800,
+      "date_added": 1712171404,
+      "date_modified": 1747181186,
+      "vehicle_name": "Vanguard Sentinel",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 155,
+      "id_vehicle": 161,
+      "id_terminal": 149,
+      "price_buy": 17199000,
+      "date_added": 1712171404,
+      "date_modified": 1747181192,
+      "vehicle_name": "Redeemer",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 156,
+      "id_vehicle": 28,
+      "id_terminal": 149,
+      "price_buy": 1852200,
+      "date_added": 1712171404,
+      "date_modified": 1747181193,
+      "vehicle_name": "Avenger Titan Renegade",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 157,
+      "id_vehicle": 171,
+      "id_terminal": 149,
+      "price_buy": 4895100,
+      "date_added": 1712171404,
+      "date_modified": 1747181193,
+      "vehicle_name": "Sabre Comet",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 158,
+      "id_vehicle": 95,
+      "id_terminal": 149,
+      "price_buy": 2910600,
+      "date_added": 1712171404,
+      "date_modified": 1747181193,
+      "vehicle_name": "Gladius Valiant",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 159,
+      "id_vehicle": 30,
+      "id_terminal": 149,
+      "price_buy": 1481760,
+      "date_added": 1712171404,
+      "date_modified": 1747181184,
+      "vehicle_name": "Ballista",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 160,
+      "id_vehicle": 177,
+      "id_terminal": 149,
+      "price_buy": 846720,
+      "date_added": 1712171404,
+      "date_modified": 1747181191,
+      "vehicle_name": "Spartan",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 161,
+      "id_vehicle": 44,
+      "id_terminal": 149,
+      "price_buy": 1164240,
+      "date_added": 1712171404,
+      "date_modified": 1747181192,
+      "vehicle_name": "Centurion",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 162,
+      "id_vehicle": 122,
+      "id_terminal": 149,
+      "price_buy": 8930250,
+      "date_added": 1712171404,
+      "date_modified": 1747181186,
+      "vehicle_name": "MOLE",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 163,
+      "id_vehicle": 125,
+      "id_terminal": 149,
+      "price_buy": 330750,
+      "date_added": 1712171405,
+      "date_modified": 1747181188,
+      "vehicle_name": "MPUV Cargo",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 164,
+      "id_vehicle": 126,
+      "id_terminal": 149,
+      "price_buy": 378000,
+      "date_added": 1712171405,
+      "date_modified": 1747181188,
+      "vehicle_name": "MPUV Personnel",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 165,
+      "id_vehicle": 151,
+      "id_terminal": 149,
+      "price_buy": 3543750,
+      "date_added": 1712171405,
+      "date_modified": 1747181191,
+      "vehicle_name": "RAFT",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 166,
+      "id_vehicle": 130,
+      "id_terminal": 149,
+      "price_buy": 655200,
+      "date_added": 1712171405,
+      "date_modified": 1747181178,
+      "vehicle_name": "Mustang Beta",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 167,
+      "id_vehicle": 128,
+      "id_terminal": 149,
+      "price_buy": 642600,
+      "date_added": 1712171405,
+      "date_modified": 1747181178,
+      "vehicle_name": "Mustang Alpha",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 168,
+      "id_vehicle": 136,
+      "id_terminal": 149,
+      "price_buy": 1512000,
+      "date_added": 1712171405,
+      "date_modified": 1747181190,
+      "vehicle_name": "Nomad",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 169,
+      "id_vehicle": 101,
+      "id_terminal": 149,
+      "price_buy": 56700,
+      "date_added": 1712171405,
+      "date_modified": 1747181191,
+      "vehicle_name": "HoverQuad",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 170,
+      "id_vehicle": 117,
+      "id_terminal": 149,
+      "price_buy": 29484000,
+      "date_added": 1712171405,
+      "date_modified": 1747181190,
+      "vehicle_name": "M2 Hercules Starlifter",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 171,
+      "id_vehicle": 34,
+      "id_terminal": 149,
+      "price_buy": 1663200,
+      "date_added": 1712171405,
+      "date_modified": 1747181188,
+      "vehicle_name": "Buccaneer",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 172,
+      "id_vehicle": 41,
+      "id_terminal": 149,
+      "price_buy": 12474000,
+      "date_added": 1712171405,
+      "date_modified": 1747181188,
+      "vehicle_name": "Caterpillar",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 173,
+      "id_vehicle": 52,
+      "id_terminal": 149,
+      "price_buy": 2116800,
+      "date_added": 1712171405,
+      "date_modified": 1747181188,
+      "vehicle_name": "Cutlass Black",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 174,
+      "id_vehicle": 54,
+      "id_terminal": 149,
+      "price_buy": 3704400,
+      "date_added": 1712171405,
+      "date_modified": 1747181189,
+      "vehicle_name": "Cutlass Blue",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 175,
+      "id_vehicle": 55,
+      "id_terminal": 149,
+      "price_buy": 2857680,
+      "date_added": 1712171405,
+      "date_modified": 1747181189,
+      "vehicle_name": "Cutlass Red",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 176,
+      "id_vehicle": 67,
+      "id_terminal": 149,
+      "price_buy": 342720,
+      "date_added": 1712171405,
+      "date_modified": 1747181189,
+      "vehicle_name": "Dragonfly Black",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 177,
+      "id_vehicle": 100,
+      "id_terminal": 149,
+      "price_buy": 1285200,
+      "date_added": 1712171405,
+      "date_modified": 1747181189,
+      "vehicle_name": "Herald",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 178,
+      "id_vehicle": 56,
+      "id_terminal": 149,
+      "price_buy": 3997350,
+      "date_added": 1712171405,
+      "date_modified": 1747181192,
+      "vehicle_name": "Cutlass Steel",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 179,
+      "id_vehicle": 127,
+      "id_terminal": 149,
+      "price_buy": 68040,
+      "date_added": 1712171405,
+      "date_modified": 1747181192,
+      "vehicle_name": "MULE",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 180,
+      "id_vehicle": 57,
+      "id_terminal": 149,
+      "price_buy": 635040,
+      "date_added": 1712171405,
+      "date_modified": 1747181194,
+      "vehicle_name": "Cutter",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 181,
+      "id_vehicle": 50,
+      "id_terminal": 149,
+      "price_buy": 6552000,
+      "date_added": 1712171405,
+      "date_modified": 1747181194,
+      "vehicle_name": "Corsair",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 182,
+      "id_vehicle": 168,
+      "id_terminal": 149,
+      "price_buy": 103950,
+      "date_added": 1712171405,
+      "date_modified": 1747181187,
+      "vehicle_name": "ROC",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 183,
+      "id_vehicle": 169,
+      "id_terminal": 149,
+      "price_buy": 141750,
+      "date_added": 1712171405,
+      "date_modified": 1747181190,
+      "vehicle_name": "ROC-DS",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 184,
+      "id_vehicle": 156,
+      "id_terminal": 149,
+      "price_buy": 1863540,
+      "date_added": 1712171405,
+      "date_modified": 1747181181,
+      "vehicle_name": "Razor",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 185,
+      "id_vehicle": 157,
+      "id_terminal": 149,
+      "price_buy": 1757700,
+      "date_added": 1712171405,
+      "date_modified": 1747181182,
+      "vehicle_name": "Razor EX",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 186,
+      "id_vehicle": 158,
+      "id_terminal": 149,
+      "price_buy": 1927800,
+      "date_added": 1712171405,
+      "date_modified": 1747181182,
+      "vehicle_name": "Razor LX",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 187,
+      "id_vehicle": 86,
+      "id_terminal": 149,
+      "price_buy": 727650,
+      "date_added": 1712171405,
+      "date_modified": 1747181195,
+      "vehicle_name": "Fury MX",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 188,
+      "id_vehicle": 84,
+      "id_terminal": 149,
+      "price_buy": 727650,
+      "date_added": 1712171405,
+      "date_modified": 1747181194,
+      "vehicle_name": "Fury",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 189,
+      "id_vehicle": 80,
+      "id_terminal": 149,
+      "price_buy": 3118500,
+      "date_added": 1712171405,
+      "date_modified": 1747181181,
+      "vehicle_name": "Freelancer",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 190,
+      "id_vehicle": 81,
+      "id_terminal": 149,
+      "price_buy": 3316950,
+      "date_added": 1712171405,
+      "date_modified": 1747181181,
+      "vehicle_name": "Freelancer DUR",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 191,
+      "id_vehicle": 82,
+      "id_terminal": 149,
+      "price_buy": 4252500,
+      "date_added": 1712171405,
+      "date_modified": 1747181181,
+      "vehicle_name": "Freelancer MAX",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 192,
+      "id_vehicle": 83,
+      "id_terminal": 149,
+      "price_buy": 4961250,
+      "date_added": 1712171405,
+      "date_modified": 1747181181,
+      "vehicle_name": "Freelancer MIS",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 193,
+      "id_vehicle": 162,
+      "id_terminal": 149,
+      "price_buy": 1719900,
+      "date_added": 1712171405,
+      "date_modified": 1747181182,
+      "vehicle_name": "Reliant Kore",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 194,
+      "id_vehicle": 182,
+      "id_terminal": 149,
+      "price_buy": 13230000,
+      "date_added": 1712171405,
+      "date_modified": 1747181182,
+      "vehicle_name": "Starfarer",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 195,
+      "id_vehicle": 183,
+      "id_terminal": 149,
+      "price_buy": 14994000,
+      "date_added": 1712171405,
+      "date_modified": 1747181182,
+      "vehicle_name": "Starfarer Gemini",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 196,
+      "id_vehicle": 148,
+      "id_terminal": 149,
+      "price_buy": 2929500,
+      "date_added": 1712171405,
+      "date_modified": 1747181185,
+      "vehicle_name": "Prospector",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 197,
+      "id_vehicle": 163,
+      "id_terminal": 149,
+      "price_buy": 2513700,
+      "date_added": 1712171405,
+      "date_modified": 1747181186,
+      "vehicle_name": "Reliant Mako",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 198,
+      "id_vehicle": 164,
+      "id_terminal": 149,
+      "price_buy": 2249100,
+      "date_added": 1712171405,
+      "date_modified": 1747181187,
+      "vehicle_name": "Reliant Sen",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 199,
+      "id_vehicle": 165,
+      "id_terminal": 149,
+      "price_buy": 1984500,
+      "date_added": 1712171405,
+      "date_modified": 1747181187,
+      "vehicle_name": "Reliant Tana",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 200,
+      "id_vehicle": 102,
+      "id_terminal": 149,
+      "price_buy": 1701000,
+      "date_added": 1712171405,
+      "date_modified": 1747181193,
+      "vehicle_name": "Hull A",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 201,
+      "id_vehicle": 104,
+      "id_terminal": 149,
+      "price_buy": 16537500,
+      "date_added": 1712171405,
+      "date_modified": 1747181195,
+      "vehicle_name": "Hull C",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 202,
+      "id_vehicle": 201,
+      "id_terminal": 149,
+      "price_buy": 2646000,
+      "date_added": 1712171405,
+      "date_modified": 1747181194,
+      "vehicle_name": "Vulture",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 203,
+      "id_vehicle": 12,
+      "id_terminal": 149,
+      "price_buy": 573300,
+      "date_added": 1712171405,
+      "date_modified": 1747181185,
+      "vehicle_name": "85X",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 204,
+      "id_vehicle": 118,
+      "id_terminal": 149,
+      "price_buy": 1499400,
+      "date_added": 1712171405,
+      "date_modified": 1747181185,
+      "vehicle_name": "M50",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 205,
+      "id_vehicle": 13,
+      "id_terminal": 149,
+      "price_buy": 65356200,
+      "date_added": 1712171405,
+      "date_modified": 1750420858,
+      "vehicle_name": "890 Jump",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 206,
+      "id_vehicle": 1,
+      "id_terminal": 149,
+      "price_buy": 1146600,
+      "date_added": 1712171405,
+      "date_modified": 1747181187,
+      "vehicle_name": "100i",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 207,
+      "id_vehicle": 2,
+      "id_terminal": 149,
+      "price_buy": 1587600,
+      "date_added": 1712171405,
+      "date_modified": 1747181187,
+      "vehicle_name": "125a",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 208,
+      "id_vehicle": 8,
+      "id_terminal": 149,
+      "price_buy": 11466000,
+      "date_added": 1712171405,
+      "date_modified": 1747181192,
+      "vehicle_name": "400i",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 209,
+      "id_vehicle": 47,
+      "id_terminal": 149,
+      "price_buy": 14817600,
+      "date_added": 1712171405,
+      "date_modified": 1747181178,
+      "vehicle_name": "Constellation Phoenix",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 210,
+      "id_vehicle": 22,
+      "id_terminal": 149,
+      "price_buy": 423360,
+      "date_added": 1712171405,
+      "date_modified": 1747181183,
+      "vehicle_name": "Aurora ES",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 211,
+      "id_vehicle": 25,
+      "id_terminal": 149,
+      "price_buy": 680400,
+      "date_added": 1712171405,
+      "date_modified": 1747181183,
+      "vehicle_name": "Aurora MR",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 212,
+      "id_vehicle": 45,
+      "id_terminal": 149,
+      "price_buy": 10160600,
+      "date_added": 1712171405,
+      "date_modified": 1747181183,
+      "vehicle_name": "Constellation Andromeda",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 213,
+      "id_vehicle": 46,
+      "id_terminal": 149,
+      "price_buy": 12186700,
+      "date_added": 1712171405,
+      "date_modified": 1747181183,
+      "vehicle_name": "Constellation Aquila",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 214,
+      "id_vehicle": 192,
+      "id_terminal": 149,
+      "price_buy": 113400,
+      "date_added": 1712171405,
+      "date_modified": 1747181184,
+      "vehicle_name": "Ursa",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 215,
+      "id_vehicle": 24,
+      "id_terminal": 149,
+      "price_buy": 687960,
+      "date_added": 1712171405,
+      "date_modified": 1747181185,
+      "vehicle_name": "Aurora LX",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 216,
+      "id_vehicle": 119,
+      "id_terminal": 149,
+      "price_buy": 3402000,
+      "date_added": 1712171405,
+      "date_modified": 1747181186,
+      "vehicle_name": "Mantis",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 217,
+      "id_vehicle": 21,
+      "id_terminal": 149,
+      "price_buy": 1020600,
+      "date_added": 1712171405,
+      "date_modified": 1747181189,
+      "vehicle_name": "Aurora CL",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 218,
+      "id_vehicle": 23,
+      "id_terminal": 149,
+      "price_buy": 907200,
+      "date_added": 1712171405,
+      "date_modified": 1747181190,
+      "vehicle_name": "Aurora LN",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 219,
+      "id_vehicle": 49,
+      "id_terminal": 149,
+      "price_buy": 8043840,
+      "date_added": 1712171405,
+      "date_modified": 1747181191,
+      "vehicle_name": "Constellation Taurus",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 220,
+      "id_vehicle": 174,
+      "id_terminal": 149,
+      "price_buy": 5443200,
+      "date_added": 1712171405,
+      "date_modified": 1747181193,
+      "vehicle_name": "Scorpius",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 221,
+      "id_vehicle": 175,
+      "id_terminal": 149,
+      "price_buy": 5216400,
+      "date_added": 1712171405,
+      "date_modified": 1747181194,
+      "vehicle_name": "Scorpius Antares",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 222,
+      "id_vehicle": 61,
+      "id_terminal": 149,
+      "price_buy": 151200,
+      "date_added": 1712171405,
+      "date_modified": 1747181180,
+      "vehicle_name": "Cyclone AA",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 223,
+      "id_vehicle": 60,
+      "id_terminal": 149,
+      "price_buy": 103950,
+      "date_added": 1712171405,
+      "date_modified": 1747181183,
+      "vehicle_name": "Cyclone",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 224,
+      "id_vehicle": 63,
+      "id_terminal": 149,
+      "price_buy": 122850,
+      "date_added": 1712171405,
+      "date_modified": 1747181184,
+      "vehicle_name": "Cyclone RC",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 225,
+      "id_vehicle": 64,
+      "id_terminal": 149,
+      "price_buy": 122850,
+      "date_added": 1712171405,
+      "date_modified": 1747181184,
+      "vehicle_name": "Cyclone RN",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 226,
+      "id_vehicle": 65,
+      "id_terminal": 149,
+      "price_buy": 122850,
+      "date_added": 1712171406,
+      "date_modified": 1747181184,
+      "vehicle_name": "Cyclone TR",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 227,
+      "id_vehicle": 137,
+      "id_terminal": 149,
+      "price_buy": 907200,
+      "date_added": 1712171406,
+      "date_modified": 1747181190,
+      "vehicle_name": "Nova Tank",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 228,
+      "id_vehicle": 62,
+      "id_terminal": 149,
+      "price_buy": 141750,
+      "date_added": 1712171406,
+      "date_modified": 1747181191,
+      "vehicle_name": "Cyclone MT",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 230,
+      "id_vehicle": 224,
+      "id_terminal": 148,
+      "price_buy": 2910600,
+      "date_added": 1713841202,
+      "date_modified": 1750352169,
+      "vehicle_name": "F7C Hornet Mk I",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 231,
+      "id_vehicle": 178,
+      "id_terminal": 112,
+      "price_buy": 4961250,
+      "date_added": 1713849983,
+      "date_modified": 1750486319,
+      "vehicle_name": "A1 Spirit",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 232,
+      "id_vehicle": 179,
+      "id_terminal": 112,
+      "price_buy": 3118500,
+      "date_added": 1713849983,
+      "date_modified": 1750486319,
+      "vehicle_name": "C1 Spirit",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 233,
+      "id_vehicle": 173,
+      "id_terminal": 148,
+      "price_buy": 9355500,
+      "date_added": 1713850124,
+      "date_modified": 1750352169,
+      "vehicle_name": "San tok.Yāi",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 234,
+      "id_vehicle": 58,
+      "id_terminal": 149,
+      "price_buy": 705600,
+      "date_added": 1713851202,
+      "date_modified": 1747181195,
+      "vehicle_name": "Cutter Scout",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 247,
+      "id_vehicle": 188,
+      "id_terminal": 148,
+      "price_buy": 2778300,
+      "date_added": 1718474410,
+      "date_modified": 1750352169,
+      "vehicle_name": "Syulen",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 248,
+      "id_vehicle": 204,
+      "id_terminal": 148,
+      "price_buy": 119070,
+      "date_added": 1724903738,
+      "date_modified": 1750352169,
+      "vehicle_name": "X1 Velocity",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 249,
+      "id_vehicle": 203,
+      "id_terminal": 148,
+      "price_buy": 132300,
+      "date_added": 1724903738,
+      "date_modified": 1750352169,
+      "vehicle_name": "X1 Force",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 250,
+      "id_vehicle": 202,
+      "id_terminal": 148,
+      "price_buy": 105840,
+      "date_added": 1724903738,
+      "date_modified": 1750352169,
+      "vehicle_name": "X1",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 251,
+      "id_vehicle": 181,
+      "id_terminal": 149,
+      "price_buy": 3969000,
+      "date_added": 1725022940,
+      "date_modified": 1747181195,
+      "vehicle_name": "SRV",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 252,
+      "id_vehicle": 59,
+      "id_terminal": 149,
+      "price_buy": 740880,
+      "date_added": 1725022940,
+      "date_modified": 1747181195,
+      "vehicle_name": "Cutter Rambler",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 253,
+      "id_vehicle": 203,
+      "id_terminal": 149,
+      "price_buy": 132300,
+      "date_added": 1725022940,
+      "date_modified": 1747181196,
+      "vehicle_name": "X1 Force",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 254,
+      "id_vehicle": 204,
+      "id_terminal": 149,
+      "price_buy": 119070,
+      "date_added": 1725022940,
+      "date_modified": 1747181196,
+      "vehicle_name": "X1 Velocity",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 255,
+      "id_vehicle": 186,
+      "id_terminal": 149,
+      "price_buy": 476280,
+      "date_added": 1725022940,
+      "date_modified": 1747181196,
+      "vehicle_name": "Storm AA",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 256,
+      "id_vehicle": 184,
+      "id_terminal": 149,
+      "price_buy": 453600,
+      "date_added": 1725022940,
+      "date_modified": 1747181196,
+      "vehicle_name": "Storm",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 257,
+      "id_vehicle": 228,
+      "id_terminal": 149,
+      "price_buy": 5874120,
+      "date_added": 1728955459,
+      "date_modified": 1747181197,
+      "vehicle_name": "Sabre Firebird",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 258,
+      "id_vehicle": 233,
+      "id_terminal": 149,
+      "price_buy": 75600,
+      "date_added": 1728955459,
+      "date_modified": 1747181196,
+      "vehicle_name": "ATLS",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 259,
+      "id_vehicle": 225,
+      "id_terminal": 149,
+      "price_buy": 185220,
+      "date_added": 1728955459,
+      "date_modified": 1747181197,
+      "vehicle_name": "Pulse",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 260,
+      "id_vehicle": 229,
+      "id_terminal": 149,
+      "price_buy": 124740,
+      "date_added": 1728955459,
+      "date_modified": 1747181197,
+      "vehicle_name": "RSI Ursa Medivac",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 261,
+      "id_vehicle": 227,
+      "id_terminal": 149,
+      "price_buy": 415800,
+      "date_added": 1728955583,
+      "date_modified": 1747181197,
+      "vehicle_name": "MPUV Tractor",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 263,
+      "id_vehicle": 233,
+      "id_terminal": 148,
+      "price_buy": 75600,
+      "date_added": 1729007784,
+      "date_modified": 1750352169,
+      "vehicle_name": "ATLS",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 265,
+      "id_vehicle": 233,
+      "id_terminal": 112,
+      "price_buy": 75600,
+      "date_added": 1729012262,
+      "date_modified": 1750540423,
+      "vehicle_name": "ATLS",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 266,
+      "id_vehicle": 187,
+      "id_terminal": 473,
+      "price_buy": 75600,
+      "date_added": 1732381501,
+      "date_modified": 1751315091,
+      "vehicle_name": "STV",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 267,
+      "id_vehicle": 67,
+      "id_terminal": 473,
+      "price_buy": 342720,
+      "date_added": 1732381501,
+      "date_modified": 1751315091,
+      "vehicle_name": "Dragonfly Black",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 268,
+      "id_vehicle": 55,
+      "id_terminal": 473,
+      "price_buy": 2857680,
+      "date_added": 1732381501,
+      "date_modified": 1751315091,
+      "vehicle_name": "Cutlass Red",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 269,
+      "id_vehicle": 148,
+      "id_terminal": 473,
+      "price_buy": 2929500,
+      "date_added": 1732381501,
+      "date_modified": 1751315091,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 270,
+      "id_vehicle": 201,
+      "id_terminal": 473,
+      "price_buy": 2646000,
+      "date_added": 1732381501,
+      "date_modified": 1751315091,
+      "vehicle_name": "Vulture",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 271,
+      "id_vehicle": 60,
+      "id_terminal": 473,
+      "price_buy": 103950,
+      "date_added": 1732381501,
+      "date_modified": 1751315091,
+      "vehicle_name": "Cyclone",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 272,
+      "id_vehicle": 137,
+      "id_terminal": 473,
+      "price_buy": 907200,
+      "date_added": 1732381502,
+      "date_modified": 1751315091,
+      "vehicle_name": "Nova Tank",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 273,
+      "id_vehicle": 34,
+      "id_terminal": 473,
+      "price_buy": 1663200,
+      "date_added": 1732381502,
+      "date_modified": 1751315091,
+      "vehicle_name": "Buccaneer",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 274,
+      "id_vehicle": 233,
+      "id_terminal": 473,
+      "price_buy": 75600,
+      "date_added": 1732381502,
+      "date_modified": 1751315091,
+      "vehicle_name": "ATLS",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 275,
+      "id_vehicle": 187,
+      "id_terminal": 494,
+      "price_buy": 75600,
+      "date_added": 1732637143,
+      "date_modified": 1750352169,
+      "vehicle_name": "STV",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 276,
+      "id_vehicle": 67,
+      "id_terminal": 494,
+      "price_buy": 342720,
+      "date_added": 1732637144,
+      "date_modified": 1750352169,
+      "vehicle_name": "Dragonfly Black",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 277,
+      "id_vehicle": 55,
+      "id_terminal": 494,
+      "price_buy": 2857680,
+      "date_added": 1732637144,
+      "date_modified": 1750352169,
+      "vehicle_name": "Cutlass Red",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 278,
+      "id_vehicle": 148,
+      "id_terminal": 494,
+      "price_buy": 2929500,
+      "date_added": 1732637144,
+      "date_modified": 1750352169,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 279,
+      "id_vehicle": 201,
+      "id_terminal": 494,
+      "price_buy": 2646000,
+      "date_added": 1732637144,
+      "date_modified": 1750352169,
+      "vehicle_name": "Vulture",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 280,
+      "id_vehicle": 60,
+      "id_terminal": 494,
+      "price_buy": 103950,
+      "date_added": 1732637144,
+      "date_modified": 1750352169,
+      "vehicle_name": "Cyclone",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 281,
+      "id_vehicle": 137,
+      "id_terminal": 494,
+      "price_buy": 907200,
+      "date_added": 1732637144,
+      "date_modified": 1750352169,
+      "vehicle_name": "Nova Tank",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 282,
+      "id_vehicle": 34,
+      "id_terminal": 494,
+      "price_buy": 1663200,
+      "date_added": 1732637145,
+      "date_modified": 1750352169,
+      "vehicle_name": "Buccaneer",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 283,
+      "id_vehicle": 233,
+      "id_terminal": 494,
+      "price_buy": 75600,
+      "date_added": 1732637145,
+      "date_modified": 1750352169,
+      "vehicle_name": "ATLS",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 293,
+      "id_vehicle": 232,
+      "id_terminal": 149,
+      "price_buy": 4048380,
+      "date_added": 1733635344,
+      "date_modified": 1747181198,
+      "vehicle_name": "Sabre Peregrine",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 294,
+      "id_vehicle": 73,
+      "id_terminal": 149,
+      "price_buy": 4895100,
+      "date_added": 1734672200,
+      "date_modified": 1747181197,
+      "vehicle_name": "F7C Hornet Mk II",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 295,
+      "id_vehicle": 233,
+      "id_terminal": 528,
+      "price_buy": 75600,
+      "date_added": 1734033810,
+      "date_modified": 1750352169,
+      "vehicle_name": "ATLS",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 296,
+      "id_vehicle": 67,
+      "id_terminal": 528,
+      "price_buy": 342720,
+      "date_added": 1734033808,
+      "date_modified": 1750352169,
+      "vehicle_name": "Dragonfly Black",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 297,
+      "id_vehicle": 55,
+      "id_terminal": 528,
+      "price_buy": 2857680,
+      "date_added": 1734033809,
+      "date_modified": 1750352169,
+      "vehicle_name": "Cutlass Red",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 298,
+      "id_vehicle": 201,
+      "id_terminal": 528,
+      "price_buy": 2646000,
+      "date_added": 1734033809,
+      "date_modified": 1750352169,
+      "vehicle_name": "Vulture",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 299,
+      "id_vehicle": 34,
+      "id_terminal": 528,
+      "price_buy": 1663200,
+      "date_added": 1734033809,
+      "date_modified": 1750352169,
+      "vehicle_name": "Buccaneer",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 300,
+      "id_vehicle": 187,
+      "id_terminal": 528,
+      "price_buy": 75600,
+      "date_added": 1734033808,
+      "date_modified": 1750352169,
+      "vehicle_name": "STV",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 301,
+      "id_vehicle": 148,
+      "id_terminal": 528,
+      "price_buy": 2929500,
+      "date_added": 1734033809,
+      "date_modified": 1750352169,
+      "vehicle_name": "Prospector",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 302,
+      "id_vehicle": 60,
+      "id_terminal": 528,
+      "price_buy": 103950,
+      "date_added": 1734033809,
+      "date_modified": 1750352169,
+      "vehicle_name": "Cyclone",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 303,
+      "id_vehicle": 137,
+      "id_terminal": 528,
+      "price_buy": 907200,
+      "date_added": 1734033809,
+      "date_modified": 1750352169,
+      "vehicle_name": "Nova Tank",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 304,
+      "id_vehicle": 225,
+      "id_terminal": 148,
+      "price_buy": 185220,
+      "date_added": 1738120678,
+      "date_modified": 1750352169,
+      "vehicle_name": "Pulse",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 305,
+      "id_vehicle": 205,
+      "id_terminal": 149,
+      "price_buy": 4422600,
+      "date_added": 1740771567,
+      "date_modified": 1747181198,
+      "vehicle_name": "Zeus Mk II ES",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 306,
+      "id_vehicle": 207,
+      "id_terminal": 149,
+      "price_buy": 6804000,
+      "date_added": 1740771567,
+      "date_modified": 1747181198,
+      "vehicle_name": "Zeus Mk II CL",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 307,
+      "id_vehicle": 242,
+      "id_terminal": 149,
+      "price_buy": 8820000,
+      "date_added": 1740771589,
+      "date_modified": 1747181198,
+      "vehicle_name": "Starlancer MAX",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 308,
+      "id_vehicle": 242,
+      "id_terminal": 148,
+      "price_buy": 8820000,
+      "date_added": 1740771589,
+      "date_modified": 1750352169,
+      "vehicle_name": "Starlancer MAX",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 309,
+      "id_vehicle": 240,
+      "id_terminal": 149,
+      "price_buy": 378000,
+      "date_added": 1743110407,
+      "date_modified": 1747181198,
+      "vehicle_name": "CSV-SM",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 310,
+      "id_vehicle": 116,
+      "id_terminal": 149,
+      "price_buy": 136080,
+      "date_added": 1743110407,
+      "date_modified": 1747181199,
+      "vehicle_name": "Lynx",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 311,
+      "id_vehicle": 226,
+      "id_terminal": 149,
+      "price_buy": 211680,
+      "date_added": 1743110407,
+      "date_modified": 1747181199,
+      "vehicle_name": "Pulse LX",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 312,
+      "id_vehicle": 236,
+      "id_terminal": 149,
+      "price_buy": 705600,
+      "date_added": 1743110407,
+      "date_modified": 1747181199,
+      "vehicle_name": "Intrepid",
+      "terminal_name": "New Deal Lorville"
+    },
+    {
+      "id": 313,
+      "id_vehicle": 248,
+      "id_terminal": 148,
+      "price_buy": 5704770,
+      "date_added": 1743110408,
+      "date_modified": 1750352169,
+      "vehicle_name": "Terrapin Medic",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 314,
+      "id_vehicle": 240,
+      "id_terminal": 473,
+      "price_buy": 378000,
+      "date_added": 1743110409,
+      "date_modified": 1751315091,
+      "vehicle_name": "CSV-SM",
+      "terminal_name": "Buy and Fly Ruin Station"
+    },
+    {
+      "id": 315,
+      "id_vehicle": 240,
+      "id_terminal": 148,
+      "price_buy": 378000,
+      "date_added": 1743242576,
+      "date_modified": 1750352169,
+      "vehicle_name": "CSV-SM",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 316,
+      "id_vehicle": 236,
+      "id_terminal": 148,
+      "price_buy": 705600,
+      "date_added": 1743242576,
+      "date_modified": 1750352169,
+      "vehicle_name": "Intrepid",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 317,
+      "id_vehicle": 226,
+      "id_terminal": 148,
+      "price_buy": 211680,
+      "date_added": 1743242576,
+      "date_modified": 1750352169,
+      "vehicle_name": "Pulse LX",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 318,
+      "id_vehicle": 240,
+      "id_terminal": 494,
+      "price_buy": 378000,
+      "date_added": 1743940886,
+      "date_modified": 1750352169,
+      "vehicle_name": "CSV-SM",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 319,
+      "id_vehicle": 240,
+      "id_terminal": 528,
+      "price_buy": 378000,
+      "date_added": 1743951775,
+      "date_modified": 1750352169,
+      "vehicle_name": "CSV-SM",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 320,
+      "id_vehicle": 240,
+      "id_terminal": 112,
+      "price_buy": 378000,
+      "date_added": 1747224221,
+      "date_modified": 1750540423,
+      "vehicle_name": "CSV-SM",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 321,
+      "id_vehicle": 236,
+      "id_terminal": 112,
+      "price_buy": 705600,
+      "date_added": 1747224221,
+      "date_modified": 1750486319,
+      "vehicle_name": "Intrepid",
+      "terminal_name": "New Deal Crusader"
+    },
+    {
+      "id": 322,
+      "id_vehicle": 252,
+      "id_terminal": 148,
+      "price_buy": 90720,
+      "date_added": 1750352169,
+      "date_modified": 1750352169,
+      "vehicle_name": "ATLS GEO",
+      "terminal_name": "Astro Armada"
+    },
+    {
+      "id": 323,
+      "id_vehicle": 252,
+      "id_terminal": 528,
+      "price_buy": 90720,
+      "date_added": 1750352169,
+      "date_modified": 1750352169,
+      "vehicle_name": "ATLS GEO",
+      "terminal_name": "Buy and Fly Orbituary"
+    },
+    {
+      "id": 324,
+      "id_vehicle": 252,
+      "id_terminal": 494,
+      "price_buy": 90720,
+      "date_added": 1750352169,
+      "date_modified": 1750352169,
+      "vehicle_name": "ATLS GEO",
+      "terminal_name": "Buy and Fly Checkmate"
+    },
+    {
+      "id": 325,
+      "id_vehicle": 252,
+      "id_terminal": 112,
+      "price_buy": 90720,
+      "date_added": 1750352170,
+      "date_modified": 1750540423,
+      "vehicle_name": "ATLS GEO",
+      "terminal_name": "New Deal Crusader"
+    }
+  ],
+  "message": ""
+}

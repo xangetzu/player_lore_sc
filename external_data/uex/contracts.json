@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "http_code": 200,
+  "data": [
+    {
+      "id": 1,
+      "id_parent": 0,
+      "id_star_system": 68,
+      "id_planet": 116,
+      "id_orbit": 116,
+      "id_moon": 0,
+      "id_space_station": 0,
+      "id_city": 3,
+      "id_outpost": 0,
+      "id_poi": 0,
+      "id_faction": 0,
+      "id_company": 78,
+      "id_jurisdiction": 0,
+      "name": "Capture Arlington Gang Member Nicks Cantwell",
+      "description": "The mission Capture Arlington Gang Member Nicks Cantwell is the second of Miles Eckhart's missions that task the player with taking down a member of the Arlington Gang",
+      "payout": "15000",
+      "is_available": 1,
+      "is_available_live": 1,
+      "is_visible": 1,
+      "date_added": 1743393687,
+      "date_modified": 1743447742,
+      "star_system_name": "Stanton",
+      "orbit_name": "Hurston",
+      "planet_name": "Hurston",
+      "moon_name": null,
+      "space_station_name": null,
+      "outpost_name": null,
+      "city_name": "Lorville",
+      "poi_name": null,
+      "faction_name": null,
+      "company_name": "Eckhart Security",
+      "jurisdiction_name": null,
+      "contact_name": "Miles Eckhart",
+      "contact_description": "Miles Eckhart is the owner of and primary point of contact for the PMC Eckhart Security"
+    }
+  ],
+  "message": ""
+}
