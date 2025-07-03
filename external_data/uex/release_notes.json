@@ -3,6 +3,11 @@
   "http_code": 200,
   "data": [
     {
+      "id": 165,
+      "date_updated": 1751459481,
+      "content": "Marketplace\r\n\r\nResolved an issue that was preventing clients from sending messages on new deals. Apologies for the inconvenience."
+    },
+    {
       "id": 164,
       "date_updated": 1751411950,
       "content": "API\r\n\r\nFixed an issue causing some links to break (thanks @ArkDelta for the heads-up)\r\nAdded support for marketplace_negotiations_messages (GET & POST)\r\n\r\n\r\nMarketplace\r\n\r\nNegotiations: Chat now updates automatically.\r\nListings: Verified users can upvote or downvote listings.\r\nAdded support for emoji shortcodes (e.g. :blush:) in listing descriptions and support messages\r\nMinor bug fixes"
@@ -146,11 +151,6 @@
       "id": 135,
       "date_updated": 1744413286,
       "content": "Marketplace > Negotiations page: Fixed a layout issue that was hiding part of the page. Thanks @SouthernNord for the heads up. Apologies for the disruption.\r\nOther fixes and improvements. Thanks to @Lulu, @agathorn, @Testiculitis, and others for your bug reports."
-    },
-    {
-      "id": 134,
-      "date_updated": 1744114949,
-      "content": "Marketplace\r\n\r\nNegotiations\r\n\r\nNegotiations can no longer be ended by either party within the first 24 hours. This change helps prevent clients or suppliers from ending negotiations prematurely due to delayed responses. Since users are in different time zones, this aims to reduce misunderstandings. Rolled back temporarily.\r\nTimezone information (if selected by the user) is now displayed on the negotiations screen.\r\n\r\n\r\nInfo Page\r\n\r\nAdded \"More From Seller\" suggestions to display other relevant items listed by the same trader.\r\nIncreased the number of \"You May Also Like\" listings from 8 to 16.\r\n\r\n\r\n\r\n\r\nDatacenter\r\n\r\nSubmit\r\n\r\nRequest: Fixed an issue where items with double quotes in their names weren’t fully populating in the input field. (thanks @Hurric4ne!)\r\n\r\n\r\n\r\n\r\nMining\r\n\r\nMining Center\r\n\r\nFixed an issue where only the first refinery job row was exported when clicking \"Download as CSV\". (Thanks @Hokman!)\r\n\r\n\r\n\r\n\r\nCommodities\r\n\r\nAverages Index tab\r\n\r\nFixed an issue that prevented certain commodities from appearing in the list.\r\n\r\n\r\n\r\n\r\nAPI\r\n\r\nThe commodities_ranking resource is now deprecated. We recommend using the cax_score column from the commodities_averages endpoint as a replacement.\r\nMigrated raw-form commodities from 'commodities_averages' to the new 'commodities_raw_averages' table.\r\nAdded 'buy prices' for resources commodities_raw_prices and commodities_raw_prices_history."
     }
   ],
   "message": ""

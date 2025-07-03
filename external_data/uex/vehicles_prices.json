@@ -7944,7 +7944,7 @@
     {
       "id": 496,
       "id_vehicle": 3,
-      "price": 74,
+      "price": 70,
       "price_warbond": 0,
       "price_package": 0,
       "price_concierge": 0,
@@ -7953,9 +7953,9 @@
       "on_sale_package": 0,
       "on_sale_concierge": 0,
       "currency": "EUR-DE",
-      "game_version": "4.0.1",
+      "game_version": "4.2",
       "date_added": 1738177406,
-      "date_modified": 0,
+      "date_modified": 1751553088,
       "vehicle_name": "135c"
     },
     {
@@ -8514,9 +8514,9 @@
       "on_sale_package": 0,
       "on_sale_concierge": 0,
       "currency": "EUR-DE",
-      "game_version": "4.1.1",
+      "game_version": "4.2",
       "date_added": 1738177412,
-      "date_modified": 1749203167,
+      "date_modified": 1751552908,
       "vehicle_name": "Cyclone RN"
     },
     {
@@ -11170,6 +11170,23 @@
       "date_added": 1749798901,
       "date_modified": 0,
       "vehicle_name": "Talon Shrike"
+    },
+    {
+      "id": 686,
+      "id_vehicle": 85,
+      "price": 59,
+      "price_warbond": 0,
+      "price_package": 0,
+      "price_concierge": 0,
+      "on_sale": 1,
+      "on_sale_warbond": 0,
+      "on_sale_package": 0,
+      "on_sale_concierge": 0,
+      "currency": "EUR-DE",
+      "game_version": "4.2",
+      "date_added": 1751552452,
+      "date_modified": 0,
+      "vehicle_name": "Fury LX"
     }
   ],
   "message": ""

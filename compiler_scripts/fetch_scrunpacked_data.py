@@ -8,10 +8,13 @@ output_dir = base_dir / "external_data" / "scrunpacked"
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # Define base URL and filenames
-base_url = "https://raw.githubusercontent.com/scunpacked/data/master/"
+base_url = "https://raw.githubusercontent.com/StarCitizenWiki/scunpacked-data/master/"
 files_to_fetch = [
+    "fps-items.json",
     "items.json",
+    "labels.json",
     "ships.json",
+    "ship-items.json",
     "components.json",
     "locations.json",
     "manufacturers.json",
