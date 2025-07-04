@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "name": "",
+      "code": "",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/"
+    },
+    {
+      "name": "@item_NameUrsa_Black_White_Grey",
+      "code": "",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/%40item_NameUrsa_Black_White_Grey"
+    },
+    {
+      "name": "@item_NameUrsa_Blue_White_Grey",
+      "code": "",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/%40item_NameUrsa_Blue_White_Grey"
+    },
+    {
+      "name": "@item_NameUrsa_Teal_White_Grey",
+      "code": "",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/%40item_NameUrsa_Teal_White_Grey"
+    },
+    {
+      "name": "<= PLACEHOLDER =>",
+      "code": "OUTL",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/%3C%3D+PLACEHOLDER+%3D%3E"
+    },
+    {
+      "name": "987",
+      "code": "987",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/987"
+    },
+    {
+      "name": "Ace Astrogation",
+      "code": "ACAS",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Ace+Astrogation"
+    },
+    {
+      "name": "ACOM",
+      "code": "ACOM",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/ACOM"
+    },
+    {
+      "name": "Aegis Dynamics",
+      "code": "AEGS",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Aegis+Dynamics"
+    },
+    {
+      "name": "Alejo Brothers",
+      "code": "ALB",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Alejo+Brothers"
+    },
+    {
+      "name": "Amon & Reese Co.",
+      "code": "AMRS",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Amon+%26+Reese+Co."
+    },
+    {
+      "name": "Anvil Aerospace",
+      "code": "ANVL",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Anvil+Aerospace"
+    },
+    {
+      "name": "Aopoa",
+      "code": "XNAA",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Aopoa"
+    },
+    {
+      "name": "Apocalypse Arms",
+      "code": "APAR",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Apocalypse+Arms"
+    },
+    {
+      "name": "ArcCorp",
+      "code": "ARCC",
+      "link": "https://api.star-citizen.wiki/api/v2/manufacturers/ArcCorp"
+    }
+  ],
+  "links": {
+    "first": "https://api.star-citizen.wiki/api/v2/manufacturers?page=1",
+    "last": "https://api.star-citizen.wiki/api/v2/manufacturers?page=8",
+    "prev": null,
+    "next": "https://api.star-citizen.wiki/api/v2/manufacturers?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 8,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Zurück",
+        "active": false
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=3",
+        "label": "3",
+        "active": false
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=4",
+        "label": "4",
+        "active": false
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=5",
+        "label": "5",
+        "active": false
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=6",
+        "label": "6",
+        "active": false
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=7",
+        "label": "7",
+        "active": false
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=8",
+        "label": "8",
+        "active": false
+      },
+      {
+        "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=2",
+        "label": "Weiter &raquo;",
+        "active": false
+      }
+    ],
+    "path": "https://api.star-citizen.wiki/api/v2/manufacturers",
+    "per_page": 15,
+    "to": 15,
+    "total": 117
+  }
+}

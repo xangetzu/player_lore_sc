@@ -1,0 +1,4310 @@
+{
+  "vehicles": {
+    "data": [
+      {
+        "uuid": "6135a874-4cb1-4f49-9f29-5781e5991f2b",
+        "name": "100i",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/6135a874-4cb1-4f49-9f29-5781e5991f2b",
+        "updated_at": "2025-05-02T16:32:16.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "e7eeba8d-b108-48a1-a332-d9edbab2b9c1",
+        "name": "125a",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/e7eeba8d-b108-48a1-a332-d9edbab2b9c1",
+        "updated_at": "2025-05-27T17:55:39.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "2f231daa-95e5-4cb2-a32e-4db8f29a30d6",
+        "name": "135c",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/2f231daa-95e5-4cb2-a32e-4db8f29a30d6",
+        "updated_at": "2025-05-02T16:45:32.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "ce937681-caa2-4cfa-ab80-f5bf2a5b9a6c",
+        "name": "300i",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/ce937681-caa2-4cfa-ab80-f5bf2a5b9a6c",
+        "updated_at": "2025-05-02T16:37:18.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "dc537d66-2abb-43aa-9d37-4e963fc6e9e2",
+        "name": "315p",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/dc537d66-2abb-43aa-9d37-4e963fc6e9e2",
+        "updated_at": "2025-05-02T16:38:22.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "039a2768-1aff-4969-b2a4-ed8aeb21dae1",
+        "name": "325a",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/039a2768-1aff-4969-b2a4-ed8aeb21dae1",
+        "updated_at": "2025-05-27T17:56:19.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "316c6601-b405-4a3a-abac-394c655718f8",
+        "name": "350r",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/316c6601-b405-4a3a-abac-394c655718f8",
+        "updated_at": "2025-05-02T16:42:23.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "718f4435-628b-4436-bb80-bf9cfef9a945",
+        "name": "400i",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/718f4435-628b-4436-bb80-bf9cfef9a945",
+        "updated_at": "2025-01-13T20:41:41.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "f8ac4c26-8f4d-4cb3-9be2-7d867a95a877",
+        "name": "600i Explorer",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/f8ac4c26-8f4d-4cb3-9be2-7d867a95a877",
+        "updated_at": "2025-04-23T16:40:57.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "11b660a2-c77c-490b-9e85-ee70400c5cf8",
+        "name": "600i Touring",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/11b660a2-c77c-490b-9e85-ee70400c5cf8",
+        "updated_at": "2025-05-02T18:58:33.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "9dc9c257-c413-416a-ab9b-06fbadf18d1e",
+        "name": "85X",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/9dc9c257-c413-416a-ab9b-06fbadf18d1e",
+        "updated_at": "2024-12-10T13:45:29.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "50ddaf5e-a8e3-42fe-a1d3-7267f39b39b0",
+        "name": "890 Jump",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/50ddaf5e-a8e3-42fe-a1d3-7267f39b39b0",
+        "updated_at": "2025-01-13T18:43:49.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "c0b86c69-55ac-4af3-a722-d46282813e91",
+        "name": "A1 Spirit",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/c0b86c69-55ac-4af3-a722-d46282813e91",
+        "updated_at": "2025-05-27T17:55:20.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "3bee9f2d-4494-4560-b9f8-463bc90695cb",
+        "name": "A2 Hercules",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/3bee9f2d-4494-4560-b9f8-463bc90695cb",
+        "updated_at": "2025-05-27T17:55:36.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      },
+      {
+        "uuid": "50f551e3-3435-4cbe-9ecf-8712855a8e27",
+        "name": "Anvil Ballista Dunestalker",
+        "link": "https://api.star-citizen.wiki/api/v2/vehicles/50f551e3-3435-4cbe-9ecf-8712855a8e27",
+        "updated_at": "2025-04-10T16:53:10.000000Z",
+        "version": "4.2.0-LIVE.9873572"
+      }
+    ],
+    "links": {
+      "first": "https://api.star-citizen.wiki/api/v2/vehicles?page=1",
+      "last": "https://api.star-citizen.wiki/api/v2/vehicles?page=16",
+      "prev": null,
+      "next": "https://api.star-citizen.wiki/api/v2/vehicles?page=2"
+    },
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 16,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Zurück",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=2",
+          "label": "2",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=3",
+          "label": "3",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=4",
+          "label": "4",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=5",
+          "label": "5",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=6",
+          "label": "6",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=7",
+          "label": "7",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=8",
+          "label": "8",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=9",
+          "label": "9",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=10",
+          "label": "10",
+          "active": false
+        },
+        {
+          "url": null,
+          "label": "...",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=15",
+          "label": "15",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=16",
+          "label": "16",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/vehicles?page=2",
+          "label": "Weiter &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://api.star-citizen.wiki/api/v2/vehicles",
+      "per_page": 15,
+      "to": 15,
+      "total": 239
+    }
+  },
+  "manufacturers": {
+    "data": [
+      {
+        "name": "",
+        "code": "",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/"
+      },
+      {
+        "name": "@item_NameUrsa_Black_White_Grey",
+        "code": "",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/%40item_NameUrsa_Black_White_Grey"
+      },
+      {
+        "name": "@item_NameUrsa_Blue_White_Grey",
+        "code": "",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/%40item_NameUrsa_Blue_White_Grey"
+      },
+      {
+        "name": "@item_NameUrsa_Teal_White_Grey",
+        "code": "",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/%40item_NameUrsa_Teal_White_Grey"
+      },
+      {
+        "name": "<= PLACEHOLDER =>",
+        "code": "OUTL",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/%3C%3D+PLACEHOLDER+%3D%3E"
+      },
+      {
+        "name": "987",
+        "code": "987",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/987"
+      },
+      {
+        "name": "Ace Astrogation",
+        "code": "ACAS",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Ace+Astrogation"
+      },
+      {
+        "name": "ACOM",
+        "code": "ACOM",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/ACOM"
+      },
+      {
+        "name": "Aegis Dynamics",
+        "code": "AEGS",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Aegis+Dynamics"
+      },
+      {
+        "name": "Alejo Brothers",
+        "code": "ALB",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Alejo+Brothers"
+      },
+      {
+        "name": "Amon & Reese Co.",
+        "code": "AMRS",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Amon+%26+Reese+Co."
+      },
+      {
+        "name": "Anvil Aerospace",
+        "code": "ANVL",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Anvil+Aerospace"
+      },
+      {
+        "name": "Aopoa",
+        "code": "XNAA",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Aopoa"
+      },
+      {
+        "name": "Apocalypse Arms",
+        "code": "APAR",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/Apocalypse+Arms"
+      },
+      {
+        "name": "ArcCorp",
+        "code": "ARCC",
+        "link": "https://api.star-citizen.wiki/api/v2/manufacturers/ArcCorp"
+      }
+    ],
+    "links": {
+      "first": "https://api.star-citizen.wiki/api/v2/manufacturers?page=1",
+      "last": "https://api.star-citizen.wiki/api/v2/manufacturers?page=8",
+      "prev": null,
+      "next": "https://api.star-citizen.wiki/api/v2/manufacturers?page=2"
+    },
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 8,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Zurück",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=2",
+          "label": "2",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=3",
+          "label": "3",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=4",
+          "label": "4",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=5",
+          "label": "5",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=6",
+          "label": "6",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=7",
+          "label": "7",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=8",
+          "label": "8",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/manufacturers?page=2",
+          "label": "Weiter &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://api.star-citizen.wiki/api/v2/manufacturers",
+      "per_page": 15,
+      "to": 15,
+      "total": 117
+    }
+  },
+  "comm_links": {
+    "data": [
+      {
+        "id": 20668,
+        "title": "Star Citizen Live",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20668-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20668",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20668",
+        "channel": "Transmission",
+        "category": "General",
+        "series": "Star Citizen LIVE",
+        "images_count": 2,
+        "links_count": 0,
+        "comment_count": 0,
+        "created_at": "2025-07-03T18:00:00.000000Z"
+      },
+      {
+        "id": 20661,
+        "title": "Star Citizen Monthly Report: June 2025",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20661-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20661",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20661",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 14,
+        "links_count": 0,
+        "comment_count": 0,
+        "created_at": "2025-07-02T21:00:00.000000Z"
+      },
+      {
+        "id": 20657,
+        "title": "This Week in Star Citizen",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20657-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20657",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20657",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 17,
+        "links_count": 8,
+        "comment_count": 0,
+        "created_at": "2025-07-01T05:24:47.000000Z"
+      },
+      {
+        "id": 20655,
+        "title": "Jump Point Now Available!",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20655-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20655",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20655",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 6,
+        "links_count": 1,
+        "comment_count": 0,
+        "created_at": "2025-06-27T18:00:00.000000Z"
+      },
+      {
+        "id": 20649,
+        "title": "Roadmap Roundup - July 2, 2025",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20649-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20649",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20649",
+        "channel": "Spectrum Dispatch",
+        "category": "Lore",
+        "series": "Roadmap Roundup",
+        "images_count": 2,
+        "links_count": 0,
+        "comment_count": 0,
+        "created_at": "2025-07-02T20:00:00.000000Z"
+      },
+      {
+        "id": 20648,
+        "title": "This Week in Star Citizen",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20648-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20648",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20648",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 14,
+        "links_count": 6,
+        "comment_count": 0,
+        "created_at": "2025-06-23T20:00:00.000000Z"
+      },
+      {
+        "id": 20643,
+        "title": "Introducing the New Referral Program",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20643-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20643",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20643",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 17,
+        "links_count": 0,
+        "comment_count": 0,
+        "created_at": "2025-06-26T23:00:00.000000Z"
+      },
+      {
+        "id": 20638,
+        "title": "Star Citizen Alpha 4.2",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20638-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20638",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20638",
+        "channel": "Transmission",
+        "category": "General",
+        "series": "Release Info",
+        "images_count": 16,
+        "links_count": 3,
+        "comment_count": 0,
+        "created_at": "2025-06-23T20:00:00.000000Z"
+      },
+      {
+        "id": 20637,
+        "title": "This Week in Star Citizen",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20637-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20637",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20637",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 20,
+        "links_count": 7,
+        "comment_count": 0,
+        "created_at": "2025-06-16T21:00:00.000000Z"
+      },
+      {
+        "id": 20636,
+        "title": "Star Citizen Live",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20636-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20636",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20636",
+        "channel": "Transmission",
+        "category": "General",
+        "series": "Star Citizen LIVE",
+        "images_count": 2,
+        "links_count": 0,
+        "comment_count": 0,
+        "created_at": "2025-06-12T18:00:00.000000Z"
+      },
+      {
+        "id": 20635,
+        "title": "Behind the Ships",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20635-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20635",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20635",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 2,
+        "links_count": 0,
+        "comment_count": 0,
+        "created_at": "2025-06-12T16:00:00.000000Z"
+      },
+      {
+        "id": 20634,
+        "title": "Roadmap Roundup - June 18, 2025",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20634-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20634",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20634",
+        "channel": "Spectrum Dispatch",
+        "category": "Lore",
+        "series": "Roadmap Roundup",
+        "images_count": 2,
+        "links_count": 0,
+        "comment_count": 0,
+        "created_at": "2025-06-18T15:00:00.000000Z"
+      },
+      {
+        "id": 20632,
+        "title": "This Week in Star Citizen",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20632-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20632",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20632",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 16,
+        "links_count": 10,
+        "comment_count": 0,
+        "created_at": "2025-06-09T20:00:00.000000Z"
+      },
+      {
+        "id": 20631,
+        "title": "Foundation Festival 2025 Org Spotlight",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20631-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20631",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20631",
+        "channel": "Undefined",
+        "category": "Undefined",
+        "series": "None",
+        "images_count": 48,
+        "links_count": 44,
+        "comment_count": 0,
+        "created_at": "2025-07-02T16:00:00.000000Z"
+      },
+      {
+        "id": 20626,
+        "title": "Q&A: Esperia Prowler Utility",
+        "rsi_url": "https://robertsspaceindustries.com/comm-link/SCW/20626-API",
+        "api_url": "https://api.star-citizen.wiki/api/v2/comm-links/20626",
+        "api_public_url": "https://api.star-citizen.wiki/comm-links/20626",
+        "channel": "Engineering",
+        "category": "Development",
+        "series": "Concept Ship Q&A",
+        "images_count": 12,
+        "links_count": 0,
+        "comment_count": 0,
+        "created_at": "2025-06-12T16:00:00.000000Z"
+      }
+    ],
+    "links": {
+      "first": "https://api.star-citizen.wiki/api/v2/comm-links?page=1",
+      "last": "https://api.star-citizen.wiki/api/v2/comm-links?page=361",
+      "prev": null,
+      "next": "https://api.star-citizen.wiki/api/v2/comm-links?page=2"
+    },
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 361,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Zurück",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=2",
+          "label": "2",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=3",
+          "label": "3",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=4",
+          "label": "4",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=5",
+          "label": "5",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=6",
+          "label": "6",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=7",
+          "label": "7",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=8",
+          "label": "8",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=9",
+          "label": "9",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=10",
+          "label": "10",
+          "active": false
+        },
+        {
+          "url": null,
+          "label": "...",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=360",
+          "label": "360",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=361",
+          "label": "361",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/comm-links?page=2",
+          "label": "Weiter &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://api.star-citizen.wiki/api/v2/comm-links",
+      "per_page": 15,
+      "to": 15,
+      "total": 5409
+    }
+  },
+  "star_systems": {
+    "data": [
+      {
+        "id": 398,
+        "code": "AYR'KA",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/AYR'KA",
+        "name": "Ail'ka",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": 139.16,
+          "y": -7.99,
+          "z": 39.58
+        },
+        "frost_line": 179.1,
+        "habitable_zone_inner": 34.37,
+        "habitable_zone_outer": 174.7,
+        "info_url": null,
+        "description": {
+          "de_DE": "In erster Linie ein militärisches System, das sich auf die Unterstützung, Unterbringung und Ausbildung von Xi'an-Bodentruppen konzentriert. Aufgrund seiner Nähe zur Perry-Linie war es während des Kalten Krieges zwischen Mensch und Xi'an von strategischer Bedeutung. Sobald sich die Beziehungen normalisierten, zogen sich die Xi'an-Truppen aus den Systemen der Perry-Linie hierher zurück.",
+          "en_EN": "Primarily a military system focused on supporting, housing, and training Xi’an ground troops. Its close proximity to the Perry Line made it strategically important during the Human / Xi’an cold war. Once relations normalized, Xi’an forces from the Perry Line systems withdrew to here.",
+          "zh_CN": "Primarily a military system focused on supporting, housing, and training Xi’an ground troops. Its close proximity to the Perry Line made it strategically important during the Human / Xi’an cold war. Once relations normalized, Xi’an forces from the Perry Line systems withdrew to here."
+        },
+        "aggregated": {
+          "size": 198.97,
+          "population": 8.8,
+          "economy": 3.95,
+          "danger": 0,
+          "stars": 1,
+          "planets": 5,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 4,
+            "name": "Xi'An",
+            "code": "XIAN",
+            "color": "#52c231"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1341,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2175,
+              "system_id": 377,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/377",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADUR.JUMPPOINTS.AYR'KA",
+              "status": "P",
+              "code": "HADUR.JUMPPOINTS.AYR'KA",
+              "designation": "Yā’mon (Hadur) - Ail'ka"
+            },
+            "exit": {
+              "id": 2270,
+              "system_id": 398,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/398",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/AYR'KA.JUMPPOINTS.HADUR",
+              "status": "P",
+              "code": "AYR'KA.JUMPPOINTS.HADUR",
+              "designation": "Ail'ka - Yā’mon (Hadur)"
+            },
+            "celestial_object_entry": {
+              "id": 2175,
+              "code": "HADUR.JUMPPOINTS.AYR'KA",
+              "system_id": 377,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADUR.JUMPPOINTS.AYR'KA",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": null,
+              "appearance": "DEFAULT",
+              "designation": "Yā’mon (Hadur) - Ail'ka",
+              "distance": 2.57,
+              "latitude": 19.17,
+              "longitude": 98.77,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1341,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 2175,
+                  "system_id": 377,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/377",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADUR.JUMPPOINTS.AYR'KA",
+                  "status": "P",
+                  "code": "HADUR.JUMPPOINTS.AYR'KA",
+                  "designation": "Yā’mon (Hadur) - Ail'ka"
+                },
+                "exit": {
+                  "id": 2270,
+                  "system_id": 398,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/398",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/AYR'KA.JUMPPOINTS.HADUR",
+                  "status": "P",
+                  "code": "AYR'KA.JUMPPOINTS.HADUR",
+                  "designation": "Ail'ka - Yā’mon (Hadur)"
+                }
+              },
+              "time_modified": "2018-11-14T19:48:51.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2270,
+              "code": "AYR'KA.JUMPPOINTS.HADUR",
+              "system_id": 398,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/AYR'KA.JUMPPOINTS.HADUR",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": null,
+              "appearance": "DEFAULT",
+              "designation": "Ail'ka - Yā’mon (Hadur)",
+              "distance": 45,
+              "latitude": -175.17,
+              "longitude": -81.23,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1341,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 2175,
+                  "system_id": 377,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/377",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADUR.JUMPPOINTS.AYR'KA",
+                  "status": "P",
+                  "code": "HADUR.JUMPPOINTS.AYR'KA",
+                  "designation": "Yā’mon (Hadur) - Ail'ka"
+                },
+                "exit": {
+                  "id": 2270,
+                  "system_id": 398,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/398",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/AYR'KA.JUMPPOINTS.HADUR",
+                  "status": "P",
+                  "code": "AYR'KA.JUMPPOINTS.HADUR",
+                  "designation": "Ail'ka - Yā’mon (Hadur)"
+                }
+              },
+              "time_modified": "2018-11-14T19:49:21.000000Z"
+            }
+          },
+          {
+            "id": 1378,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2269,
+              "system_id": 398,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/398",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/AYR'KA.JUMPPOINTS.INDRA",
+              "status": "P",
+              "code": "AYR'KA.JUMPPOINTS.INDRA",
+              "designation": "Ail'ka - Kyuk’ya (Indra)"
+            },
+            "exit": {
+              "id": 2274,
+              "system_id": 399,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/399",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/INDRA.JUMPPOINTS.AYR'KA",
+              "status": "P",
+              "code": "INDRA.JUMPPOINTS.AYR'KA",
+              "designation": "Kyuk’ya (Indra) - Ail'ka"
+            }
+          }
+        ],
+        "updated_at": "2018-11-14T18:51:33.000000Z"
+      },
+      {
+        "id": 384,
+        "code": "BACCHUS",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/BACCHUS",
+        "name": "Bacchus",
+        "status": "P",
+        "type": "BINARY",
+        "position": {
+          "x": 21.18,
+          "y": -67.47,
+          "z": 36.86
+        },
+        "frost_line": 5.32,
+        "habitable_zone_inner": 1.12,
+        "habitable_zone_outer": 1.92,
+        "info_url": null,
+        "description": {
+          "de_DE": "Viele in der UEE glauben, dass Bacchus, ein Doppelsternsystem, die Heimatwelt der Banu enthält, obwohl die Banu selbst bis heute nicht in der Lage waren oder sich entschieden haben, dies nicht auf die eine oder andere Weise zu bestätigen. Wie bei den meisten Banu-Systemen sind die Handelsrouten immer voll mit Reisenden aus dem Raum der Banu, der Menschen und Xi'An. Eine große permanente Flottille in den Außenbereichen des Systems ist ein beliebtes Ziel für Schlepper und Händler.",
+          "en_EN": "Many in the UEE believe that Bacchus, a binary star system, contains the Banu’s homeworld, though, to date, the Banu themselves have not been able to or have chosen not to confirm one way or another. Like with most Banu systems, the trade lanes are always packed with travellers from Banu, Human and Xi’An space. A large permanent flotilla in the system’s outer reaches is a popular destination for haulers and traders.",
+          "zh_CN": "Many in the UEE believe that Bacchus, a binary star system, contains the Banu’s homeworld, though, to date, the Banu themselves have not been able to or have chosen not to confirm one way or another. Like with most Banu systems, the trade lanes are always packed with travellers from Banu, Human and Xi’An space. A large permanent flotilla in the system’s outer reaches is a popular destination for haulers and traders."
+        },
+        "aggregated": {
+          "size": 5.7,
+          "population": 8.54,
+          "economy": 3.37,
+          "danger": 0,
+          "stars": 2,
+          "planets": 3,
+          "moons": 0,
+          "stations": 1
+        },
+        "affiliation": [
+          {
+            "id": 2,
+            "name": "Banu",
+            "code": "BANU",
+            "color": "#ffce17"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1356,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 2205,
+              "system_id": 384,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/384",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BACCHUS.JUMPPOINTS.GARRON",
+              "status": "P",
+              "code": "BACCHUS.JUMPPOINTS.GARRON",
+              "designation": "Bacchus - Garron"
+            },
+            "exit": {
+              "id": 2350,
+              "system_id": 412,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/412",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/GARRON.JUMPPOINTS.BACCHUS",
+              "status": "P",
+              "code": "GARRON.JUMPPOINTS.BACCHUS",
+              "designation": "Garron - Bacchus"
+            },
+            "celestial_object_entry": {
+              "id": 2205,
+              "code": "BACCHUS.JUMPPOINTS.GARRON",
+              "system_id": 384,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/BACCHUS.JUMPPOINTS.GARRON",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Bacchus - Garron",
+              "distance": 4.8,
+              "latitude": 15,
+              "longitude": 107.66,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1356,
+                "size": "M",
+                "direction": "B",
+                "entry": {
+                  "id": 2205,
+                  "system_id": 384,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/384",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BACCHUS.JUMPPOINTS.GARRON",
+                  "status": "P",
+                  "code": "BACCHUS.JUMPPOINTS.GARRON",
+                  "designation": "Bacchus - Garron"
+                },
+                "exit": {
+                  "id": 2350,
+                  "system_id": 412,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/412",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/GARRON.JUMPPOINTS.BACCHUS",
+                  "status": "P",
+                  "code": "GARRON.JUMPPOINTS.BACCHUS",
+                  "designation": "Garron - Bacchus"
+                }
+              },
+              "time_modified": "2015-10-07T15:56:13.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2350,
+              "code": "GARRON.JUMPPOINTS.BACCHUS",
+              "system_id": 412,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/GARRON.JUMPPOINTS.BACCHUS",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Garron - Bacchus",
+              "distance": 1,
+              "latitude": -24.31,
+              "longitude": 14.93,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1356,
+                "size": "M",
+                "direction": "B",
+                "entry": {
+                  "id": 2205,
+                  "system_id": 384,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/384",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BACCHUS.JUMPPOINTS.GARRON",
+                  "status": "P",
+                  "code": "BACCHUS.JUMPPOINTS.GARRON",
+                  "designation": "Bacchus - Garron"
+                },
+                "exit": {
+                  "id": 2350,
+                  "system_id": 412,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/412",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/GARRON.JUMPPOINTS.BACCHUS",
+                  "status": "P",
+                  "code": "GARRON.JUMPPOINTS.BACCHUS",
+                  "designation": "Garron - Bacchus"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:07.000000Z"
+            }
+          },
+          {
+            "id": 1357,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2206,
+              "system_id": 384,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/384",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BACCHUS.JUMPPOINTS.GEDDON",
+              "status": "P",
+              "code": "BACCHUS.JUMPPOINTS.GEDDON",
+              "designation": "Bacchus - Geddon"
+            },
+            "exit": {
+              "id": 2235,
+              "system_id": 390,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/390",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/GEDDON.JUMPPOINTS.BACCHUS",
+              "status": "P",
+              "code": "GEDDON.JUMPPOINTS.BACCHUS",
+              "designation": "Geddon - Bacchus"
+            }
+          }
+        ],
+        "updated_at": "2018-01-13T01:32:01.000000Z"
+      },
+      {
+        "id": 342,
+        "code": "BAKER",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/BAKER",
+        "name": "Baker",
+        "status": "P",
+        "type": "BINARY",
+        "position": {
+          "x": 89.54,
+          "y": -5.42,
+          "z": -39.71
+        },
+        "frost_line": 2.45,
+        "habitable_zone_inner": 0.75,
+        "habitable_zone_outer": 1.36,
+        "info_url": null,
+        "description": {
+          "de_DE": "Obwohl das Doppelsternsystem für die wissenschaftliche Gemeinschaft von großem Interesse ist, wurde Baker von der allgemeinen Zivilbevölkerung bisher kaum genutzt. Die schlechte Platzierung der Planeten macht Terraforming unmöglich, so dass sich die spärliche Bevölkerung des Systems größtenteils auf Xenia, einen Covalex-Schifffahrtsknotenpunkt in der Nähe von Baker-III, beschränkt. Diese relative Isolation hat es zu einem idealen Ort für unterirdische Rennen gemacht, von denen das bekannteste die Able Baker Challenge ist.",
+          "en_EN": "Though the binary star system is of great interest to the scientific community, Baker has seen little use by the general civilian population. Poor placement of the planets makes terraforming impossible, and, as a result, the system’s sparse population is mostly confined to Xenia, a Covalex shipping hub near Baker-III. This relative isolation has made it an ideal spot for underground racing, the most well-known of which is the Able Baker Challenge.",
+          "zh_CN": "Though the binary star system is of great interest to the scientific community, Baker has seen little use by the general civilian population. Poor placement of the planets makes terraforming impossible, and, as a result, the system’s sparse population is mostly confined to Xenia, a Covalex shipping hub near Baker-III. This relative isolation has made it an ideal spot for underground racing, the most well-known of which is the Able Baker Challenge."
+        },
+        "aggregated": {
+          "size": 7.9,
+          "population": 7.4,
+          "economy": 2.91,
+          "danger": 0,
+          "stars": 2,
+          "planets": 4,
+          "moons": 0,
+          "stations": 1
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1243,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1853,
+              "system_id": 328,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/328",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/OSIRIS.JUMPPOINTS.BAKER",
+              "status": "P",
+              "code": "OSIRIS.JUMPPOINTS.BAKER",
+              "designation": "Osiris - Baker"
+            },
+            "exit": {
+              "id": 1946,
+              "system_id": 342,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/342",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BAKER.JUMPPOINTS.OSIRIS",
+              "status": "P",
+              "code": "BAKER.JUMPPOINTS.OSIRIS",
+              "designation": "Baker - Osiris"
+            },
+            "celestial_object_entry": {
+              "id": 1853,
+              "code": "OSIRIS.JUMPPOINTS.BAKER",
+              "system_id": 328,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/OSIRIS.JUMPPOINTS.BAKER",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Osiris - Baker",
+              "distance": 1,
+              "latitude": 17.51,
+              "longitude": -112.47,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1243,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1853,
+                  "system_id": 328,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/328",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/OSIRIS.JUMPPOINTS.BAKER",
+                  "status": "P",
+                  "code": "OSIRIS.JUMPPOINTS.BAKER",
+                  "designation": "Osiris - Baker"
+                },
+                "exit": {
+                  "id": 1946,
+                  "system_id": 342,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/342",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BAKER.JUMPPOINTS.OSIRIS",
+                  "status": "P",
+                  "code": "BAKER.JUMPPOINTS.OSIRIS",
+                  "designation": "Baker - Osiris"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 1946,
+              "code": "BAKER.JUMPPOINTS.OSIRIS",
+              "system_id": 342,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/BAKER.JUMPPOINTS.OSIRIS",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Baker - Osiris",
+              "distance": 1,
+              "latitude": 14,
+              "longitude": 172,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1243,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1853,
+                  "system_id": 328,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/328",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/OSIRIS.JUMPPOINTS.BAKER",
+                  "status": "P",
+                  "code": "OSIRIS.JUMPPOINTS.BAKER",
+                  "designation": "Osiris - Baker"
+                },
+                "exit": {
+                  "id": 1946,
+                  "system_id": 342,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/342",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BAKER.JUMPPOINTS.OSIRIS",
+                  "status": "P",
+                  "code": "BAKER.JUMPPOINTS.OSIRIS",
+                  "designation": "Baker - Osiris"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:05.000000Z"
+            }
+          },
+          {
+            "id": 1255,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1889,
+              "system_id": 333,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/333",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/TAYAC.JUMPPOINTS.BAKER",
+              "status": "P",
+              "code": "TAYAC.JUMPPOINTS.BAKER",
+              "designation": "Tayac - Baker"
+            },
+            "exit": {
+              "id": 1943,
+              "system_id": 342,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/342",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BAKER.JUMPPOINTS.TAYAC",
+              "status": "P",
+              "code": "BAKER.JUMPPOINTS.TAYAC",
+              "designation": "Baker - Tayac"
+            }
+          },
+          {
+            "id": 1275,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1944,
+              "system_id": 342,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/342",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BAKER.JUMPPOINTS.KIEL",
+              "status": "P",
+              "code": "BAKER.JUMPPOINTS.KIEL",
+              "designation": "Baker - Kiel"
+            },
+            "exit": {
+              "id": 2366,
+              "system_id": 415,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/415",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/KIEL.JUMPPOINTS.BAKER",
+              "status": "P",
+              "code": "KIEL.JUMPPOINTS.BAKER",
+              "designation": "Kiel - Baker"
+            }
+          },
+          {
+            "id": 1276,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1945,
+              "system_id": 342,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/342",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BAKER.JUMPPOINTS.HADUR",
+              "status": "P",
+              "code": "BAKER.JUMPPOINTS.HADUR",
+              "designation": "Baker - Yā’mon (Hadur)"
+            },
+            "exit": {
+              "id": 2176,
+              "system_id": 377,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/377",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADUR.JUMPPOINTS.BAKER",
+              "status": "P",
+              "code": "HADUR.JUMPPOINTS.BAKER",
+              "designation": "Yā’mon (Hadur) - Baker"
+            }
+          },
+          {
+            "id": 1277,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1947,
+              "system_id": 342,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/342",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BAKER.JUMPPOINTS.PALLAS",
+              "status": "P",
+              "code": "BAKER.JUMPPOINTS.PALLAS",
+              "designation": "Baker - Th.us’ūng (Pallas)"
+            },
+            "exit": {
+              "id": 2264,
+              "system_id": 397,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/397",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/PALLAS.JUMPPOINTS.BAKER",
+              "status": "P",
+              "code": "PALLAS.JUMPPOINTS.BAKER",
+              "designation": "Th.us’ūng (Pallas) - Baker"
+            }
+          }
+        ],
+        "updated_at": "2018-01-27T01:53:37.000000Z"
+      },
+      {
+        "id": 346,
+        "code": "BANSHEE",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/BANSHEE",
+        "name": "Banshee",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": -14.7,
+          "y": -62.06,
+          "z": -3.53
+        },
+        "frost_line": 1.11,
+        "habitable_zone_inner": 0.21,
+        "habitable_zone_outer": 0.56,
+        "info_url": null,
+        "description": {
+          "de_DE": "Banshee hat die einzigartige Besonderheit, dass es das einzige entdeckte UEE-System mit einem Pulsar in seinem Zentrum ist. Obwohl die Planeten aufgrund der intensiven Strahlung völlig unwirtlich sind, beherbergt Banshee III einige der ausgedehntesten Bergbaubetriebe in der UEE.",
+          "en_EN": "Banshee has the unique distinction of being the only UEE system discovered with a pulsar at its center. Although the planets are completely inhospitable due to the intense radiation, Banshee III is home to some of the most extensive mining operations in the UEE.",
+          "zh_CN": "Banshee has the unique distinction of being the only UEE system discovered with a pulsar at its center. Although the planets are completely inhospitable due to the intense radiation, Banshee III is home to some of the most extensive mining operations in the UEE."
+        },
+        "aggregated": {
+          "size": 55.7,
+          "population": 7.58,
+          "economy": 1.63,
+          "danger": 0,
+          "stars": 1,
+          "planets": 4,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1248,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1859,
+              "system_id": 329,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/329",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/FORA.JUMPPOINTS.BANSHEE",
+              "status": "P",
+              "code": "FORA.JUMPPOINTS.BANSHEE",
+              "designation": "Fora - Banshee"
+            },
+            "exit": {
+              "id": 1978,
+              "system_id": 346,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/346",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BANSHEE.JUMPPOINTS.FORA",
+              "status": "P",
+              "code": "BANSHEE.JUMPPOINTS.FORA",
+              "designation": "Banshee - Fora"
+            },
+            "celestial_object_entry": {
+              "id": 1859,
+              "code": "FORA.JUMPPOINTS.BANSHEE",
+              "system_id": 329,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/FORA.JUMPPOINTS.BANSHEE",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Fora - Banshee",
+              "distance": 14,
+              "latitude": 16.22,
+              "longitude": -67.48,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1248,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1859,
+                  "system_id": 329,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/329",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/FORA.JUMPPOINTS.BANSHEE",
+                  "status": "P",
+                  "code": "FORA.JUMPPOINTS.BANSHEE",
+                  "designation": "Fora - Banshee"
+                },
+                "exit": {
+                  "id": 1978,
+                  "system_id": 346,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/346",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BANSHEE.JUMPPOINTS.FORA",
+                  "status": "P",
+                  "code": "BANSHEE.JUMPPOINTS.FORA",
+                  "designation": "Banshee - Fora"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 1978,
+              "code": "BANSHEE.JUMPPOINTS.FORA",
+              "system_id": 346,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/BANSHEE.JUMPPOINTS.FORA",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": null,
+              "appearance": "DEFAULT",
+              "designation": "Banshee - Fora",
+              "distance": 4,
+              "latitude": -6.22,
+              "longitude": 112.52,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1248,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1859,
+                  "system_id": 329,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/329",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/FORA.JUMPPOINTS.BANSHEE",
+                  "status": "P",
+                  "code": "FORA.JUMPPOINTS.BANSHEE",
+                  "designation": "Fora - Banshee"
+                },
+                "exit": {
+                  "id": 1978,
+                  "system_id": 346,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/346",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BANSHEE.JUMPPOINTS.FORA",
+                  "status": "P",
+                  "code": "BANSHEE.JUMPPOINTS.FORA",
+                  "designation": "Banshee - Fora"
+                }
+              },
+              "time_modified": "2015-10-08T20:43:53.000000Z"
+            }
+          },
+          {
+            "id": 1280,
+            "size": "S",
+            "direction": "B",
+            "entry": {
+              "id": 1979,
+              "system_id": 346,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/346",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BANSHEE.JUMPPOINTS.YULIN",
+              "status": "P",
+              "code": "BANSHEE.JUMPPOINTS.YULIN",
+              "designation": "Banshee - Yulin"
+            },
+            "exit": {
+              "id": 2292,
+              "system_id": 402,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/402",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/YULIN.JUMPPOINTS.BANSHEE",
+              "status": "P",
+              "code": "YULIN.JUMPPOINTS.BANSHEE",
+              "designation": "Yulin - Banshee"
+            }
+          },
+          {
+            "id": 1281,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1980,
+              "system_id": 346,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/346",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BANSHEE.JUMPPOINTS.LEIR",
+              "status": "P",
+              "code": "BANSHEE.JUMPPOINTS.LEIR",
+              "designation": "Banshee - Leir"
+            },
+            "exit": {
+              "id": 2335,
+              "system_id": 410,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/410",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/LEIR.JUMPPOINTS.BANSHEE",
+              "status": "P",
+              "code": "LEIR.JUMPPOINTS.BANSHEE",
+              "designation": "Leir - Banshee"
+            }
+          },
+          {
+            "id": 1282,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1982,
+              "system_id": 346,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/346",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BANSHEE.JUMPPOINTS.GARRON",
+              "status": "P",
+              "code": "BANSHEE.JUMPPOINTS.GARRON",
+              "designation": "Banshee - Garron"
+            },
+            "exit": {
+              "id": 2349,
+              "system_id": 412,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/412",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/GARRON.JUMPPOINTS.BANSHEE",
+              "status": "P",
+              "code": "GARRON.JUMPPOINTS.BANSHEE",
+              "designation": "Garron - Banshee"
+            }
+          },
+          {
+            "id": 1392,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2660,
+              "system_id": 346,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/346",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BANSHEE.JUMPPOINTS.TAMSA",
+              "status": "P",
+              "code": "BANSHEE.JUMPPOINTS.TAMSA",
+              "designation": "Banshee - Tamsa"
+            },
+            "exit": {
+              "id": 2659,
+              "system_id": 422,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/422",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/TAMSA.JUMPPOINTS.BANSHEE",
+              "status": "P",
+              "code": "TAMSA.JUMPPOINTS.BANSHEE",
+              "designation": "Tamsa - Banshee"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T00:38:43.000000Z"
+      },
+      {
+        "id": 416,
+        "code": "BRANAUGH",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/BRANAUGH",
+        "name": "Branaugh",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": -3.84,
+          "y": 50.27,
+          "z": -31.54
+        },
+        "frost_line": 2.23,
+        "habitable_zone_inner": 0.43,
+        "habitable_zone_outer": 0.86,
+        "info_url": null,
+        "description": {
+          "de_DE": "Dieses nicht in Anspruch genommene System ist nur über einen kleineren Sprungpunkt zugänglich, wodurch große Schiffe daran gehindert werden, dorthin zu fahren. Aufgrund der Herausforderung, die dieser Sprungpunkt darstellte, um die notwendige Terraforming-Ausrüstung in das System zu bringen, wies die UEE Branaughs einzigen bewohnbaren Planeten schnell als unwürdig ab. Im Laufe der Jahre wurde das System zur Heimat der größten Konzentration von Tevarin-Bevölkerung.",
+          "en_EN": "This unclaimed system is only accessible through a smaller jump point, preventing large ships from travelling there. Due to the challenge this jump point created to bring the necessary terraforming equipment into the system, the UEE quickly dismissed Branaugh’s only habitable planet as unworthy of its attention. Over the years, the system has become home to the largest concentration of Tevarin people.",
+          "zh_CN": "This unclaimed system is only accessible through a smaller jump point, preventing large ships from travelling there. Due to the challenge this jump point created to bring the necessary terraforming equipment into the system, the UEE quickly dismissed Branaugh’s only habitable planet as unworthy of its attention. Over the years, the system has become home to the largest concentration of Tevarin people."
+        },
+        "aggregated": {
+          "size": 1.3,
+          "population": 8.27,
+          "economy": 1.74,
+          "danger": 0,
+          "stars": 1,
+          "planets": 3,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 8,
+            "name": "Unclaimed",
+            "code": "UNC",
+            "color": "#f6851f"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1258,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1895,
+              "system_id": 334,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/334",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.BRANAUGH",
+              "status": "P",
+              "code": "CHRONOS.JUMPPOINTS.BRANAUGH",
+              "designation": "Chronos - Branaugh"
+            },
+            "exit": {
+              "id": 2370,
+              "system_id": 416,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/416",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BRANAUGH.JUMPPOINTS.CHRONOS",
+              "status": "P",
+              "code": "BRANAUGH.JUMPPOINTS.CHRONOS",
+              "designation": "Branaugh - Chronos"
+            },
+            "celestial_object_entry": {
+              "id": 1895,
+              "code": "CHRONOS.JUMPPOINTS.BRANAUGH",
+              "system_id": 334,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.BRANAUGH",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Chronos - Branaugh",
+              "distance": 1,
+              "latitude": -13.35,
+              "longitude": -54.06,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1258,
+                "size": "M",
+                "direction": "B",
+                "entry": {
+                  "id": 1895,
+                  "system_id": 334,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/334",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.BRANAUGH",
+                  "status": "P",
+                  "code": "CHRONOS.JUMPPOINTS.BRANAUGH",
+                  "designation": "Chronos - Branaugh"
+                },
+                "exit": {
+                  "id": 2370,
+                  "system_id": 416,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/416",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BRANAUGH.JUMPPOINTS.CHRONOS",
+                  "status": "P",
+                  "code": "BRANAUGH.JUMPPOINTS.CHRONOS",
+                  "designation": "Branaugh - Chronos"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2370,
+              "code": "BRANAUGH.JUMPPOINTS.CHRONOS",
+              "system_id": 416,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/BRANAUGH.JUMPPOINTS.CHRONOS",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Branaugh - Chronos",
+              "distance": 1,
+              "latitude": 13.35,
+              "longitude": 81,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1258,
+                "size": "M",
+                "direction": "B",
+                "entry": {
+                  "id": 1895,
+                  "system_id": 334,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/334",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.BRANAUGH",
+                  "status": "P",
+                  "code": "CHRONOS.JUMPPOINTS.BRANAUGH",
+                  "designation": "Chronos - Branaugh"
+                },
+                "exit": {
+                  "id": 2370,
+                  "system_id": 416,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/416",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BRANAUGH.JUMPPOINTS.CHRONOS",
+                  "status": "P",
+                  "code": "BRANAUGH.JUMPPOINTS.CHRONOS",
+                  "designation": "Branaugh - Chronos"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:08.000000Z"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T00:39:55.000000Z"
+      },
+      {
+        "id": 331,
+        "code": "BREMEN",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/BREMEN",
+        "name": "Bremen",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": 13.61,
+          "y": 19.08,
+          "z": -6.41
+        },
+        "frost_line": 1.57,
+        "habitable_zone_inner": 0.48,
+        "habitable_zone_outer": 0.87,
+        "info_url": null,
+        "description": {
+          "de_DE": "2441 während der Expansionszeit entdeckt, bot Bremen keine exotischen Ressourcen oder einzigartige Sternenkompositionen, so dass es von vielen als \"unbeachtlich\" angesehen wurde. Das System entwickelte sich im Laufe der Jahrhunderte langsam, und abgesehen von einer gewissen Berühmtheit als Hauptverpflegungsquelle während des Zweiten Tevarin-Krieges (2603-2610) behielt es seinen bescheidenen Ruf. Kürzlich wurde enthüllt, dass diese Unschädlichkeit Bremen zu einem idealen Ausgangspunkt für die Aktivisten machte, die die Messers stürzten.",
+          "en_EN": "Discovered in 2441 during the Expansionist Era, Bremen didn’t offer any exotic resources or unique stellar compositions, so it was considered by many to be ‘unremarkable.’ The system developed slowly over the centuries and, aside from some notoriety as the main provider of rations during the Second Tevarin War (2603-2610), it retained its unassuming reputation. Recently it was revealed this innocuousness made Bremen an ideal launching place for the activists that overthrew the Messers.",
+          "zh_CN": "Discovered in 2441 during the Expansionist Era, Bremen didn’t offer any exotic resources or unique stellar compositions, so it was considered by many to be ‘unremarkable.’ The system developed slowly over the centuries and, aside from some notoriety as the main provider of rations during the Second Tevarin War (2603-2610), it retained its unassuming reputation. Recently it was revealed this innocuousness made Bremen an ideal launching place for the activists that overthrew the Messers."
+        },
+        "aggregated": {
+          "size": 6.14,
+          "population": 8.58,
+          "economy": 1.51,
+          "danger": 0,
+          "stars": 1,
+          "planets": 4,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1193,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1702,
+              "system_id": 315,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/315",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NYX.JUMPPOINTS.BREMEN",
+              "status": "P",
+              "code": "NYX.JUMPPOINTS.BREMEN",
+              "designation": "Nyx - Bremen"
+            },
+            "exit": {
+              "id": 1874,
+              "system_id": 331,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/331",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BREMEN.JUMPPOINTS.NYX",
+              "status": "P",
+              "code": "BREMEN.JUMPPOINTS.NYX",
+              "designation": "Bremen - Nyx"
+            },
+            "celestial_object_entry": {
+              "id": 1702,
+              "code": "NYX.JUMPPOINTS.BREMEN",
+              "system_id": 315,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/NYX.JUMPPOINTS.BREMEN",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Nyx - Bremen",
+              "distance": 3.4,
+              "latitude": 21,
+              "longitude": -157,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1193,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1702,
+                  "system_id": 315,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/315",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NYX.JUMPPOINTS.BREMEN",
+                  "status": "P",
+                  "code": "NYX.JUMPPOINTS.BREMEN",
+                  "designation": "Nyx - Bremen"
+                },
+                "exit": {
+                  "id": 1874,
+                  "system_id": 331,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/331",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BREMEN.JUMPPOINTS.NYX",
+                  "status": "P",
+                  "code": "BREMEN.JUMPPOINTS.NYX",
+                  "designation": "Bremen - Nyx"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:03.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 1874,
+              "code": "BREMEN.JUMPPOINTS.NYX",
+              "system_id": 331,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/BREMEN.JUMPPOINTS.NYX",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Bremen - Nyx",
+              "distance": 1,
+              "latitude": 14.16,
+              "longitude": 14.36,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1193,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1702,
+                  "system_id": 315,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/315",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NYX.JUMPPOINTS.BREMEN",
+                  "status": "P",
+                  "code": "NYX.JUMPPOINTS.BREMEN",
+                  "designation": "Nyx - Bremen"
+                },
+                "exit": {
+                  "id": 1874,
+                  "system_id": 331,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/331",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BREMEN.JUMPPOINTS.NYX",
+                  "status": "P",
+                  "code": "BREMEN.JUMPPOINTS.NYX",
+                  "designation": "Bremen - Nyx"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            }
+          },
+          {
+            "id": 1228,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1797,
+              "system_id": 322,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/322",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/VEGA.JUMPPOINTS.BREMEN",
+              "status": "P",
+              "code": "VEGA.JUMPPOINTS.BREMEN",
+              "designation": "Vega - Bremen"
+            },
+            "exit": {
+              "id": 1872,
+              "system_id": 331,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/331",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BREMEN.JUMPPOINTS.VEGA",
+              "status": "P",
+              "code": "BREMEN.JUMPPOINTS.VEGA",
+              "designation": "Bremen - Vega"
+            }
+          },
+          {
+            "id": 1252,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1873,
+              "system_id": 331,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/331",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BREMEN.JUMPPOINTS.KALLIS",
+              "status": "P",
+              "code": "BREMEN.JUMPPOINTS.KALLIS",
+              "designation": "Bremen - Kallis"
+            },
+            "exit": {
+              "id": 1903,
+              "system_id": 336,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/336",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/KALLIS.JUMPPOINTS.BREMEN",
+              "status": "P",
+              "code": "KALLIS.JUMPPOINTS.BREMEN",
+              "designation": "Kallis - Bremen"
+            }
+          },
+          {
+            "id": 1398,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 2715,
+              "system_id": 331,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/331",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BREMEN.JUMPPOINTS.TANGA",
+              "status": "P",
+              "code": "BREMEN.JUMPPOINTS.TANGA",
+              "designation": "Bremen - Tanga"
+            },
+            "exit": {
+              "id": 2714,
+              "system_id": 420,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/420",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/TANGA.JUMPPOINTS.BREMEN",
+              "status": "P",
+              "code": "TANGA.JUMPPOINTS.BREMEN",
+              "designation": "Tanga - Bremen"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:08:05.000000Z"
+      },
+      {
+        "id": 339,
+        "code": "CALIBAN",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/CALIBAN",
+        "name": "Caliban",
+        "status": "M",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": -31.41,
+          "y": -7.82,
+          "z": 3.56
+        },
+        "frost_line": 4.68,
+        "habitable_zone_inner": 0.9,
+        "habitable_zone_outer": 1.65,
+        "info_url": null,
+        "description": {
+          "de_DE": "Caliban ist ein ehemaliges UEE-System, das während des Vorstoßes von Vanduul verloren ging. Der Fall von Caliban im Jahr 2884 ist berühmt dafür, dass es das letzte Mal war, dass sich ein Vanduul-Königsschiff im UEE-Raum befand. In der darauf folgenden Schlacht wurde auch das letzte Gefecht der verlorenen Truppe gegen überwältigende Chancen ausgetragen. Mehr als sechs Jahrzehnte später sind beide Welten immer noch ein Fest für die Erntearbeiter der umherziehenden Vanduul-Clans.",
+          "en_EN": "Caliban is a former UEE system lost during the Vanduul push. The Fall of Caliban in 2884 is famous for being the last time a Vanduul Kingship was in UEE space. The ensuing battle also featured the Lost Squad’s last stand against overwhelming odds. Over six decades later, both worlds remain a feast for the harvesters of roaming Vanduul Clans.",
+          "zh_CN": "Caliban is a former UEE system lost during the Vanduul push. The Fall of Caliban in 2884 is famous for being the last time a Vanduul Kingship was in UEE space. The ensuing battle also featured the Lost Squad’s last stand against overwhelming odds. Over six decades later, both worlds remain a feast for the harvesters of roaming Vanduul Clans."
+        },
+        "aggregated": {
+          "size": 5.89,
+          "population": 7.21,
+          "economy": 1.63,
+          "danger": 0,
+          "stars": 1,
+          "planets": 5,
+          "moons": 9,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 3,
+            "name": "Vanduul",
+            "code": "VNCL",
+            "color": "#bd002d"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1215,
+            "size": "S",
+            "direction": "B",
+            "entry": {
+              "id": 1766,
+              "system_id": 320,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CALIBAN",
+              "status": "P",
+              "code": "NUL.JUMPPOINTS.CALIBAN",
+              "designation": "Nul - Caliban"
+            },
+            "exit": {
+              "id": 1922,
+              "system_id": 339,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/339",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CALIBAN.JUMPPOINTS.NUL",
+              "status": "P",
+              "code": "CALIBAN.JUMPPOINTS.NUL",
+              "designation": "Caliban - Nul"
+            },
+            "celestial_object_entry": {
+              "id": 1766,
+              "code": "NUL.JUMPPOINTS.CALIBAN",
+              "system_id": 320,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CALIBAN",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": null,
+              "appearance": "DEFAULT",
+              "designation": "Nul - Caliban",
+              "distance": 4.1,
+              "latitude": 12,
+              "longitude": -39,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": null,
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1215,
+                "size": "S",
+                "direction": "B",
+                "entry": {
+                  "id": 1766,
+                  "system_id": 320,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CALIBAN",
+                  "status": "P",
+                  "code": "NUL.JUMPPOINTS.CALIBAN",
+                  "designation": "Nul - Caliban"
+                },
+                "exit": {
+                  "id": 1922,
+                  "system_id": 339,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/339",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CALIBAN.JUMPPOINTS.NUL",
+                  "status": "P",
+                  "code": "CALIBAN.JUMPPOINTS.NUL",
+                  "designation": "Caliban - Nul"
+                }
+              },
+              "time_modified": "2015-10-09T00:06:29.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 1922,
+              "code": "CALIBAN.JUMPPOINTS.NUL",
+              "system_id": 339,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CALIBAN.JUMPPOINTS.NUL",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Caliban - Nul",
+              "distance": 1,
+              "latitude": -20.17,
+              "longitude": 157.6,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1215,
+                "size": "S",
+                "direction": "B",
+                "entry": {
+                  "id": 1766,
+                  "system_id": 320,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CALIBAN",
+                  "status": "P",
+                  "code": "NUL.JUMPPOINTS.CALIBAN",
+                  "designation": "Nul - Caliban"
+                },
+                "exit": {
+                  "id": 1922,
+                  "system_id": 339,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/339",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CALIBAN.JUMPPOINTS.NUL",
+                  "status": "P",
+                  "code": "CALIBAN.JUMPPOINTS.NUL",
+                  "designation": "Caliban - Nul"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            }
+          },
+          {
+            "id": 1267,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1923,
+              "system_id": 339,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/339",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CALIBAN.JUMPPOINTS.VIKING",
+              "status": "P",
+              "code": "CALIBAN.JUMPPOINTS.VIKING",
+              "designation": "Caliban - Viking"
+            },
+            "exit": {
+              "id": 2185,
+              "system_id": 379,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/379",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/VIKING.JUMPPOINTS.CALIBAN",
+              "status": "P",
+              "code": "VIKING.JUMPPOINTS.CALIBAN",
+              "designation": "Viking - Caliban"
+            }
+          },
+          {
+            "id": 1268,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1924,
+              "system_id": 339,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/339",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CALIBAN.JUMPPOINTS.ORION",
+              "status": "P",
+              "code": "CALIBAN.JUMPPOINTS.ORION",
+              "designation": "Caliban - Orion"
+            },
+            "exit": {
+              "id": 2088,
+              "system_id": 360,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/360",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/ORION.JUMPPOINTS.CALIBAN",
+              "status": "P",
+              "code": "ORION.JUMPPOINTS.CALIBAN",
+              "designation": "Orion - Caliban"
+            }
+          },
+          {
+            "id": 1269,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1926,
+              "system_id": 339,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/339",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CALIBAN.JUMPPOINTS.OBERON",
+              "status": "P",
+              "code": "CALIBAN.JUMPPOINTS.OBERON",
+              "designation": "Caliban - Oberon"
+            },
+            "exit": {
+              "id": 1990,
+              "system_id": 348,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/348",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/OBERON.JUMPPOINTS.CALIBAN",
+              "status": "P",
+              "code": "OBERON.JUMPPOINTS.CALIBAN",
+              "designation": "Oberon - Caliban"
+            }
+          }
+        ],
+        "updated_at": "2018-05-23T21:59:44.000000Z"
+      },
+      {
+        "id": 418,
+        "code": "CANO",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/CANO",
+        "name": "Cano",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": 21.36,
+          "y": -8.61,
+          "z": 9.85
+        },
+        "frost_line": 5.68,
+        "habitable_zone_inner": 1.09,
+        "habitable_zone_outer": 1.93,
+        "info_url": null,
+        "description": {
+          "de_DE": "Cano ist ein Vier-Planeten-UEE-Sternsystem, das im Jahr 2463 entdeckt wurde. Die größte Population in diesem System befindet sich auf dem Planeten Carteyna (Cano II), einer Ozeanwelt, die Geoingenieure zu terraformen versuchten, bis sich in den tiefen Ozeanen entwickelndes Leben entdeckt wurde. Seitdem wurden Schutzgesetze eingeführt, und die derzeitigen Bewohner sind darauf beschränkt, in Arkologien unter der nördlichen Eiskappe zu leben.",
+          "en_EN": "Cano is a four-planet UEE star system discovered in 2463. The largest population in the system is located on the the planet Carteyna (Cano II), an ocean world that geoengineers were attempting to terraform until developing life was discovered in the deep oceans. Since then, protective laws have been put into place and the current inhabitants are restricted to living in arcologies under the northern ice cap.",
+          "zh_CN": "Cano is a four-planet UEE star system discovered in 2463. The largest population in the system is located on the the planet Carteyna (Cano II), an ocean world that geoengineers were attempting to terraform until developing life was discovered in the deep oceans. Since then, protective laws have been put into place and the current inhabitants are restricted to living in arcologies under the northern ice cap."
+        },
+        "aggregated": {
+          "size": 4.39,
+          "population": 7.96,
+          "economy": 1.63,
+          "danger": 0,
+          "stars": 1,
+          "planets": 4,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1393,
+            "size": "S",
+            "direction": "B",
+            "entry": {
+              "id": 2704,
+              "system_id": 318,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/318",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/PYRO.JUMPPOINTS.CANO",
+              "status": "P",
+              "code": "PYRO.JUMPPOINTS.CANO",
+              "designation": "Pyro - Cano"
+            },
+            "exit": {
+              "id": 2703,
+              "system_id": 418,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/418",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CANO.JUMPPOINTS.PYRO",
+              "status": "P",
+              "code": "CANO.JUMPPOINTS.PYRO",
+              "designation": "Cano - Pyro"
+            },
+            "celestial_object_entry": {
+              "id": 2704,
+              "code": "PYRO.JUMPPOINTS.CANO",
+              "system_id": 318,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/PYRO.JUMPPOINTS.CANO",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": null,
+              "habitable": null,
+              "fairchanceact": null,
+              "appearance": "DEFAULT",
+              "designation": "Pyro - Cano",
+              "distance": 0.2,
+              "latitude": -15,
+              "longitude": 160,
+              "axial_tilt": null,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump point",
+                "en_EN": "Jump point",
+                "zh_CN": "Jump point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": null,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1393,
+                "size": "S",
+                "direction": "B",
+                "entry": {
+                  "id": 2704,
+                  "system_id": 318,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/318",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/PYRO.JUMPPOINTS.CANO",
+                  "status": "P",
+                  "code": "PYRO.JUMPPOINTS.CANO",
+                  "designation": "Pyro - Cano"
+                },
+                "exit": {
+                  "id": 2703,
+                  "system_id": 418,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/418",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CANO.JUMPPOINTS.PYRO",
+                  "status": "P",
+                  "code": "CANO.JUMPPOINTS.PYRO",
+                  "designation": "Cano - Pyro"
+                }
+              },
+              "time_modified": "2015-10-13T19:39:15.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2703,
+              "code": "CANO.JUMPPOINTS.PYRO",
+              "system_id": 418,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CANO.JUMPPOINTS.PYRO",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": null,
+              "habitable": null,
+              "fairchanceact": null,
+              "appearance": "DEFAULT",
+              "designation": "Cano - Pyro",
+              "distance": 3,
+              "latitude": 15,
+              "longitude": 270,
+              "axial_tilt": null,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump point",
+                "en_EN": "Jump point",
+                "zh_CN": "Jump point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": null,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1393,
+                "size": "S",
+                "direction": "B",
+                "entry": {
+                  "id": 2704,
+                  "system_id": 318,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/318",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/PYRO.JUMPPOINTS.CANO",
+                  "status": "P",
+                  "code": "PYRO.JUMPPOINTS.CANO",
+                  "designation": "Pyro - Cano"
+                },
+                "exit": {
+                  "id": 2703,
+                  "system_id": 418,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/418",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CANO.JUMPPOINTS.PYRO",
+                  "status": "P",
+                  "code": "CANO.JUMPPOINTS.PYRO",
+                  "designation": "Cano - Pyro"
+                }
+              },
+              "time_modified": "2015-10-13T19:39:26.000000Z"
+            }
+          },
+          {
+            "id": 1394,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 2706,
+              "system_id": 340,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/340",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/DAVIEN.JUMPPOINTS.CANO",
+              "status": "P",
+              "code": "DAVIEN.JUMPPOINTS.CANO",
+              "designation": "Davien - Cano"
+            },
+            "exit": {
+              "id": 2705,
+              "system_id": 418,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/418",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CANO.JUMPPOINTS.DAVIEN",
+              "status": "P",
+              "code": "CANO.JUMPPOINTS.DAVIEN",
+              "designation": "Cano - Davien"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:14:47.000000Z"
+      },
+      {
+        "id": 337,
+        "code": "CASTRA",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/CASTRA",
+        "name": "Castra",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": 40.19,
+          "y": 18.96,
+          "z": 21.06
+        },
+        "frost_line": 52.6,
+        "habitable_zone_inner": 16.12,
+        "habitable_zone_outer": 29.19,
+        "info_url": null,
+        "description": {
+          "de_DE": "Castra, das als Sammelpunkt für Marinebomber vorgesehen war, war während der Spannungen zwischen Xi'An und den Menschen in den Jahren 2530-2789 eine militärische Schlüsselposition entlang der Perry-Linie. Nachdem der Akari-Vertrag von Imperator Toi anerkannt worden war, entmilitarisierte das Militär der UEE das System weitgehend und öffnete es für die Öffentlichkeit. Castra erlebte dank der preiswerten Immobilien, die sich nach dem Abzug des Militärs öffneten, einen Bevölkerungsboom.",
+          "en_EN": "Zoned as a staging area for Naval bombers, Castra was a key military position along the Perry Line during the Xi’An/Human tensions of 2530-2789. Once the Akari Treaty was recognized by Imperator Toi, the UEE military largely demilitarized the system and opened it for public habitation. Castra experienced a boom in population thanks to the inexpensive real estate that opened up in the wake of the military’s departure.",
+          "zh_CN": "Zoned as a staging area for Naval bombers, Castra was a key military position along the Perry Line during the Xi’An/Human tensions of 2530-2789. Once the Akari Treaty was recognized by Imperator Toi, the UEE military largely demilitarized the system and opened it for public habitation. Castra experienced a boom in population thanks to the inexpensive real estate that opened up in the wake of the military’s departure."
+        },
+        "aggregated": {
+          "size": 22,
+          "population": 8.31,
+          "economy": 0.93,
+          "danger": 0,
+          "stars": 1,
+          "planets": 2,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1192,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1701,
+              "system_id": 315,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/315",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NYX.JUMPPOINTS.CASTRA",
+              "status": "P",
+              "code": "NYX.JUMPPOINTS.CASTRA",
+              "designation": "Nyx - Castra"
+            },
+            "exit": {
+              "id": 1909,
+              "system_id": 337,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/337",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CASTRA.JUMPPOINTS.NYX",
+              "status": "P",
+              "code": "CASTRA.JUMPPOINTS.NYX",
+              "designation": "Castra - Nyx"
+            },
+            "celestial_object_entry": {
+              "id": 1701,
+              "code": "NYX.JUMPPOINTS.CASTRA",
+              "system_id": 315,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/NYX.JUMPPOINTS.CASTRA",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Nyx - Castra",
+              "distance": 3.1,
+              "latitude": -8,
+              "longitude": -133,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1192,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1701,
+                  "system_id": 315,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/315",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NYX.JUMPPOINTS.CASTRA",
+                  "status": "P",
+                  "code": "NYX.JUMPPOINTS.CASTRA",
+                  "designation": "Nyx - Castra"
+                },
+                "exit": {
+                  "id": 1909,
+                  "system_id": 337,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/337",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CASTRA.JUMPPOINTS.NYX",
+                  "status": "P",
+                  "code": "CASTRA.JUMPPOINTS.NYX",
+                  "designation": "Castra - Nyx"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:03.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 1909,
+              "code": "CASTRA.JUMPPOINTS.NYX",
+              "system_id": 337,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CASTRA.JUMPPOINTS.NYX",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Castra - Nyx",
+              "distance": 8,
+              "latitude": -15.06,
+              "longitude": 127.76,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1192,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1701,
+                  "system_id": 315,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/315",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NYX.JUMPPOINTS.CASTRA",
+                  "status": "P",
+                  "code": "NYX.JUMPPOINTS.CASTRA",
+                  "designation": "Nyx - Castra"
+                },
+                "exit": {
+                  "id": 1909,
+                  "system_id": 337,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/337",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CASTRA.JUMPPOINTS.NYX",
+                  "status": "P",
+                  "code": "CASTRA.JUMPPOINTS.NYX",
+                  "designation": "Castra - Nyx"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            }
+          },
+          {
+            "id": 1211,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1743,
+              "system_id": 318,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/318",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/PYRO.JUMPPOINTS.CASTRA",
+              "status": "P",
+              "code": "PYRO.JUMPPOINTS.CASTRA",
+              "designation": "Pyro - Castra"
+            },
+            "exit": {
+              "id": 1906,
+              "system_id": 337,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/337",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CASTRA.JUMPPOINTS.PYRO",
+              "status": "P",
+              "code": "CASTRA.JUMPPOINTS.PYRO",
+              "designation": "Castra - Pyro"
+            }
+          },
+          {
+            "id": 1254,
+            "size": "S",
+            "direction": "B",
+            "entry": {
+              "id": 1878,
+              "system_id": 332,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/332",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/OSO.JUMPPOINTS.CASTRA",
+              "status": "P",
+              "code": "OSO.JUMPPOINTS.CASTRA",
+              "designation": "Oso - Castra"
+            },
+            "exit": {
+              "id": 1910,
+              "system_id": 337,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/337",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CASTRA.JUMPPOINTS.OSO",
+              "status": "P",
+              "code": "CASTRA.JUMPPOINTS.OSO",
+              "designation": "Castra - Oso"
+            }
+          },
+          {
+            "id": 1264,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1907,
+              "system_id": 337,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/337",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CASTRA.JUMPPOINTS.OYA",
+              "status": "P",
+              "code": "CASTRA.JUMPPOINTS.OYA",
+              "designation": "Castra - Oya"
+            },
+            "exit": {
+              "id": 2329,
+              "system_id": 409,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/409",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/OYA.JUMPPOINTS.CASTRA",
+              "status": "P",
+              "code": "OYA.JUMPPOINTS.CASTRA",
+              "designation": "Oya - Castra"
+            }
+          },
+          {
+            "id": 1265,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1908,
+              "system_id": 337,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/337",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CASTRA.JUMPPOINTS.HADRIAN",
+              "status": "P",
+              "code": "CASTRA.JUMPPOINTS.HADRIAN",
+              "designation": "Castra - Hadrian"
+            },
+            "exit": {
+              "id": 2341,
+              "system_id": 411,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/411",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADRIAN.JUMPPOINTS.CASTRA",
+              "status": "P",
+              "code": "HADRIAN.JUMPPOINTS.CASTRA",
+              "designation": "Hadrian - Castra"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:16:52.000000Z"
+      },
+      {
+        "id": 372,
+        "code": "CATHCART",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/CATHCART",
+        "name": "Cathcart",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": 26.63,
+          "y": -21.69,
+          "z": 16.41
+        },
+        "frost_line": 11.98,
+        "habitable_zone_inner": 3.67,
+        "habitable_zone_outer": 6.64,
+        "info_url": null,
+        "description": {
+          "de_DE": "Das Cathcart-System enthält keine Planeten, sondern nur eine lose Ansammlung von Asteroiden in der Nähe des theoretischen grünen Bandes des Systems, so dass es zum Schrottplatz der Galaxie wurde. Alte Raumschiffe wurden hier jahrhundertelang stillgelegt und rückgebaut. Die Navy begann mit dem Bau einer bewohnbaren Plattform, die als militärischer Transitknotenpunkt dienen sollte, gab das Projekt jedoch schließlich auf. Obwohl das System über gut befahrene Wege verfügt, sind die ausgedehnten Trümmerfelder abseits der ausgetretenen Pfade zu einem Zufluchtsort für kriminelle Elemente geworden.",
+          "en_EN": "Cathcart system contains no planets, only a loose collection of asteroids near the system’s theoretical green band, so it became the galaxy’s junkyard. Old space hulks were decommissioned and deconstructed here for centuries. The Navy began constructing a habitable platform to act as a military transit hub, but ended up abandoning the project. Even though the system has well-travelled lanes, the sprawling debris fields off the well-beaten paths have become a haven for criminal elements.",
+          "zh_CN": "Cathcart system contains no planets, only a loose collection of asteroids near the system’s theoretical green band, so it became the galaxy’s junkyard. Old space hulks were decommissioned and deconstructed here for centuries. The Navy began constructing a habitable platform to act as a military transit hub, but ended up abandoning the project. Even though the system has well-travelled lanes, the sprawling debris fields off the well-beaten paths have become a haven for criminal elements."
+        },
+        "aggregated": {
+          "size": 22,
+          "population": 0,
+          "economy": 1.28,
+          "danger": 0,
+          "stars": 1,
+          "planets": 0,
+          "moons": 0,
+          "stations": 1
+        },
+        "affiliation": [
+          {
+            "id": 8,
+            "name": "Unclaimed",
+            "code": "UNC",
+            "color": "#f6851f"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1259,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1897,
+              "system_id": 338,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/338",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADES.JUMPPOINTS.CATHCART",
+              "status": "P",
+              "code": "HADES.JUMPPOINTS.CATHCART",
+              "designation": "Hades - Cathcart"
+            },
+            "exit": {
+              "id": 2152,
+              "system_id": 372,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/372",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CATHCART.JUMPPOINTS.HADES",
+              "status": "P",
+              "code": "CATHCART.JUMPPOINTS.HADES",
+              "designation": "Cathcart - Hades"
+            },
+            "celestial_object_entry": {
+              "id": 1897,
+              "code": "HADES.JUMPPOINTS.CATHCART",
+              "system_id": 338,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADES.JUMPPOINTS.CATHCART",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Hades - Cathcart",
+              "distance": 1,
+              "latitude": -38.33,
+              "longitude": -49.1,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1259,
+                "size": "M",
+                "direction": "B",
+                "entry": {
+                  "id": 1897,
+                  "system_id": 338,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/338",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADES.JUMPPOINTS.CATHCART",
+                  "status": "P",
+                  "code": "HADES.JUMPPOINTS.CATHCART",
+                  "designation": "Hades - Cathcart"
+                },
+                "exit": {
+                  "id": 2152,
+                  "system_id": 372,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/372",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CATHCART.JUMPPOINTS.HADES",
+                  "status": "P",
+                  "code": "CATHCART.JUMPPOINTS.HADES",
+                  "designation": "Cathcart - Hades"
+                }
+              },
+              "time_modified": "2015-10-06T20:10:56.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2152,
+              "code": "CATHCART.JUMPPOINTS.HADES",
+              "system_id": 372,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CATHCART.JUMPPOINTS.HADES",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Cathcart - Hades",
+              "distance": 22,
+              "latitude": 38.33,
+              "longitude": 130.9,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1259,
+                "size": "M",
+                "direction": "B",
+                "entry": {
+                  "id": 1897,
+                  "system_id": 338,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/338",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HADES.JUMPPOINTS.CATHCART",
+                  "status": "P",
+                  "code": "HADES.JUMPPOINTS.CATHCART",
+                  "designation": "Hades - Cathcart"
+                },
+                "exit": {
+                  "id": 2152,
+                  "system_id": 372,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/372",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CATHCART.JUMPPOINTS.HADES",
+                  "status": "P",
+                  "code": "CATHCART.JUMPPOINTS.HADES",
+                  "designation": "Cathcart - Hades"
+                }
+              },
+              "time_modified": "2015-10-06T20:11:09.000000Z"
+            }
+          },
+          {
+            "id": 1260,
+            "size": "S",
+            "direction": "B",
+            "entry": {
+              "id": 1898,
+              "system_id": 372,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/372",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CATHCART.JUMPPOINTS.KILIAN",
+              "status": "P",
+              "code": "CATHCART.JUMPPOINTS.KILIAN",
+              "designation": "Cathcart - Kilian"
+            },
+            "exit": {
+              "id": 1955,
+              "system_id": 344,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/344",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/KILIAN.JUMPPOINTS.CATHCART",
+              "status": "P",
+              "code": "KILIAN.JUMPPOINTS.CATHCART",
+              "designation": "Kilian - Cathcart"
+            }
+          },
+          {
+            "id": 1262,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1900,
+              "system_id": 372,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/372",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CATHCART.JUMPPOINTS.DAVIEN",
+              "status": "P",
+              "code": "CATHCART.JUMPPOINTS.DAVIEN",
+              "designation": "Cathcart - Davien"
+            },
+            "exit": {
+              "id": 1939,
+              "system_id": 340,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/340",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/DAVIEN.JUMPPOINTS.CATHCART",
+              "status": "P",
+              "code": "DAVIEN.JUMPPOINTS.CATHCART",
+              "designation": "Davien - Cathcart"
+            }
+          },
+          {
+            "id": 1302,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2067,
+              "system_id": 357,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/357",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NEXUS.JUMPPOINTS.CATHCART",
+              "status": "P",
+              "code": "NEXUS.JUMPPOINTS.CATHCART",
+              "designation": "Nexus - Cathcart"
+            },
+            "exit": {
+              "id": 2153,
+              "system_id": 372,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/372",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CATHCART.JUMPPOINTS.NEXUS",
+              "status": "P",
+              "code": "CATHCART.JUMPPOINTS.NEXUS",
+              "designation": "Cathcart - Nexus"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:21:39.000000Z"
+      },
+      {
+        "id": 362,
+        "code": "CENTAURI",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/CENTAURI",
+        "name": "Centauri",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": -27.05,
+          "y": -27.12,
+          "z": 22.16
+        },
+        "frost_line": 7.85,
+        "habitable_zone_inner": 2.41,
+        "habitable_zone_outer": 4.35,
+        "info_url": null,
+        "description": {
+          "de_DE": "Centauri wurde 2365 entdeckt und war eines der ersten Systeme, die während der ersten interstellaren Expansion der Menschheit besiedelt wurden. Vermessungsingenieure erkannten sofort das Kolonisationspotential des dritten Planeten und beschleunigten seine Entwicklung. Centauri wurde zu einem der wichtigsten Schlachtfelder während des ersten Tevarin-Krieges (2542-2546) und wurde sogar für kurze Zeit von den Tevarin erobert. Heute ist das System hauptsächlich als menschliches Hauptquartier der MISC bekannt.",
+          "en_EN": "Discovered in 2365, Centauri was one of the first systems settled during Humanity’s initial interstellar expansion. Surveyors immediately recognized the colonization potential of the third planet and fast-tracked its development. Centauri became one of the prime battlegrounds during the first Tevarin War (2542-2546) and was even conquered by the Tevarin for a short time. These days, the system is primarily known as the Human headquarters of MISC.",
+          "zh_CN": "Discovered in 2365, Centauri was one of the first systems settled during Humanity’s initial interstellar expansion. Surveyors immediately recognized the colonization potential of the third planet and fast-tracked its development. Centauri became one of the prime battlegrounds during the first Tevarin War (2542-2546) and was even conquered by the Tevarin for a short time. These days, the system is primarily known as the Human headquarters of MISC."
+        },
+        "aggregated": {
+          "size": 10,
+          "population": 8.46,
+          "economy": 3.37,
+          "danger": 0,
+          "stars": 1,
+          "planets": 5,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1217,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1768,
+              "system_id": 320,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CENTAURI",
+              "status": "P",
+              "code": "NUL.JUMPPOINTS.CENTAURI",
+              "designation": "Nul - Centauri"
+            },
+            "exit": {
+              "id": 2099,
+              "system_id": 362,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/362",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CENTAURI.JUMPPOINTS.NUL",
+              "status": "P",
+              "code": "CENTAURI.JUMPPOINTS.NUL",
+              "designation": "Centauri - Nul"
+            },
+            "celestial_object_entry": {
+              "id": 1768,
+              "code": "NUL.JUMPPOINTS.CENTAURI",
+              "system_id": 320,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CENTAURI",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": null,
+              "appearance": "DEFAULT",
+              "designation": "Nul - Centauri",
+              "distance": 3.3,
+              "latitude": -1,
+              "longitude": -49,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": null,
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1217,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1768,
+                  "system_id": 320,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CENTAURI",
+                  "status": "P",
+                  "code": "NUL.JUMPPOINTS.CENTAURI",
+                  "designation": "Nul - Centauri"
+                },
+                "exit": {
+                  "id": 2099,
+                  "system_id": 362,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/362",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CENTAURI.JUMPPOINTS.NUL",
+                  "status": "P",
+                  "code": "CENTAURI.JUMPPOINTS.NUL",
+                  "designation": "Centauri - Nul"
+                }
+              },
+              "time_modified": "2015-10-09T00:06:05.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2099,
+              "code": "CENTAURI.JUMPPOINTS.NUL",
+              "system_id": 362,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CENTAURI.JUMPPOINTS.NUL",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Centauri - Nul",
+              "distance": 1,
+              "latitude": -39.88,
+              "longitude": -114.19,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1217,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1768,
+                  "system_id": 320,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CENTAURI",
+                  "status": "P",
+                  "code": "NUL.JUMPPOINTS.CENTAURI",
+                  "designation": "Nul - Centauri"
+                },
+                "exit": {
+                  "id": 2099,
+                  "system_id": 362,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/362",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CENTAURI.JUMPPOINTS.NUL",
+                  "status": "P",
+                  "code": "CENTAURI.JUMPPOINTS.NUL",
+                  "designation": "Centauri - Nul"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:06.000000Z"
+            }
+          },
+          {
+            "id": 1311,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2097,
+              "system_id": 362,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/362",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CENTAURI.JUMPPOINTS.ELYSIUM",
+              "status": "P",
+              "code": "CENTAURI.JUMPPOINTS.ELYSIUM",
+              "designation": "Centauri - Elysium"
+            },
+            "exit": {
+              "id": 2103,
+              "system_id": 363,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/363",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/ELYSIUM.JUMPPOINTS.CENTAURI",
+              "status": "P",
+              "code": "ELYSIUM.JUMPPOINTS.CENTAURI",
+              "designation": "Elysium - Centauri"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:21:57.000000Z"
+      },
+      {
+        "id": 407,
+        "code": "CHARON",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/CHARON",
+        "name": "Charon",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": 72.4,
+          "y": -48.43,
+          "z": 13.66
+        },
+        "frost_line": 2.84,
+        "habitable_zone_inner": 0.56,
+        "habitable_zone_outer": 1.1,
+        "info_url": null,
+        "description": {
+          "de_DE": "Das Ende des 25. Jahrhunderts entdeckte ferngesteuerte System war die Heimat der berüchtigtsten Gefängnisse der Messers. Kurz nach dem Sturz der Messers, als deklassierte Daten über die im System begangenen Gräueltaten ans Licht kamen, verzichtete der Gouverneursrat von Charon III offiziell auf ihre Anerkennung durch die UEE und wurde damit der erste und einzige Planet, der dies tat. Seitdem befindet sich der Planet in einem nahezu konstanten Zustand des Aufruhrs, da verschiedene Fraktionen um die politische und soziale Vorherrschaft gekämpft haben.",
+          "en_EN": "Discovered late in the 25th century, the remote system was home to the Messers’ most notorious prisons. Shortly after the fall of the Messers, when declassified data of the atrocities committed in the system came to light, the Governors Council of Charon III officially renounced their recognition by the UEE, becoming the first and only planet to do so. Since then, the planet has been in a near constant state of turmoil as various factions have battled for political and social dominance.",
+          "zh_CN": "Discovered late in the 25th century, the remote system was home to the Messers’ most notorious prisons. Shortly after the fall of the Messers, when declassified data of the atrocities committed in the system came to light, the Governors Council of Charon III officially renounced their recognition by the UEE, becoming the first and only planet to do so. Since then, the planet has been in a near constant state of turmoil as various factions have battled for political and social dominance."
+        },
+        "aggregated": {
+          "size": 5.78,
+          "population": 8.42,
+          "economy": 1.74,
+          "danger": 0,
+          "stars": 1,
+          "planets": 5,
+          "moons": 3,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1234,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1833,
+              "system_id": 325,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/325",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HELIOS.JUMPPOINTS.CHARON",
+              "status": "P",
+              "code": "HELIOS.JUMPPOINTS.CHARON",
+              "designation": "Helios - Charon"
+            },
+            "exit": {
+              "id": 2317,
+              "system_id": 407,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/407",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHARON.JUMPPOINTS.HELIOS",
+              "status": "P",
+              "code": "CHARON.JUMPPOINTS.HELIOS",
+              "designation": "Charon - Helios"
+            },
+            "celestial_object_entry": {
+              "id": 1833,
+              "code": "HELIOS.JUMPPOINTS.CHARON",
+              "system_id": 325,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/HELIOS.JUMPPOINTS.CHARON",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Helios - Charon",
+              "distance": 29,
+              "latitude": -11,
+              "longitude": -70,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1234,
+                "size": "M",
+                "direction": "B",
+                "entry": {
+                  "id": 1833,
+                  "system_id": 325,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/325",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HELIOS.JUMPPOINTS.CHARON",
+                  "status": "P",
+                  "code": "HELIOS.JUMPPOINTS.CHARON",
+                  "designation": "Helios - Charon"
+                },
+                "exit": {
+                  "id": 2317,
+                  "system_id": 407,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/407",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHARON.JUMPPOINTS.HELIOS",
+                  "status": "P",
+                  "code": "CHARON.JUMPPOINTS.HELIOS",
+                  "designation": "Charon - Helios"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2317,
+              "code": "CHARON.JUMPPOINTS.HELIOS",
+              "system_id": 407,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHARON.JUMPPOINTS.HELIOS",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Charon - Helios",
+              "distance": 1,
+              "latitude": -21.23,
+              "longitude": 154.6,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1234,
+                "size": "M",
+                "direction": "B",
+                "entry": {
+                  "id": 1833,
+                  "system_id": 325,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/325",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/HELIOS.JUMPPOINTS.CHARON",
+                  "status": "P",
+                  "code": "HELIOS.JUMPPOINTS.CHARON",
+                  "designation": "Helios - Charon"
+                },
+                "exit": {
+                  "id": 2317,
+                  "system_id": 407,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/407",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHARON.JUMPPOINTS.HELIOS",
+                  "status": "P",
+                  "code": "CHARON.JUMPPOINTS.HELIOS",
+                  "designation": "Charon - Helios"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:07.000000Z"
+            }
+          },
+          {
+            "id": 1283,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1984,
+              "system_id": 347,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/347",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/TYROL.JUMPPOINTS.CHARON",
+              "status": "P",
+              "code": "TYROL.JUMPPOINTS.CHARON",
+              "designation": "Tyrol - Charon"
+            },
+            "exit": {
+              "id": 2315,
+              "system_id": 407,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/407",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHARON.JUMPPOINTS.TYROL",
+              "status": "P",
+              "code": "CHARON.JUMPPOINTS.TYROL",
+              "designation": "Charon - Tyrol"
+            }
+          },
+          {
+            "id": 1349,
+            "size": "S",
+            "direction": "B",
+            "entry": {
+              "id": 2191,
+              "system_id": 381,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/381",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/KINS.JUMPPOINTS.CHARON",
+              "status": "P",
+              "code": "KINS.JUMPPOINTS.CHARON",
+              "designation": "Kins - Charon"
+            },
+            "exit": {
+              "id": 2319,
+              "system_id": 407,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/407",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHARON.JUMPPOINTS.KINS",
+              "status": "P",
+              "code": "CHARON.JUMPPOINTS.KINS",
+              "designation": "Charon - Kins"
+            }
+          },
+          {
+            "id": 1382,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2318,
+              "system_id": 407,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/407",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHARON.JUMPPOINTS.GENESIS",
+              "status": "P",
+              "code": "CHARON.JUMPPOINTS.GENESIS",
+              "designation": "Charon - Genesis"
+            },
+            "exit": {
+              "id": 2360,
+              "system_id": 414,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/414",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/GENESIS.JUMPPOINTS.CHARON",
+              "status": "P",
+              "code": "GENESIS.JUMPPOINTS.CHARON",
+              "designation": "Genesis - Charon"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:26:04.000000Z"
+      },
+      {
+        "id": 334,
+        "code": "CHRONOS",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/CHRONOS",
+        "name": "Chronos",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": -18.84,
+          "y": 54.18,
+          "z": 13.78
+        },
+        "frost_line": 5.16,
+        "habitable_zone_inner": 0.99,
+        "habitable_zone_outer": 1.79,
+        "info_url": null,
+        "description": {
+          "de_DE": "Dieses riesige, spärliche System enthält nur zwei tote Welten, die eng um den Hauptreihenstern vom Typ G im Zentrum kreisen. Die grüne Zone von Chronos war leer, was sie zum perfekten Standort für das ehrgeizige Synthworld-Projekt der UEE macht. Derzeit ist die einzige Landezone von Chronos die Archangel Station, die gebaut wurde, um den Bau von Synthworld zu beobachten und zu unterstützen. Obwohl das System aufgrund seines Ressourcenbedarfs ein verlockendes Ziel für Gesetzlose sein könnte, unterhält die UEE eine militärische Präsenz, um das Projekt zu schützen.",
+          "en_EN": "This vast, sparse system contains only two dead worlds closely circling the G-type main sequence star at the center. Chronos’ green zone was empty, making it the perfect location for the UEE’s ambitious Synthworld project. Currently, Chronos’ only landing zone is Archangel Station, which was built to observe and aid the Synthworld’s construction. Although the system’s need for resources might make it a tempting target for outlaws, the UEE maintains a military presence to safeguard the project.",
+          "zh_CN": "This vast, sparse system contains only two dead worlds closely circling the G-type main sequence star at the center. Chronos’ green zone was empty, making it the perfect location for the UEE’s ambitious Synthworld project. Currently, Chronos’ only landing zone is Archangel Station, which was built to observe and aid the Synthworld’s construction. Although the system’s need for resources might make it a tempting target for outlaws, the UEE maintains a military presence to safeguard the project."
+        },
+        "aggregated": {
+          "size": 1.27,
+          "population": 0,
+          "economy": 1.98,
+          "danger": 0,
+          "stars": 1,
+          "planets": 3,
+          "moons": 0,
+          "stations": 1
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1238,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1845,
+              "system_id": 326,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/326",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/KELLOG.JUMPPOINTS.CHRONOS",
+              "status": "P",
+              "code": "KELLOG.JUMPPOINTS.CHRONOS",
+              "designation": "Kellog - Chronos"
+            },
+            "exit": {
+              "id": 1894,
+              "system_id": 334,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/334",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.KELLOG",
+              "status": "P",
+              "code": "CHRONOS.JUMPPOINTS.KELLOG",
+              "designation": "Chronos - Kellog"
+            },
+            "celestial_object_entry": {
+              "id": 1845,
+              "code": "KELLOG.JUMPPOINTS.CHRONOS",
+              "system_id": 326,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/KELLOG.JUMPPOINTS.CHRONOS",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Kellog - Chronos",
+              "distance": 1,
+              "latitude": -55.4,
+              "longitude": -122.98,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1238,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1845,
+                  "system_id": 326,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/326",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/KELLOG.JUMPPOINTS.CHRONOS",
+                  "status": "P",
+                  "code": "KELLOG.JUMPPOINTS.CHRONOS",
+                  "designation": "Kellog - Chronos"
+                },
+                "exit": {
+                  "id": 1894,
+                  "system_id": 334,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/334",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.KELLOG",
+                  "status": "P",
+                  "code": "CHRONOS.JUMPPOINTS.KELLOG",
+                  "designation": "Chronos - Kellog"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 1894,
+              "code": "CHRONOS.JUMPPOINTS.KELLOG",
+              "system_id": 334,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.KELLOG",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Chronos - Kellog",
+              "distance": 1,
+              "latitude": 5.4,
+              "longitude": 57.02,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1238,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 1845,
+                  "system_id": 326,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/326",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/KELLOG.JUMPPOINTS.CHRONOS",
+                  "status": "P",
+                  "code": "KELLOG.JUMPPOINTS.CHRONOS",
+                  "designation": "Kellog - Chronos"
+                },
+                "exit": {
+                  "id": 1894,
+                  "system_id": 334,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/334",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.KELLOG",
+                  "status": "P",
+                  "code": "CHRONOS.JUMPPOINTS.KELLOG",
+                  "designation": "Chronos - Kellog"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:04.000000Z"
+            }
+          },
+          {
+            "id": 1258,
+            "size": "M",
+            "direction": "B",
+            "entry": {
+              "id": 1895,
+              "system_id": 334,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/334",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CHRONOS.JUMPPOINTS.BRANAUGH",
+              "status": "P",
+              "code": "CHRONOS.JUMPPOINTS.BRANAUGH",
+              "designation": "Chronos - Branaugh"
+            },
+            "exit": {
+              "id": 2370,
+              "system_id": 416,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/416",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/BRANAUGH.JUMPPOINTS.CHRONOS",
+              "status": "P",
+              "code": "BRANAUGH.JUMPPOINTS.CHRONOS",
+              "designation": "Branaugh - Chronos"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:32:48.000000Z"
+      },
+      {
+        "id": 370,
+        "code": "COREL",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/COREL",
+        "name": "Corel",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": 45.35,
+          "y": -48.69,
+          "z": 19.85
+        },
+        "frost_line": 2.77,
+        "habitable_zone_inner": 0.85,
+        "habitable_zone_outer": 1.54,
+        "info_url": null,
+        "description": {
+          "de_DE": "Das Corel-System befindet sich an der Grenze des Banu-Protektorats und ist eine der verkehrsreichsten Handelsstraßen des Reiches mit langen Schiffslinien, die darauf warten, sowohl den Zoll der UEE als auch die Handelsgilden der Banu zu passieren. Die Vermischung dieser beiden Zivilisationen ist auf Lo (Corel III) leicht zu erkennen, wo eine große Banu-Bevölkerung neben menschlichen Siedlern lebt und eine Kultur schafft, die in dieser Gegend völlig einzigartig ist. Neben Lo ist Castor (Corel IV), eine gefrorene Wüstenwelt, der einzige andere, wenn auch dünn besiedelte Planet des Systems.",
+          "en_EN": "Located on the border of the Banu Protectorate, Corel System is one of the busiest tradeways in the Empire with long lines of ships waiting to clear both UEE customs and Banu trade guilds. The blending of these two civilizations is readily apparent on Lo (Corel III), where a large Banu population lives alongside Human settlers, creating a culture that is entirely unique to the area. Besides Lo, Castor (Corel IV), a frozen desert world, is the system’s only other populated planet, albeit sparsely.",
+          "zh_CN": "Located on the border of the Banu Protectorate, Corel System is one of the busiest tradeways in the Empire with long lines of ships waiting to clear both UEE customs and Banu trade guilds. The blending of these two civilizations is readily apparent on Lo (Corel III), where a large Banu population lives alongside Human settlers, creating a culture that is entirely unique to the area. Besides Lo, Castor (Corel IV), a frozen desert world, is the system’s only other populated planet, albeit sparsely."
+        },
+        "aggregated": {
+          "size": 8.9,
+          "population": 8.6,
+          "economy": 2.21,
+          "danger": 0,
+          "stars": 1,
+          "planets": 6,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1310,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2094,
+              "system_id": 361,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/361",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NEMO.JUMPPOINTS.COREL",
+              "status": "P",
+              "code": "NEMO.JUMPPOINTS.COREL",
+              "designation": "Nemo - Corel"
+            },
+            "exit": {
+              "id": 2144,
+              "system_id": 370,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/370",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/COREL.JUMPPOINTS.NEMO",
+              "status": "P",
+              "code": "COREL.JUMPPOINTS.NEMO",
+              "designation": "Corel - Nemo"
+            },
+            "celestial_object_entry": {
+              "id": 2094,
+              "code": "NEMO.JUMPPOINTS.COREL",
+              "system_id": 361,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/NEMO.JUMPPOINTS.COREL",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Nemo - Corel",
+              "distance": 1,
+              "latitude": 33.95,
+              "longitude": 123.2,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1310,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 2094,
+                  "system_id": 361,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/361",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NEMO.JUMPPOINTS.COREL",
+                  "status": "P",
+                  "code": "NEMO.JUMPPOINTS.COREL",
+                  "designation": "Nemo - Corel"
+                },
+                "exit": {
+                  "id": 2144,
+                  "system_id": 370,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/370",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/COREL.JUMPPOINTS.NEMO",
+                  "status": "P",
+                  "code": "COREL.JUMPPOINTS.NEMO",
+                  "designation": "Corel - Nemo"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:06.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2144,
+              "code": "COREL.JUMPPOINTS.NEMO",
+              "system_id": 370,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/COREL.JUMPPOINTS.NEMO",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": false,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Corel - Nemo",
+              "distance": 1,
+              "latitude": 6,
+              "longitude": -7.8,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1310,
+                "size": "L",
+                "direction": "B",
+                "entry": {
+                  "id": 2094,
+                  "system_id": 361,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/361",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NEMO.JUMPPOINTS.COREL",
+                  "status": "P",
+                  "code": "NEMO.JUMPPOINTS.COREL",
+                  "designation": "Nemo - Corel"
+                },
+                "exit": {
+                  "id": 2144,
+                  "system_id": 370,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/370",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/COREL.JUMPPOINTS.NEMO",
+                  "status": "P",
+                  "code": "COREL.JUMPPOINTS.NEMO",
+                  "designation": "Corel - Nemo"
+                }
+              },
+              "time_modified": "2015-09-15T12:34:06.000000Z"
+            }
+          },
+          {
+            "id": 1327,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2142,
+              "system_id": 370,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/370",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/COREL.JUMPPOINTS.GENESIS",
+              "status": "P",
+              "code": "COREL.JUMPPOINTS.GENESIS",
+              "designation": "Corel - Genesis"
+            },
+            "exit": {
+              "id": 2361,
+              "system_id": 414,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/414",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/GENESIS.JUMPPOINTS.COREL",
+              "status": "P",
+              "code": "GENESIS.JUMPPOINTS.COREL",
+              "designation": "Genesis - Corel"
+            }
+          },
+          {
+            "id": 1328,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2143,
+              "system_id": 370,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/370",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/COREL.JUMPPOINTS.GEDDON",
+              "status": "P",
+              "code": "COREL.JUMPPOINTS.GEDDON",
+              "designation": "Corel - Geddon"
+            },
+            "exit": {
+              "id": 2233,
+              "system_id": 390,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/390",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/GEDDON.JUMPPOINTS.COREL",
+              "status": "P",
+              "code": "GEDDON.JUMPPOINTS.COREL",
+              "designation": "Geddon - Corel"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:36:06.000000Z"
+      },
+      {
+        "id": 369,
+        "code": "CROSHAW",
+        "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/CROSHAW",
+        "name": "Croshaw",
+        "status": "P",
+        "type": "SINGLE_STAR",
+        "position": {
+          "x": -0.53,
+          "y": -10.88,
+          "z": -0.8
+        },
+        "frost_line": 2.54,
+        "habitable_zone_inner": 0.78,
+        "habitable_zone_outer": 1.41,
+        "info_url": null,
+        "description": {
+          "de_DE": "Das \"Tor der Menschheit zum Universum\". Benannt nach Nick Croshaw, der es im Jahr 2271 entdeckte, war dies das erste System, das die Menschheit außerhalb von Sol besuchte. Die Auswirkungen der Entdeckung endeten nicht damit, denn die zur Kolonisierung des Systems notwendige Bürokratie verursachte auf der Erde eine solche Debatte, dass sie zur Gründung der UNE führte. Seitdem ist das System ein beständiger Akteur in der sozialen und politischen Entwicklung der Menschheit.",
+          "en_EN": "Humanity’s “Gateway to the Universe.” Named after Nick Croshaw, who discovered it in 2271, this was the first system visited by the Human race outside of Sol. The ramifications of the discovery didn’t end there, as the bureaucracy needed to colonize the system caused such debate on Earth that it led to the creation of the UNE. The system has been a consistent player in Humanity’s social and political development ever since.",
+          "zh_CN": "Humanity’s “Gateway to the Universe.” Named after Nick Croshaw, who discovered it in 2271, this was the first system visited by the Human race outside of Sol. The ramifications of the discovery didn’t end there, as the bureaucracy needed to colonize the system caused such debate on Earth that it led to the creation of the UNE. The system has been a consistent player in Humanity’s social and political development ever since."
+        },
+        "aggregated": {
+          "size": 8,
+          "population": 8.79,
+          "economy": 3.02,
+          "danger": 0,
+          "stars": 1,
+          "planets": 4,
+          "moons": 0,
+          "stations": 0
+        },
+        "affiliation": [
+          {
+            "id": 1,
+            "name": "UEE",
+            "code": "uee",
+            "color": "#48bbd4"
+          }
+        ],
+        "jumppoints": [
+          {
+            "id": 1213,
+            "size": "S",
+            "direction": "B",
+            "entry": {
+              "id": 1764,
+              "system_id": 320,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CROSHAW",
+              "status": "P",
+              "code": "NUL.JUMPPOINTS.CROSHAW",
+              "designation": "Nul - Croshaw"
+            },
+            "exit": {
+              "id": 2132,
+              "system_id": 369,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/369",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CROSHAW.JUMPPOINTS.NUL",
+              "status": "P",
+              "code": "CROSHAW.JUMPPOINTS.NUL",
+              "designation": "Croshaw - Nul"
+            },
+            "celestial_object_entry": {
+              "id": 1764,
+              "code": "NUL.JUMPPOINTS.CROSHAW",
+              "system_id": 320,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CROSHAW",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Nul - Croshaw",
+              "distance": 3,
+              "latitude": -5,
+              "longitude": -146,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1213,
+                "size": "S",
+                "direction": "B",
+                "entry": {
+                  "id": 1764,
+                  "system_id": 320,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CROSHAW",
+                  "status": "P",
+                  "code": "NUL.JUMPPOINTS.CROSHAW",
+                  "designation": "Nul - Croshaw"
+                },
+                "exit": {
+                  "id": 2132,
+                  "system_id": 369,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/369",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CROSHAW.JUMPPOINTS.NUL",
+                  "status": "P",
+                  "code": "CROSHAW.JUMPPOINTS.NUL",
+                  "designation": "Croshaw - Nul"
+                }
+              },
+              "time_modified": "2015-10-06T21:16:02.000000Z"
+            },
+            "celestial_object_exit": {
+              "id": 2132,
+              "code": "CROSHAW.JUMPPOINTS.NUL",
+              "system_id": 369,
+              "link": "https://api.star-citizen.wiki/api/v2/celestial-objects/CROSHAW.JUMPPOINTS.NUL",
+              "name": null,
+              "type": "JUMPPOINT",
+              "age": 0,
+              "habitable": null,
+              "fairchanceact": false,
+              "appearance": "DEFAULT",
+              "designation": "Croshaw - Nul",
+              "distance": 3,
+              "latitude": -6.34,
+              "longitude": -26.68,
+              "axial_tilt": 0,
+              "orbit_period": null,
+              "info_url": null,
+              "description": {
+                "de_DE": "Jump Point",
+                "en_EN": "Jump Point",
+                "zh_CN": "Jump Point"
+              },
+              "sensor": {
+                "population": 0,
+                "economy": 0,
+                "danger": 0
+              },
+              "size": 0,
+              "parent_id": null,
+              "affiliation": [],
+              "sub_type": {
+                "id": null,
+                "name": null,
+                "type": null
+              },
+              "jumppoints": {
+                "id": 1213,
+                "size": "S",
+                "direction": "B",
+                "entry": {
+                  "id": 1764,
+                  "system_id": 320,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/320",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/NUL.JUMPPOINTS.CROSHAW",
+                  "status": "P",
+                  "code": "NUL.JUMPPOINTS.CROSHAW",
+                  "designation": "Nul - Croshaw"
+                },
+                "exit": {
+                  "id": 2132,
+                  "system_id": 369,
+                  "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/369",
+                  "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CROSHAW.JUMPPOINTS.NUL",
+                  "status": "P",
+                  "code": "CROSHAW.JUMPPOINTS.NUL",
+                  "designation": "Croshaw - Nul"
+                }
+              },
+              "time_modified": "2015-10-06T21:16:12.000000Z"
+            }
+          },
+          {
+            "id": 1285,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 1994,
+              "system_id": 349,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/349",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/RHETOR.JUMPPOINTS.CROSHAW",
+              "status": "P",
+              "code": "RHETOR.JUMPPOINTS.CROSHAW",
+              "designation": "Rhetor - Croshaw"
+            },
+            "exit": {
+              "id": 2131,
+              "system_id": 369,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/369",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CROSHAW.JUMPPOINTS.RHETOR",
+              "status": "P",
+              "code": "CROSHAW.JUMPPOINTS.RHETOR",
+              "designation": "Croshaw - Rhetor"
+            }
+          },
+          {
+            "id": 1301,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2021,
+              "system_id": 355,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/355",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/SOL.JUMPPOINTS.CROSHAW",
+              "status": "P",
+              "code": "SOL.JUMPPOINTS.CROSHAW",
+              "designation": "Sol - Croshaw"
+            },
+            "exit": {
+              "id": 2129,
+              "system_id": 369,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/369",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CROSHAW.JUMPPOINTS.SOL",
+              "status": "P",
+              "code": "CROSHAW.JUMPPOINTS.SOL",
+              "designation": "Croshaw - Sol"
+            }
+          },
+          {
+            "id": 1322,
+            "size": "L",
+            "direction": "B",
+            "entry": {
+              "id": 2122,
+              "system_id": 367,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/367",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/FERRON.JUMPPOINTS.CROSHAW",
+              "status": "P",
+              "code": "FERRON.JUMPPOINTS.CROSHAW",
+              "designation": "Ferron - Croshaw"
+            },
+            "exit": {
+              "id": 2130,
+              "system_id": 369,
+              "system_api_url": "https://api.star-citizen.wiki/api/v2/starsystems/369",
+              "celestial_object_api_url": "https://api.star-citizen.wiki/api/v2/celestial-objects/CROSHAW.JUMPPOINTS.FERRON",
+              "status": "P",
+              "code": "CROSHAW.JUMPPOINTS.FERRON",
+              "designation": "Croshaw - Ferron"
+            }
+          }
+        ],
+        "updated_at": "2018-01-25T01:45:52.000000Z"
+      }
+    ],
+    "links": {
+      "first": "https://api.star-citizen.wiki/api/v2/starsystems?page=1",
+      "last": "https://api.star-citizen.wiki/api/v2/starsystems?page=6",
+      "prev": null,
+      "next": "https://api.star-citizen.wiki/api/v2/starsystems?page=2"
+    },
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 6,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Zurück",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/starsystems?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/starsystems?page=2",
+          "label": "2",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/starsystems?page=3",
+          "label": "3",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/starsystems?page=4",
+          "label": "4",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/starsystems?page=5",
+          "label": "5",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/starsystems?page=6",
+          "label": "6",
+          "active": false
+        },
+        {
+          "url": "https://api.star-citizen.wiki/api/v2/starsystems?page=2",
+          "label": "Weiter &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://api.star-citizen.wiki/api/v2/starsystems",
+      "per_page": 15,
+      "to": 15,
+      "total": 90
+    }
+  }
+}
