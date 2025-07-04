@@ -1,0 +1,321 @@
+{
+    "player_org_template_sc": {
+        "__comment": "This is a record for a player made organization in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. Some fields can be found within common_values. This field/value pair should be removed before exporting the new lore json. Some descriptions to follow - 'attributes' cover details about the organization such as its founding, home system, and philosophy. 'structure' defines the ranks and roles within the organization. 'notable_figures' lists key members and their roles. 'narrative' includes the organization's motto, manifesto, charter, public rules, and a history of the organization.",
+        "version": "1.0.1",
+        "created_at": "UNIX_TIMESTAMP IN SECONDS",
+        "modified_at": "UNIX_TIMESTAMP IN SECONDS",
+        "uuid": "UUID VERSION 4",
+        "type": "organization",
+        "name": "NAME OF ORGANIZATION",
+        "spectrum_id": "SPECTRUM ID OF",
+        "attributes": {
+            "archetype": "USE OPTIONS FROM common_values archetype",
+            "founded": "LORE FRIENDLY DATE YEAR-MONTH-DAY, OFFSET 930 YEARS",
+            "home_system": "HOME STAR SYSTEM OF THE ORGANIZATION (LORE FRIENDLY)",
+            "headquarters": "MAIN STATION OR CITY OF THE ORGANIZATION (LORE FRIENDLY)",
+            "alignment": "SHORT DESCRIPTION OF THE ORGANIZATION'S ALIGNMENT (e.g. 'Independent', 'Pirate', 'Military')",
+            "focus": [
+                "USE OPTIONS FROM common_values org_focus"
+            ],
+            "symbolism": "DEFINING SYMBOLS OR ICONS USED BY THE ORGANIZATION",
+            "theme": "PRIMARY THEME OR MOTIF OF THE ORGANIZATION (e.g. 'spiritual navigation', 'underhanded trade', 'cosmic discovery', 'search and rescue')",
+            "logo_url": "URL TO PUBLIC LOGO IMAGE",
+            "color_branding": [
+                "PRIMARY COLOR HEX CODE OR DESCRIPTION",
+                "SECONDARY COLOR HEX CODE OR DESCRIPTION",
+                "TERTIARY COLOR HEX CODE OR DESCRIPTION"
+            ]
+        },
+        "structure": {
+            "ranks": {
+                "rank0": "NAME OF THE LOWEST RANK",
+                "rank1": "NAME OF THE NEXT RANK",
+                "rank2": "NAME OF THE NEXT RANK",
+                "rank3": "NAME OF THE NEXT RANK",
+                "rank4": "NAME OF THE NEXT RANK",
+                "rank5": "NAME OF THE HIGHEST RANK"
+            },
+            "roles": {
+                "founder": "NAME OF THE FOUNDER ROLE",
+                "officer": "NAME OF THE OFFICER ROLE",
+                "recruitment": "NAME OF THE RECRUITMENT ROLE",
+                "marketing": "NAME OF THE MARKETING ROLE"
+            }
+        },
+        "notable_figures": [
+            {
+                "name": "NOTEABLE FIGURE OR CHARACTER NAME",
+                "role": "THEIR ROLE IN THE ORGANIZATION (e.g. 'Founder', 'Captain', 'Recruiter')",
+                "title": "SPECIFIC TITLE OR POSITION HELD",
+                "joined": "LORE FRIENDLY DATE YEAR-MONTH-DAY, OFFSET 930 YEARS",
+                "status": "ACTIVE STATUS (e.g. 'Active', 'Retired', 'Deceased')"
+            }
+        ],
+        "narrative": {
+            "motto": "MOTTO OF THE ORGANIZATION (e.g. 'To explore the unknown, chart the unseen, and illuminate the hidden truths of the universe without disrupting its natural balance.')",
+            "manifesto": "FULL MANIFESTO OF THE ORGANIZATION (e.g. 'We are the Wayfinder, seekers of truth and explorers of the cosmos, guided by the stars and the wisdom of the ancients.')",
+            "charter": "FULL CHARTER OF THE ORGANIZATION (e.g. 'The Wayfinder is dedicated to the pursuit of knowledge, exploration, and the protection of the natural order of the universe. We operate with integrity, respect, and a commitment to the greater good.')",
+            "public_rules": [
+                "LIST OF PUBLIC RULES OR GUIDELINES FOR MEMBERS (e.g. 'Respect the natural order of the universe', 'Do not engage in piracy or unlawful activities', 'Support fellow members in their endeavors')"
+            ],
+            "short_history": "SHORT HISTORY OF THE ORGANIZATION (e.g. 'Founded in 2945, the Wayfinder has grown from a small group of explorers to a respected organization in the galaxy, known for its commitment to exploration and discovery.')",
+            "long_history": "DETAILED HISTORY OF THE ORGANIZATION (e.g. 'The Wayfinder was founded by a group of explorers who sought to chart the unknown regions of space. Over the years, it has expanded its reach and influence, becoming a key player in the exploration and discovery of new worlds and civilizations.')"
+        },
+        "tags": [
+            "LIST OF TAGS OR KEYWORDS RELATED TO THE ORGANIZATION (e.g. 'exploration', 'discovery', 'navigation', 'spirituality')"
+        ]
+    },
+    "player_character_template_sc": {
+        "__comment": "This is a player-made record for a characters in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. Some fields can be found within common_values such as status. This field/value pair should be removed before exporting the new lore json. Some descriptions to follow - 'attributes' cover details about the character such as age and homeworld. 'appearance' describes physical traits like hair and eyes. 'affiliations' lists organizations and other characters the character is connected to. 'narrative' provides a backstory, notable actions, and favorite quotes.",
+        "version": "1.0.1",
+        "created_at": "UNIX_TIMESTAMP IN SECONDS",
+        "modified_at": "UNIX_TIMESTAMP IN SECONDS",
+        "uuid": "UUID VERSION 4",
+        "type": "character",
+        "name": "NAME OF PLAYER CHARACTER",
+        "callsign": "HANDLE",
+        "attributes": {
+            "born": "YEAR-MONTH-DAY",
+            "died": "YEAR-MONTH-DAY",
+            "age": "AGE IN YEARS",
+            "gender": "CHARACTER GENDER",
+            "homeworld": "NAME OF HOMEWORLD (LORE FRIENDLY)",
+            "personality": [
+                "TRAIT1",
+                "TRAIT2",
+                "TRAIT3"
+            ],
+            "skills": [
+                "SKILL1",
+                "SKILL2",
+                "SKILL3"
+            ],
+            "profile_image_url": "URL TO PUBLIC PROFILE IMAGE"
+        },
+        "appearance": {
+            "hair": "COLOR AND STYLE",
+            "eyes": "COLOR",
+            "height": "HEIGHT IN CM",
+            "build": "BUILD TYPE (e.g., athletic, slender)",
+            "clothing": "CLOTHING STYLE"
+        },
+        "affiliations": {
+            "orgs": [
+                {
+                    "name": "NAME OF ORGANIZATION",
+                    "status": "USE OPTIONS FROM common_values status",
+                    "role": "ROLE WITHIN THE ORGANIZATION"
+                }
+            ],
+            "characters": [
+                {
+                    "name": "NAME OF CHARACTER",
+                    "status": "USE OPTIONS FROM common_values status",
+                    "relationship": "RELATIONSHIP TO PLAYER'S CHARACTER"
+                }
+            ]
+        },
+        "narrative": {
+            "short_history": "A SHORT BACKGROUND HISTORY OF THE CHARACTER",
+            "long_history": "A DETAILED BACKGROUND HISTORY OF THE CHARACTER",
+            "favorite_quotes": [
+                "QUOTE1",
+                "QUOTE2",
+                "QUOTE3"
+            ],
+            "notable_actions": [
+                "ACTION1",
+                "ACTION2",
+                "ACTION3"
+            ]
+        },
+        "tags": [
+            "LIST OF TAGS (e.g., explorer, trader, etc.)"
+        ]
+    },
+    "player_vehicle_template_sc": {
+        "__comment": "This is a player-made record for a spaceship in Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. Some fields can be found within common_values. This field/value pair should be removed before exporting the new lore json. Some descriptions to follow - 'attributes' cover details parsed from vehicle data scraped from the game as well as current equipped gear. 'customizations' can include modifications, colors, decals, etc. 'registry' may reflect where it was first logged or identified (e.g., Stanton, Terra). 'narrative' provides a backstory, notable events, and current status of the vehicle. 'assigned_crew' is a list of characters assigned to this vehicle, and 'organization' is the org it belongs to.",
+        "version": "1.0.1",
+        "created_at": "UNIX_TIMESTAMP IN SECONDS",
+        "modified_at": "UNIX_TIMESTAMP IN SECONDS",
+        "uuid": "UUID VERSION 4",
+        "type": "vehicle",
+        "name": "NAME OF VEHICLE",
+        "attributes": {
+            "serial_number": "SERIAL NUMBER (optional)",
+            "size": "USE OPTIONS FROM common_values size",
+            "type": "TYPE OF VEHICLE (e.g., Fighter, Transport, etc.)",
+            "manufacturer": "VEHICLE MANUFACTURER (e.g., Anvil, Origin, etc.)",
+            "model": "SHIP MODEL (e.g., 300i, Cutlass Black, etc.)",
+            "cargo_capacity": 0,
+            "crew_capacity": 0,
+            "max_speed": 0,
+            "armament": {
+                "shields": [
+                    "LIST OF SHIELDS EQUIPPED"
+                ],
+                "coolers": [
+                    "LIST OF COOLERS EQUIPPED"
+                ],
+                "power_plants": [
+                    "LIST OF POWER PLANTS EQUIPPED"
+                ],
+                "quantum_drives": [
+                    "LIST OF QUANTUM DRIVES EQUIPPED"
+                ],
+                "jump_drives": [
+                    "LIST OF JUMP DRIVES EQUIPPED"
+                ],
+                "radar": [
+                    "LIST OF RADARS EQUIPPED"
+                ],
+                "life_support": [
+                    "LIST OF LIFE SUPPORT SYSTEMS EQUIPPED"
+                ],
+                "weapons": [
+                    "LIST OF WEAPONS EQUIPPED"
+                ],
+                "missiles": [
+                    "LIST OF MISSILES EQUIPPED"
+                ],
+                "special_equipment": [
+                    "LIST OF SPECIAL EQUIPMENT (e.g., tractor beams, mining heads, etc.)"
+                ]
+            },
+            "customizations": {
+                "paint": "LIVERY OR PAINT SCHEME (e.g., standard, custom, etc.)",
+                "decals": [
+                    "FUTURE IMPLEMENTATION FOR DECALS"
+                ],
+                "upgrades": [
+                    "FUTURE IMPLEMENTATION FOR UPGRADES"
+                ],
+                "interior_mods": [
+                    "FUTURE IMPLEMENTATION FOR INTERIOR MODIFICATIONS"
+                ]
+            }
+        },
+        "registry": "PLANET OR LOCATION WHERE VEHICLE IS REGISTERED (e.g., Stanton, Terra, etc.)",
+        "current_owner": "NAME OF CURRENT OWNER (e.g., Player Name, Organization Name, etc.)",
+        "previous_owners": [
+            "LIST OF PREVIOUS OWNERS (e.g., Player Names, Organizations, etc.)"
+        ],
+        "assigned_crew": [
+            "LIST OF CHARACTERS ASSIGNED TO THIS VEHICLE (e.g., Player Names, NPCs, etc.)"
+        ],
+        "organization": "PRIMARY ORGANIZATION THIS VEHICLE BELONGS TO (e.g., Org Name, Player Name, etc.)",
+        "narrative": {
+            "short_history": "SHORT HISTORY OF THE VEHICLE (e.g., when it was built, notable features, etc.)",
+            "long_history": "DETAILED HISTORY OF THE VEHICLE (e.g., past owners, stories, etc.)",
+            "notable_events": [
+                "LIST OF NOTABLE EVENTS (e.g., battles, missions, etc.)"
+            ],
+            "customizations": [
+                "LIST OF CUSTOMIZATIONS (e.g., modifications, upgrades, etc.)"
+            ],
+            "condition": "CONDITION OF THE VEHICLE (e.g., new, used, heavily damaged, etc.)",
+            "status": "CURRENT STATUS OF THE VEHICLE (e.g., in service, retired, under repair, etc.)"
+        },
+        "tags": [
+            "LIST OF TAGS (e.g., combat-ready, exploration, cargo, etc.)"
+        ]
+    },
+    "player_event_template_sc": {
+        "__comment": "This is a fictional captain's log used for player-made adventures. Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template. Some fields can be found within common_values. This field/value pair should be removed before exporting the new lore json. Some descriptions to follow - 'attributes' cover details about the captain, vehicle, organization, and mission. 'narrative' includes a short and long summary of the log, related characters, organizations, vehicles, events, and the log entry itself. 'tags' can be used for categorization or themes.",
+        "version": "1.0.1",
+        "created_at": "UNIX_TIMESTAMP IN SECONDS",
+        "modified_at": "UNIX_TIMESTAMP IN SECONDS",
+        "uuid": "UUID VERSION 4",
+        "type": "event",
+        "created_by": "NAME OF PLAYER CHARACTER",
+        "name": "SHORT NAME OF EVENT",
+        "attributes": {
+            "captain_name": "NAME OF PRIMARY CAPTAIN - CHARACTER",
+            "vehicle_name": "NAME OF PRIMARY VEHICLE",
+            "organization": "NAME OF PRIMARY ORGANIZATION",
+            "location": [
+                "NAME OF LOCATION",
+                "SYSTEM NAME",
+                "PLANET NAME",
+                "MOON NAME",
+                "STATION NAME"
+            ],
+            "mission_type": [
+                "MISSION TYPE 1",
+                "MISSION TYPE 2",
+                "MISSION TYPE 3"
+            ],
+            "mission_status": "STATUS OF MISSION COMPLETION",
+            "date_time": "LORE FRIENDLY DATE YEAR-MONTH-DAY, OFFSET 930 YEARS"
+        },
+        "narrative": {
+            "short_summary": "SHORT SUMMARY OF THE EVENT",
+            "long_summary": "LONG / DETAILED SUMMARY OF THE EVENT",
+            "related_characters": [
+                "LIST OF RELATED CHARACTERS"
+            ],
+            "related_organizations": [
+                "LIST"
+            ],
+            "related_vehicles": [
+                "LIST OF RELATED VEHICLES"
+            ],
+            "related_events": [
+                "LIST OF RELATED EVENTS"
+            ],
+            "log_entry": "SHORT DESCRIPTION OF THE EVENT"
+        },
+        "tags": [
+            "LIST OF TAGS (e.g., combat, exploration, trade, etc.)"
+        ]
+    },
+    "common_values": {
+        "__comment": "This is a player-made record for commonvalues to use in lore creation for Star Citizen.  Version is the template version used to create this object and should not be changed unless structure is changed to match most recent template.",
+        "version": "1.0.0",
+        "uuid": "a239c01c-2824-4b84-a4eb-41a76541fe2d",
+        "created_at": 1724879761,
+        "modified_at": 1724879761,
+        "type": "common_values",
+        "data": {
+            "affiliation": {
+                "status": [
+                    "visible",
+                    "redacted",
+                    "hidden"
+                ]
+            },
+            "attributes": {
+                "archetype": [
+                    "Organization",
+                    "Corporation",
+                    "PMC",
+                    "Faith",
+                    "Syndicate",
+                    "Club"
+                ],
+                "focus": [
+                    "Bounty Hunting",
+                    "Engineering",
+                    "Exploration",
+                    "Freelancing",
+                    "Infiltration",
+                    "Medical",
+                    "Piracy",
+                    "Resources",
+                    "scouting",
+                    "Security",
+                    "smuggling",
+                    "Social",
+                    "Trade",
+                    "Transport"
+                ],
+                "size": [
+                    "Small",
+                    "Medium",
+                    "Large",
+                    "Capital"
+                ]
+            }
+        }
+    }
+}
